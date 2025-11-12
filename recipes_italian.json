@@ -5,27 +5,1902 @@
       "imageName": "pasta_carbonara",
       "cuisine": "Italian",
       "country": "Italy",
-      "ingredients": ["• 400g Spaghetti", "• 200g Bacon", "• 3 Eggs", "• Parmesan cheese", "• Black pepper"],
+      "ingredients": [
+        "\u2022 400g Spaghetti",
+        "\u2022 200g Bacon",
+        "\u2022 3 Eggs",
+        "\u2022 Parmesan cheese",
+        "\u2022 Black pepper"
+      ],
       "instructions": "1. Cook pasta in salted water\n2. Fry bacon until crispy\n3. Beat eggs with cheese\n4. Drain pasta, reserve water\n5. Mix hot pasta with egg mixture\n6. Add bacon and toss\n7. Season with pepper\n8. Serve immediately",
-      "requiredIngredients": ["Pasta", "Eggs"]
+      "requiredIngredients": [
+        "Pasta",
+        "Eggs"
+      ],
+      "regionalVariety": "Lazio"
     },
     {
       "name": "Margherita Pizza",
       "imageName": "margherita_pizza",
       "cuisine": "Italian",
       "country": "Italy",
-      "ingredients": ["• Pizza dough", "• Tomato sauce", "• Mozzarella", "• Fresh basil", "• Olive oil"],
-      "instructions": "1. Roll out pizza dough\n2. Spread tomato sauce\n3. Add mozzarella slices\n4. Drizzle olive oil\n5. Bake at 250°C for 10 minutes\n6. Add fresh basil\n7. Serve hot",
-      "requiredIngredients": ["Bread", "Cheese"]
+      "ingredients": [
+        "\u2022 Pizza dough",
+        "\u2022 Tomato sauce",
+        "\u2022 Mozzarella",
+        "\u2022 Fresh basil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Roll out pizza dough\n2. Spread tomato sauce\n3. Add mozzarella slices\n4. Drizzle olive oil\n5. Bake at 250\u00b0C for 10 minutes\n6. Add fresh basil\n7. Serve hot",
+      "requiredIngredients": [
+        "Bread",
+        "Cheese"
+      ],
+      "regionalVariety": "Campania"
     },
     {
       "name": "Risotto",
       "imageName": "risotto",
       "cuisine": "Italian",
       "country": "Italy",
-      "ingredients": ["• Arborio rice", "• White wine", "• Parmesan", "• Butter", "• Chicken stock"],
-      "instructions": "1. Heat stock in separate pan\n2. Sauté rice in butter\n3. Add wine and stir\n4. Add stock gradually\n5. Stir continuously\n6. Add parmesan and butter\n7. Serve creamy",
-      "requiredIngredients": ["Rice", "Cheese"]
+      "ingredients": [
+        "\u2022 Arborio rice",
+        "\u2022 White wine",
+        "\u2022 Parmesan",
+        "\u2022 Butter",
+        "\u2022 Chicken stock"
+      ],
+      "instructions": "1. Heat stock in separate pan\n2. Saut\u00e9 rice in butter\n3. Add wine and stir\n4. Add stock gradually\n5. Stir continuously\n6. Add parmesan and butter\n7. Serve creamy",
+      "requiredIngredients": [
+        "Rice",
+        "Cheese"
+      ],
+      "regionalVariety": "Lombardy"
+    },
+    {
+      "name": "Ribollita",
+      "imageName": "ribollita",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Stale bread",
+        "\u2022 Cannellini beans",
+        "\u2022 Cavolo nero (kale)",
+        "\u2022 Tomato",
+        "\u2022 Olive oil",
+        "\u2022 Garlic"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Stale bread",
+        "Cannellini beans"
+      ]
+    },
+    {
+      "name": "Panzanella",
+      "imageName": "panzanella",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Stale bread",
+        "\u2022 Tomatoes",
+        "\u2022 Cucumber",
+        "\u2022 Red onion",
+        "\u2022 Olive oil",
+        "\u2022 Basil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Stale bread",
+        "Tomatoes"
+      ]
+    },
+    {
+      "name": "Bistecca alla Fiorentina",
+      "imageName": "bistecca_alla_fiorentina",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 T-bone steak",
+        "\u2022 Olive oil",
+        "\u2022 Rosemary",
+        "\u2022 Salt",
+        "\u2022 Pepper"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "T-bone steak",
+        "Olive oil"
+      ]
+    },
+    {
+      "name": "Pappardelle al Cinghiale",
+      "imageName": "pappardelle_al_cinghiale",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Pappardelle",
+        "\u2022 Wild boar ragu",
+        "\u2022 Tomato",
+        "\u2022 Red wine",
+        "\u2022 Rosemary"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pappardelle",
+        "Wild boar ragu"
+      ]
+    },
+    {
+      "name": "Cecina",
+      "imageName": "cecina",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Chickpea flour",
+        "\u2022 Water",
+        "\u2022 Olive oil",
+        "\u2022 Salt",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Chickpea flour",
+        "Water"
+      ]
+    },
+    {
+      "name": "Pecorino & Honey Crostini",
+      "imageName": "pecorino__honey_crostini",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Pecorino cheese",
+        "\u2022 Honey",
+        "\u2022 Bread",
+        "\u2022 Olive oil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pecorino cheese",
+        "Honey"
+      ]
+    },
+    {
+      "name": "Fagioli all'uccelletto",
+      "imageName": "fagioli_alluccelletto",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Cannellini beans",
+        "\u2022 Tomato",
+        "\u2022 Sage",
+        "\u2022 Garlic",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Cannellini beans",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Schiacciata con l'uva",
+      "imageName": "schiacciata_con_luva",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Grapes",
+        "\u2022 Sugar",
+        "\u2022 Olive oil",
+        "\u2022 Yeast"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Flour",
+        "Grapes"
+      ]
+    },
+    {
+      "name": "Cantucci",
+      "imageName": "cantucci",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Almonds",
+        "\u2022 Sugar",
+        "\u2022 Eggs",
+        "\u2022 Butter"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Flour",
+        "Almonds"
+      ]
+    },
+    {
+      "name": "Arancini",
+      "imageName": "arancini",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Arborio rice",
+        "\u2022 Rag\u00f9",
+        "\u2022 Mozzarella",
+        "\u2022 Breadcrumbs",
+        "\u2022 Egg"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Arborio rice",
+        "Rag\u00f9"
+      ]
+    },
+    {
+      "name": "Pasta alla Norma",
+      "imageName": "pasta_alla_norma",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Pasta",
+        "\u2022 Eggplant",
+        "\u2022 Tomato",
+        "\u2022 Ricotta salata",
+        "\u2022 Basil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pasta",
+        "Eggplant"
+      ]
+    },
+    {
+      "name": "Caponata",
+      "imageName": "caponata",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Eggplant",
+        "\u2022 Tomato",
+        "\u2022 Capers",
+        "\u2022 Olives",
+        "\u2022 Vinegar"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Eggplant",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Sicilian Orange Salad",
+      "imageName": "sicilian_orange_salad",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Oranges",
+        "\u2022 Red onion",
+        "\u2022 Olive oil",
+        "\u2022 Olives",
+        "\u2022 Mint"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Oranges",
+        "Red onion"
+      ]
+    },
+    {
+      "name": "Cannoli",
+      "imageName": "cannoli",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Ricotta",
+        "\u2022 Sugar",
+        "\u2022 Chocolate chips",
+        "\u2022 Pastry shells",
+        "\u2022 Orange zest"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Ricotta",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "Panelle",
+      "imageName": "panelle",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Chickpea flour",
+        "\u2022 Water",
+        "\u2022 Salt",
+        "\u2022 Oil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Chickpea flour",
+        "Water"
+      ]
+    },
+    {
+      "name": "Sarde a Beccafico",
+      "imageName": "sarde_a_beccafico",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Sardines",
+        "\u2022 Breadcrumbs",
+        "\u2022 Raisins",
+        "\u2022 Pine nuts",
+        "\u2022 Parsley"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Sardines",
+        "Breadcrumbs"
+      ]
+    },
+    {
+      "name": "Pasta con le Sarde",
+      "imageName": "pasta_con_le_sarde",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Pasta",
+        "\u2022 Sardines",
+        "\u2022 Fennel",
+        "\u2022 Breadcrumbs",
+        "\u2022 Raisins"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pasta",
+        "Sardines"
+      ]
+    },
+    {
+      "name": "Granita",
+      "imageName": "granita",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Sugar",
+        "\u2022 Water",
+        "\u2022 Fruit (lemon/coffee)",
+        "\u2022 Olive oil",
+        "\u2022 Salt"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Sugar",
+        "Water"
+      ]
+    },
+    {
+      "name": "Risotto alla Milanese",
+      "imageName": "risotto_alla_milanese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Arborio rice",
+        "\u2022 Saffron",
+        "\u2022 Beef stock",
+        "\u2022 Butter",
+        "\u2022 Parmesan"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Arborio rice",
+        "Saffron"
+      ]
+    },
+    {
+      "name": "Osso Buco",
+      "imageName": "osso_buco",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Veal shanks",
+        "\u2022 Carrots",
+        "\u2022 Celery",
+        "\u2022 White wine",
+        "\u2022 Tomatoes"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Veal shanks",
+        "Carrots"
+      ]
+    },
+    {
+      "name": "Cotoletta alla Milanese",
+      "imageName": "cotoletta_alla_milanese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Veal cutlet",
+        "\u2022 Breadcrumbs",
+        "\u2022 Egg",
+        "\u2022 Butter",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Veal cutlet",
+        "Breadcrumbs"
+      ]
+    },
+    {
+      "name": "Cassoeula",
+      "imageName": "cassoeula",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Cabbage",
+        "\u2022 Tomato",
+        "\u2022 Onion",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pork",
+        "Cabbage"
+      ]
+    },
+    {
+      "name": "Polenta e Funghi",
+      "imageName": "polenta_e_funghi",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Polenta",
+        "\u2022 Mushrooms",
+        "\u2022 Garlic",
+        "\u2022 Parsley",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Polenta",
+        "Mushrooms"
+      ]
+    },
+    {
+      "name": "Pizzoccheri",
+      "imageName": "pizzoccheri",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Buckwheat pasta",
+        "\u2022 Potatoes",
+        "\u2022 Cabbage",
+        "\u2022 Butter",
+        "\u2022 Cheese"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Buckwheat pasta",
+        "Potatoes"
+      ]
+    },
+    {
+      "name": "Lasagna alla Bolognese",
+      "imageName": "lasagna_alla_bolognese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Lasagna sheets",
+        "\u2022 Rag\u00f9 (beef/pork)",
+        "\u2022 B\u00e9chamel",
+        "\u2022 Parmesan",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Lasagna sheets",
+        "Rag\u00f9 (beef/pork)"
+      ]
+    },
+    {
+      "name": "Tagliatelle al Rag\u00f9",
+      "imageName": "tagliatelle_al_rag",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Tagliatelle",
+        "\u2022 Rag\u00f9",
+        "\u2022 Parmesan",
+        "\u2022 Butter",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Tagliatelle",
+        "Rag\u00f9"
+      ]
+    },
+    {
+      "name": "Tortellini in Brodo",
+      "imageName": "tortellini_in_brodo",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Tortellini",
+        "\u2022 Chicken broth",
+        "\u2022 Parmigiano",
+        "\u2022 Prosciutto",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Tortellini",
+        "Chicken broth"
+      ]
+    },
+    {
+      "name": "Crescentine",
+      "imageName": "crescentine",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Lard",
+        "\u2022 Water",
+        "\u2022 Salt",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Flour",
+        "Lard"
+      ]
+    },
+    {
+      "name": "Piadina Romagnola",
+      "imageName": "piadina_romagnola",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Lard or olive oil",
+        "\u2022 Water",
+        "\u2022 Salt",
+        "\u2022 Prosciutto"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Flour",
+        "Lard or olive oil"
+      ]
+    },
+    {
+      "name": "Vitello Tonnato",
+      "imageName": "vitello_tonnato",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Veal",
+        "\u2022 Tuna mayonnaise",
+        "\u2022 Capers",
+        "\u2022 Lemon",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Veal",
+        "Tuna mayonnaise"
+      ]
+    },
+    {
+      "name": "Bagna Cauda",
+      "imageName": "bagna_cauda",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Anchovies",
+        "\u2022 Garlic",
+        "\u2022 Olive oil",
+        "\u2022 Bread for dipping",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Anchovies",
+        "Garlic"
+      ]
+    },
+    {
+      "name": "Agnolotti",
+      "imageName": "agnolotti",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Filled pasta",
+        "\u2022 Meat filling",
+        "\u2022 Butter",
+        "\u2022 Sage",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Filled pasta",
+        "Meat filling"
+      ]
+    },
+    {
+      "name": "Brasato al Barolo",
+      "imageName": "brasato_al_barolo",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Beef",
+        "\u2022 Barolo wine",
+        "\u2022 Carrots",
+        "\u2022 Celery",
+        "\u2022 Onions"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Beef",
+        "Barolo wine"
+      ]
+    },
+    {
+      "name": "Tajarin",
+      "imageName": "tajarin",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Egg pasta",
+        "\u2022 Butter",
+        "\u2022 Parmigiano",
+        "\u2022 Truffle (optional)",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Egg pasta",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Risi e Bisi",
+      "imageName": "risi_e_bisi",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Fresh peas",
+        "\u2022 Onion",
+        "\u2022 Butter",
+        "\u2022 Parmesan"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Rice",
+        "Fresh peas"
+      ]
+    },
+    {
+      "name": "Sarde in Saor",
+      "imageName": "sarde_in_saor",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Sardines",
+        "\u2022 Onions",
+        "\u2022 Vinegar",
+        "\u2022 Raisins",
+        "\u2022 Pine nuts"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Sardines",
+        "Onions"
+      ]
+    },
+    {
+      "name": "Risotto al Nero di Seppia",
+      "imageName": "risotto_al_nero_di_seppia",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Cuttlefish ink",
+        "\u2022 Cuttlefish",
+        "\u2022 Garlic",
+        "\u2022 White wine"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Rice",
+        "Cuttlefish ink"
+      ]
+    },
+    {
+      "name": "Baccal\u00e0 alla Vicentina",
+      "imageName": "baccal_alla_vicentina",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Salt cod",
+        "\u2022 Milk",
+        "\u2022 Onions",
+        "\u2022 Anchovies",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Salt cod",
+        "Milk"
+      ]
+    },
+    {
+      "name": "Spaghetti alle Vongole",
+      "imageName": "spaghetti_alle_vongole",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Spaghetti",
+        "\u2022 Clams",
+        "\u2022 Garlic",
+        "\u2022 White wine",
+        "\u2022 Parsley"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Spaghetti",
+        "Clams"
+      ]
+    },
+    {
+      "name": "Parmigiana di Melanzane",
+      "imageName": "parmigiana_di_melanzane",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Eggplant",
+        "\u2022 Tomato",
+        "\u2022 Mozzarella",
+        "\u2022 Parmesan",
+        "\u2022 Basil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Eggplant",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Pizza Napoletana",
+      "imageName": "pizza_napoletana",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Pizza dough",
+        "\u2022 San Marzano tomatoes",
+        "\u2022 Mozzarella di Bufala",
+        "\u2022 Basil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pizza dough",
+        "San Marzano tomatoes"
+      ]
+    },
+    {
+      "name": "Spaghetti alla Puttanesca",
+      "imageName": "spaghetti_alla_puttanesca",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Spaghetti",
+        "\u2022 Tomatoes",
+        "\u2022 Olives",
+        "\u2022 Capers",
+        "\u2022 Anchovies"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Spaghetti",
+        "Tomatoes"
+      ]
+    },
+    {
+      "name": "Cacio e Pepe",
+      "imageName": "cacio_e_pepe",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lazio",
+      "ingredients": [
+        "\u2022 Spaghetti or tonnarelli",
+        "\u2022 Pecorino Romano",
+        "\u2022 Black pepper",
+        "\u2022 Olive oil",
+        "\u2022 Salt"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Spaghetti or tonnarelli",
+        "Pecorino Romano"
+      ]
+    },
+    {
+      "name": "Amatriciana",
+      "imageName": "amatriciana",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lazio",
+      "ingredients": [
+        "\u2022 Bucatini",
+        "\u2022 Guanciale",
+        "\u2022 Tomato",
+        "\u2022 Pecorino Romano",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Bucatini",
+        "Guanciale"
+      ]
+    },
+    {
+      "name": "Carbonara",
+      "imageName": "carbonara",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lazio",
+      "ingredients": [
+        "\u2022 Spaghetti",
+        "\u2022 Eggs",
+        "\u2022 Pecorino Romano",
+        "\u2022 Guanciale",
+        "\u2022 Black pepper"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Spaghetti",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Gnocchi alla Romana",
+      "imageName": "gnocchi_alla_romana",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lazio",
+      "ingredients": [
+        "\u2022 Semolina",
+        "\u2022 Milk",
+        "\u2022 Butter",
+        "\u2022 Parmesan",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Semolina",
+        "Milk"
+      ]
+    },
+    {
+      "name": "Pesto Genovese",
+      "imageName": "pesto_genovese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Basil",
+        "\u2022 Pine nuts",
+        "\u2022 Garlic",
+        "\u2022 Olive oil",
+        "\u2022 Parmigiano"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Basil",
+        "Pine nuts"
+      ]
+    },
+    {
+      "name": "Focaccia Genovese",
+      "imageName": "focaccia_genovese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Olive oil",
+        "\u2022 Yeast",
+        "\u2022 Salt",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Flour",
+        "Olive oil"
+      ]
+    },
+    {
+      "name": "Trofie al Pesto",
+      "imageName": "trofie_al_pesto",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Trofie pasta",
+        "\u2022 Pesto",
+        "\u2022 Potatoes",
+        "\u2022 Green beans",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Trofie pasta",
+        "Pesto"
+      ]
+    },
+    {
+      "name": "Farinata",
+      "imageName": "farinata",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Chickpea flour",
+        "\u2022 Olive oil",
+        "\u2022 Water",
+        "\u2022 Salt",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Chickpea flour",
+        "Olive oil"
+      ]
+    },
+    {
+      "name": "Orecchiette con cime di rapa",
+      "imageName": "orecchiette_con_cime_di_rapa",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Orecchiette",
+        "\u2022 Turnip tops",
+        "\u2022 Garlic",
+        "\u2022 Olive oil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Orecchiette",
+        "Turnip tops"
+      ]
+    },
+    {
+      "name": "Focaccia Barese",
+      "imageName": "focaccia_barese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Tomatoes",
+        "\u2022 Olives",
+        "\u2022 Olive oil",
+        "\u2022 Yeast"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Flour",
+        "Tomatoes"
+      ]
+    },
+    {
+      "name": "Bombette Pugliesi",
+      "imageName": "bombette_pugliesi",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Pork rolls",
+        "\u2022 Breadcrumbs",
+        "\u2022 Cheese",
+        "\u2022 Herbs",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pork rolls",
+        "Breadcrumbs"
+      ]
+    },
+    {
+      "name": "Tiella di riso, patate e cozze",
+      "imageName": "tiella_di_riso_patate_e_cozze",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Potatoes",
+        "\u2022 Mussels",
+        "\u2022 Tomatoes",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Rice",
+        "Potatoes"
+      ]
+    },
+    {
+      "name": "Spaghetti and Meatballs",
+      "imageName": "spaghetti_and_meatballs",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Spaghetti",
+        "\u2022 Ground beef",
+        "\u2022 Tomato sauce",
+        "\u2022 Breadcrumbs",
+        "\u2022 Egg"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Spaghetti",
+        "Ground beef"
+      ]
+    },
+    {
+      "name": "Chicken Alfredo",
+      "imageName": "chicken_alfredo",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Fettuccine",
+        "\u2022 Cream",
+        "\u2022 Butter",
+        "\u2022 Parmesan",
+        "\u2022 Chicken"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Fettuccine",
+        "Cream"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "imageName": "garlic_bread",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Bread",
+        "\u2022 Garlic",
+        "\u2022 Butter",
+        "\u2022 Parsley",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Bread",
+        "Garlic"
+      ]
+    },
+    {
+      "name": "Eggplant Parmigiana",
+      "imageName": "eggplant_parmigiana",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Eggplant",
+        "\u2022 Tomato sauce",
+        "\u2022 Mozzarella",
+        "\u2022 Parmesan",
+        "\u2022 Breadcrumbs"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Eggplant",
+        "Tomato sauce"
+      ]
+    },
+    {
+      "name": "Baked Ziti",
+      "imageName": "baked_ziti",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Ziti pasta",
+        "\u2022 Tomato sauce",
+        "\u2022 Ricotta",
+        "\u2022 Mozzarella",
+        "\u2022 Parmesan"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Ziti pasta",
+        "Tomato sauce"
+      ]
+    },
+    {
+      "name": "Calzone",
+      "imageName": "calzone",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Pizza dough",
+        "\u2022 Ricotta",
+        "\u2022 Mozzarella",
+        "\u2022 Ham or salami",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "Prepare and measure all ingredients.\\nFollow traditional regional preparation (saut\u00e9/braise/simmer/ bake as appropriate).\\nCook main proteins or vegetables until tender and flavored.\\nCombine components (pasta, sauce, risotto, etc.) and finish with cheese/herbs where typical.\\nAdjust seasoning and serve hot.",
+      "requiredIngredients": [
+        "Pizza dough",
+        "Ricotta"
+      ]
+    },
+    {
+      "name": "Pappa al Pomodoro",
+      "imageName": "pappa_al_pomodoro",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Stale bread",
+        "\u2022 Tomatoes",
+        "\u2022 Garlic",
+        "\u2022 Basil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Stale bread",
+        "Tomatoes"
+      ]
+    },
+    {
+      "name": "Cacciucco",
+      "imageName": "cacciucco",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Mixed seafood",
+        "\u2022 Tomato",
+        "\u2022 Garlic",
+        "\u2022 Red pepper flakes",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Mixed seafood",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Lampredotto Sandwich",
+      "imageName": "lampredotto_sandwich",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Beef tripe (lampredotto)",
+        "\u2022 Bread roll",
+        "\u2022 Salsa verde",
+        "\u2022 Broth",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Beef tripe (lampredotto)",
+        "Bread roll"
+      ]
+    },
+    {
+      "name": "Pasta con i Broccoli Arriminati",
+      "imageName": "pasta_con_i_broccoli_arriminati",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Pasta",
+        "\u2022 Broccoli rabe",
+        "\u2022 Breadcrumbs",
+        "\u2022 Garlic",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Pasta",
+        "Broccoli rabe"
+      ]
+    },
+    {
+      "name": "Scaccia (Sicilian stuffed flatbread)",
+      "imageName": "scaccia_sicilian_stuffed_flatbread",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Dough",
+        "\u2022 Tomato",
+        "\u2022 Cheese",
+        "\u2022 Eggplant",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Dough",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Sfincione",
+      "imageName": "sfincione",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Thick pizza dough",
+        "\u2022 Tomato",
+        "\u2022 Anchovies",
+        "\u2022 Onion",
+        "\u2022 Breadcrumbs"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Thick pizza dough",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Panettone",
+      "imageName": "panettone",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Eggs",
+        "\u2022 Sugar",
+        "\u2022 Butter",
+        "\u2022 Candied fruit"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Flour",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Zabaione",
+      "imageName": "zabaione",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Egg yolks",
+        "\u2022 Sugar",
+        "\u2022 Marsala wine",
+        "\u2022 Vanilla",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Egg yolks",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "Zampone Modenese",
+      "imageName": "zampone_modenese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Stuffed pig trotter",
+        "\u2022 Pork",
+        "\u2022 Spices",
+        "\u2022 Lentils",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Stuffed pig trotter",
+        "Pork"
+      ]
+    },
+    {
+      "name": "Torta Barozzi",
+      "imageName": "torta_barozzi",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Almonds",
+        "\u2022 Chocolate",
+        "\u2022 Sugar",
+        "\u2022 Butter",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Almonds",
+        "Chocolate"
+      ]
+    },
+    {
+      "name": "Fritto Misto alla Piemontese",
+      "imageName": "fritto_misto_alla_piemontese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Assorted fried items",
+        "\u2022 Flour",
+        "\u2022 Eggs",
+        "\u2022 Oil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Assorted fried items",
+        "Flour"
+      ]
+    },
+    {
+      "name": "Bonet (chocolate custard)",
+      "imageName": "bonet_chocolate_custard",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Cocoa",
+        "\u2022 Eggs",
+        "\u2022 Sugar",
+        "\u2022 Amaretto biscuits",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Cocoa",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Tiramis\u00f9 (Venetian origin claim)",
+      "imageName": "tiramis_venetian_origin_claim",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Mascarpone",
+        "\u2022 Eggs",
+        "\u2022 Coffee",
+        "\u2022 Ladyfingers",
+        "\u2022 Cocoa powder"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Mascarpone",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Polpette di Pesce",
+      "imageName": "polpette_di_pesce",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Fish",
+        "\u2022 Breadcrumbs",
+        "\u2022 Egg",
+        "\u2022 Parsley",
+        "\u2022 Lemon"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Fish",
+        "Breadcrumbs"
+      ]
+    },
+    {
+      "name": "Sfogliatella",
+      "imageName": "sfogliatella",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Ricotta",
+        "\u2022 Sugar",
+        "\u2022 Candied citrus peel",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Flour",
+        "Ricotta"
+      ]
+    },
+    {
+      "name": "Taralli",
+      "imageName": "taralli",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Olive oil",
+        "\u2022 Wine",
+        "\u2022 Fennel seeds",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Flour",
+        "Olive oil"
+      ]
+    },
+    {
+      "name": "Porchetta",
+      "imageName": "porchetta",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lazio",
+      "ingredients": [
+        "\u2022 Pork belly",
+        "\u2022 Fennel",
+        "\u2022 Garlic",
+        "\u2022 Rosemary",
+        "\u2022 Salt"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Pork belly",
+        "Fennel"
+      ]
+    },
+    {
+      "name": "Suppl\u00ec (Rome)",
+      "imageName": "suppl_rome",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lazio",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Tomato sauce",
+        "\u2022 Mozzarella",
+        "\u2022 Breadcrumbs",
+        "\u2022 Egg"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Rice",
+        "Tomato sauce"
+      ]
+    },
+    {
+      "name": "Acciughe al Verde",
+      "imageName": "acciughe_al_verde",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Anchovies",
+        "\u2022 Parsley",
+        "\u2022 Garlic",
+        "\u2022 Olive oil",
+        "\u2022 Bread"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Anchovies",
+        "Parsley"
+      ]
+    },
+    {
+      "name": "Coniglio alla Ligure",
+      "imageName": "coniglio_alla_ligure",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Rabbit",
+        "\u2022 Olives",
+        "\u2022 Pine nuts",
+        "\u2022 Tomatoes",
+        "\u2022 Rosemary"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Rabbit",
+        "Olives"
+      ]
+    },
+    {
+      "name": "Cavatelli with Broccoli",
+      "imageName": "cavatelli_with_broccoli",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Cavatelli",
+        "\u2022 Broccoli",
+        "\u2022 Garlic",
+        "\u2022 Olive oil",
+        "\u2022 Chili"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Cavatelli",
+        "Broccoli"
+      ]
+    },
+    {
+      "name": "Fave e Cicoria",
+      "imageName": "fave_e_cicoria",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Fava beans",
+        "\u2022 Chicory",
+        "\u2022 Olive oil",
+        "\u2022 Garlic",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Fava beans",
+        "Chicory"
+      ]
+    },
+    {
+      "name": "Baccal\u00e0 alla Livornese",
+      "imageName": "baccal_alla_livornese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Salt cod",
+        "\u2022 Tomato",
+        "\u2022 Garlic",
+        "\u2022 Parsley",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Salt cod",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Pesto alla Trapanese",
+      "imageName": "pesto_alla_trapanese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Tomatoes",
+        "\u2022 Almonds",
+        "\u2022 Basil",
+        "\u2022 Garlic",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Tomatoes",
+        "Almonds"
+      ]
+    },
+    {
+      "name": "Zuppa Inglese",
+      "imageName": "zuppa_inglese",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Sponge cake",
+        "\u2022 Pastry cream",
+        "\u2022 Alchermes liqueur",
+        "\u2022 Chocolate",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Sponge cake",
+        "Pastry cream"
+      ]
+    },
+    {
+      "name": "Pastiera Napoletana",
+      "imageName": "pastiera_napoletana",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Campania",
+      "ingredients": [
+        "\u2022 Wheat berries",
+        "\u2022 Ricotta",
+        "\u2022 Eggs",
+        "\u2022 Sugar",
+        "\u2022 Orange blossom water"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Wheat berries",
+        "Ricotta"
+      ]
+    },
+    {
+      "name": "Torta Sbrisolona",
+      "imageName": "torta_sbrisolona",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Lombardy",
+      "ingredients": [
+        "\u2022 Almonds",
+        "\u2022 Flour",
+        "\u2022 Sugar",
+        "\u2022 Butter",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Almonds",
+        "Flour"
+      ]
+    },
+    {
+      "name": "Fegato alla Veneziana",
+      "imageName": "fegato_alla_veneziana",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Veneto",
+      "ingredients": [
+        "\u2022 Calf's liver",
+        "\u2022 Onions",
+        "\u2022 White wine",
+        "\u2022 Butter",
+        "\u2022 Parsley"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Calf's liver",
+        "Onions"
+      ]
+    },
+    {
+      "name": "Ricotta and Pears",
+      "imageName": "ricotta_and_pears",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Piedmont",
+      "ingredients": [
+        "\u2022 Ricotta",
+        "\u2022 Pear",
+        "\u2022 Honey",
+        "\u2022 Walnuts",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Ricotta",
+        "Pear"
+      ]
+    },
+    {
+      "name": "Panissa",
+      "imageName": "panissa",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Liguria",
+      "ingredients": [
+        "\u2022 Chickpea flour",
+        "\u2022 Water",
+        "\u2022 Olive oil",
+        "\u2022 Salt",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Chickpea flour",
+        "Water"
+      ]
+    },
+    {
+      "name": "Meatball Sub",
+      "imageName": "meatball_sub",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Bread roll",
+        "\u2022 Meatballs",
+        "\u2022 Tomato sauce",
+        "\u2022 Mozzarella",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Bread roll",
+        "Meatballs"
+      ]
+    },
+    {
+      "name": "New York Style Pizza Slice",
+      "imageName": "new_york_style_pizza_slice",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Pizza dough",
+        "\u2022 Tomato sauce",
+        "\u2022 Mozzarella",
+        "\u2022 Olive oil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Pizza dough",
+        "Tomato sauce"
+      ]
+    },
+    {
+      "name": "Stuffed Shells",
+      "imageName": "stuffed_shells",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Italian-American",
+      "ingredients": [
+        "\u2022 Pasta shells",
+        "\u2022 Ricotta",
+        "\u2022 Spinach",
+        "\u2022 Tomato sauce",
+        "\u2022 Mozzarella"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Pasta shells",
+        "Ricotta"
+      ]
+    },
+    {
+      "name": "Buridda",
+      "imageName": "buridda",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Apulia (Puglia)",
+      "ingredients": [
+        "\u2022 Fish stew",
+        "\u2022 Tomatoes",
+        "\u2022 Garlic",
+        "\u2022 Olive oil",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Fish stew",
+        "Tomatoes"
+      ]
+    },
+    {
+      "name": "Stracciatella Soup",
+      "imageName": "stracciatella_soup",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Emilia-Romagna",
+      "ingredients": [
+        "\u2022 Eggs",
+        "\u2022 Parmesan",
+        "\u2022 Broth",
+        "\u2022 Spinach",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Eggs",
+        "Parmesan"
+      ]
+    },
+    {
+      "name": "Granita al Caff\u00e8 con panna",
+      "imageName": "granita_al_caff_con_panna",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Sicily",
+      "ingredients": [
+        "\u2022 Coffee",
+        "\u2022 Sugar",
+        "\u2022 Water",
+        "\u2022 Whipped cream",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Coffee",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "Castagnaccio",
+      "imageName": "castagnaccio",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "regionalVariety": "Tuscany",
+      "ingredients": [
+        "\u2022 Chestnut flour",
+        "\u2022 Raisins",
+        "\u2022 Pine nuts",
+        "\u2022 Rosemary",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Prepare ingredients.\n2. Cook following regional method.\n3. Combine and finish with fresh herbs or cheese as typical.\n4. Serve.",
+      "requiredIngredients": [
+        "Chestnut flour",
+        "Raisins"
+      ]
     }
   ]
 }
