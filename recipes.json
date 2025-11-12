@@ -71,6 +71,7 @@
     {
       "name": "Dal Rice",
       "imageName": "dal_rice",
+      "youtubeURL": "https://www.youtube.com/watch?v=gQtZXZvS-lc&pp=ygUJRGFhbCByaWNl"
       "ingredients": [
         "• 1 cup Rice",
         "• 1/2 cup Dal",
@@ -88,6 +89,7 @@
     {
       "name": "Aloo Sabzi",
       "imageName": "aloo_sabzi",
+      "youtubeURL":"https://www.youtube.com/watch?v=OveP45eSKYU&pp=ygURYWxvbyBzYWJ6aSByZWNpcGU%3D"
       "ingredients": [
         "• 4 Potatoes",
         "• 1 Onion",
@@ -106,6 +108,7 @@
     {
       "name": "Rajma",
       "imageName": "rajma",
+      "youtubeURL": "https://www.youtube.com/watch?v=e7N93e5dKtM&pp=ygUMcmFqbWEgcmVjaXBl"
       "ingredients": [
         "• 1 cup Rajma (soaked overnight)",
         "• 1 Onion",
