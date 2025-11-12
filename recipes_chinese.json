@@ -5,27 +5,945 @@
       "imageName": "kung_pao_chicken",
       "cuisine": "Chinese",
       "country": "China",
-      "ingredients": ["• 500g Chicken", "• Peanuts", "• Dried chilies", "• Soy sauce", "• Ginger", "• Garlic"],
+      "ingredients": [
+        "\u2022 500g Chicken",
+        "\u2022 Peanuts",
+        "\u2022 Dried chilies",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
+      ],
       "instructions": "1. Cut chicken into cubes\n2. Marinate with soy sauce\n3. Heat oil in wok\n4. Stir-fry chicken\n5. Add chilies and peanuts\n6. Add sauce and toss\n7. Serve with rice",
-      "requiredIngredients": ["Chicken", "Peanuts"]
+      "requiredIngredients": [
+        "Chicken",
+        "Peanuts"
+      ]
     },
     {
       "name": "Fried Rice",
       "imageName": "fried_rice",
       "cuisine": "Chinese",
       "country": "China",
-      "ingredients": ["• 2 cups Cooked Rice", "• Mixed vegetables", "• Soy sauce", "• Oil", "• Garlic", "• Eggs"],
+      "ingredients": [
+        "\u2022 2 cups Cooked Rice",
+        "\u2022 Mixed vegetables",
+        "\u2022 Soy sauce",
+        "\u2022 Oil",
+        "\u2022 Garlic",
+        "\u2022 Eggs"
+      ],
       "instructions": "1. Use day-old cooked rice\n2. Heat oil in wok\n3. Add garlic, stir for 30 seconds\n4. Add vegetables, stir-fry\n5. Add rice, break lumps\n6. Add soy sauce, mix well\n7. Stir-fry for 3-4 minutes\n8. Serve hot",
-      "requiredIngredients": ["Rice"]
+      "requiredIngredients": [
+        "Rice"
+      ]
     },
     {
       "name": "Sweet and Sour Pork",
       "imageName": "sweet_sour_pork",
       "cuisine": "Chinese",
       "country": "China",
-      "ingredients": ["• Pork", "• Bell peppers", "• Pineapple", "• Sweet and sour sauce", "• Cornstarch"],
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Bell peppers",
+        "\u2022 Pineapple",
+        "\u2022 Sweet and sour sauce",
+        "\u2022 Cornstarch"
+      ],
       "instructions": "1. Cut pork into pieces\n2. Coat with cornstarch\n3. Deep fry until golden\n4. Stir-fry vegetables\n5. Add pineapple and sauce\n6. Add fried pork\n7. Toss and serve",
-      "requiredIngredients": ["Pork", "Bell Pepper"]
+      "requiredIngredients": [
+        "Pork",
+        "Bell Pepper"
+      ]
+    },
+    {
+      "name": "Mapo Tofu",
+      "imageName": "mapo_tofu",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Sichuan",
+      "ingredients": [
+        "\u2022 Tofu",
+        "\u2022 Ground pork",
+        "\u2022 Chili bean paste",
+        "\u2022 Sichuan peppercorns",
+        "\u2022 Garlic",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Tofu",
+        "Ground pork"
+      ]
+    },
+    {
+      "name": "Dan Dan Noodles",
+      "imageName": "dan_dan_noodles",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Sichuan",
+      "ingredients": [
+        "\u2022 Wheat noodles",
+        "\u2022 Minced pork",
+        "\u2022 Chili oil",
+        "\u2022 Soy sauce",
+        "\u2022 Sesame paste",
+        "\u2022 Scallions"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Wheat noodles",
+        "Minced pork"
+      ]
+    },
+    {
+      "name": "Twice Cooked Pork",
+      "imageName": "twice_cooked_pork",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Sichuan",
+      "ingredients": [
+        "\u2022 Pork belly",
+        "\u2022 Leeks",
+        "\u2022 Bean paste",
+        "\u2022 Soy sauce",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork belly",
+        "Leeks"
+      ]
+    },
+    {
+      "name": "Hot Pot",
+      "imageName": "hot_pot",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Sichuan",
+      "ingredients": [
+        "\u2022 Meat slices",
+        "\u2022 Chili broth",
+        "\u2022 Vegetables",
+        "\u2022 Tofu",
+        "\u2022 Dipping sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Meat slices",
+        "Chili broth"
+      ]
+    },
+    {
+      "name": "Kung Pao Shrimp",
+      "imageName": "kung_pao_shrimp",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Sichuan",
+      "ingredients": [
+        "\u2022 Shrimp",
+        "\u2022 Peanuts",
+        "\u2022 Dried chilies",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Shrimp",
+        "Peanuts"
+      ]
+    },
+    {
+      "name": "Spicy Eggplant",
+      "imageName": "spicy_eggplant",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Sichuan",
+      "ingredients": [
+        "\u2022 Eggplant",
+        "\u2022 Garlic",
+        "\u2022 Chili paste",
+        "\u2022 Soy sauce",
+        "\u2022 Vinegar"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Eggplant",
+        "Garlic"
+      ]
+    },
+    {
+      "name": "Char Siu",
+      "imageName": "char_siu",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Cantonese",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Honey",
+        "\u2022 Soy sauce",
+        "\u2022 Hoisin sauce",
+        "\u2022 Chinese five spice"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Honey"
+      ]
+    },
+    {
+      "name": "Steamed Fish",
+      "imageName": "steamed_fish",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Cantonese",
+      "ingredients": [
+        "\u2022 Whole fish",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Scallions",
+        "\u2022 Sesame oil"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Whole fish",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Dim Sum Dumplings",
+      "imageName": "dim_sum_dumplings",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Cantonese",
+      "ingredients": [
+        "\u2022 Shrimp",
+        "\u2022 Pork",
+        "\u2022 Wonton wrappers",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Shrimp",
+        "Pork"
+      ]
+    },
+    {
+      "name": "Roast Duck",
+      "imageName": "roast_duck",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Cantonese",
+      "ingredients": [
+        "\u2022 Duck",
+        "\u2022 Maltose syrup",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Duck",
+        "Maltose syrup"
+      ]
+    },
+    {
+      "name": "Sweet BBQ Pork Buns",
+      "imageName": "sweet_bbq_pork_buns",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Cantonese",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Oyster sauce",
+        "\u2022 Sugar",
+        "\u2022 Flour",
+        "\u2022 Yeast"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Oyster sauce"
+      ]
+    },
+    {
+      "name": "Cantonese Fried Noodles",
+      "imageName": "cantonese_fried_noodles",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Cantonese",
+      "ingredients": [
+        "\u2022 Egg noodles",
+        "\u2022 Soy sauce",
+        "\u2022 Bean sprouts",
+        "\u2022 Chicken",
+        "\u2022 Vegetables"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Egg noodles",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Chairman Mao\u2019s Pork",
+      "imageName": "chairman_mao\u2019s_pork",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Hunan",
+      "ingredients": [
+        "\u2022 Pork belly",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar",
+        "\u2022 Star anise",
+        "\u2022 Rice wine"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork belly",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Hunan Beef Stir-fry",
+      "imageName": "hunan_beef_stir-fry",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Hunan",
+      "ingredients": [
+        "\u2022 Beef",
+        "\u2022 Chilies",
+        "\u2022 Garlic",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Beef",
+        "Chilies"
+      ]
+    },
+    {
+      "name": "Steamed Fish Head with Chilies",
+      "imageName": "steamed_fish_head_with_chilies",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Hunan",
+      "ingredients": [
+        "\u2022 Fish head",
+        "\u2022 Chilies",
+        "\u2022 Garlic",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Fish head",
+        "Chilies"
+      ]
+    },
+    {
+      "name": "Spicy Smoked Tofu",
+      "imageName": "spicy_smoked_tofu",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Hunan",
+      "ingredients": [
+        "\u2022 Smoked tofu",
+        "\u2022 Chili oil",
+        "\u2022 Garlic",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Smoked tofu",
+        "Chili oil"
+      ]
+    },
+    {
+      "name": "Hunan Chicken",
+      "imageName": "hunan_chicken",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Hunan",
+      "ingredients": [
+        "\u2022 Chicken",
+        "\u2022 Dried chilies",
+        "\u2022 Garlic",
+        "\u2022 Vinegar",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Chicken",
+        "Dried chilies"
+      ]
+    },
+    {
+      "name": "Pickled Chili Pork",
+      "imageName": "pickled_chili_pork",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Hunan",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Pickled chilies",
+        "\u2022 Garlic",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Pickled chilies"
+      ]
+    },
+    {
+      "name": "Sweet and Sour Carp",
+      "imageName": "sweet_and_sour_carp",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Shandong",
+      "ingredients": [
+        "\u2022 Carp",
+        "\u2022 Vinegar",
+        "\u2022 Sugar",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Carp",
+        "Vinegar"
+      ]
+    },
+    {
+      "name": "Braised Sea Cucumber",
+      "imageName": "braised_sea_cucumber",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Shandong",
+      "ingredients": [
+        "\u2022 Sea cucumber",
+        "\u2022 Chicken stock",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Sea cucumber",
+        "Chicken stock"
+      ]
+    },
+    {
+      "name": "Dezhou Braised Chicken",
+      "imageName": "dezhou_braised_chicken",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Shandong",
+      "ingredients": [
+        "\u2022 Chicken",
+        "\u2022 Soy sauce",
+        "\u2022 Star anise",
+        "\u2022 Sugar",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Chicken",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Scallion Pancakes",
+      "imageName": "scallion_pancakes",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Shandong",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Scallions",
+        "\u2022 Oil",
+        "\u2022 Salt"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Flour",
+        "Scallions"
+      ]
+    },
+    {
+      "name": "Shandong Dumplings",
+      "imageName": "shandong_dumplings",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Shandong",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Cabbage",
+        "\u2022 Ginger",
+        "\u2022 Garlic",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Cabbage"
+      ]
+    },
+    {
+      "name": "Yellow River Catfish Soup",
+      "imageName": "yellow_river_catfish_soup",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Shandong",
+      "ingredients": [
+        "\u2022 Catfish",
+        "\u2022 Tofu",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Catfish",
+        "Tofu"
+      ]
+    },
+    {
+      "name": "Lion\u2019s Head Meatballs",
+      "imageName": "lion\u2019s_head_meatballs",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Jiangsu",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce",
+        "\u2022 Egg",
+        "\u2022 Cornstarch"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Ginger"
+      ]
+    },
+    {
+      "name": "Nanjing Salted Duck",
+      "imageName": "nanjing_salted_duck",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Jiangsu",
+      "ingredients": [
+        "\u2022 Duck",
+        "\u2022 Salt",
+        "\u2022 Ginger",
+        "\u2022 Star anise"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Duck",
+        "Salt"
+      ]
+    },
+    {
+      "name": "Crystal Shrimp",
+      "imageName": "crystal_shrimp",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Jiangsu",
+      "ingredients": [
+        "\u2022 Shrimp",
+        "\u2022 Egg white",
+        "\u2022 Cornstarch",
+        "\u2022 Salt"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Shrimp",
+        "Egg white"
+      ]
+    },
+    {
+      "name": "Braised Pork Belly",
+      "imageName": "braised_pork_belly",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Jiangsu",
+      "ingredients": [
+        "\u2022 Pork belly",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar",
+        "\u2022 Shaoxing wine"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork belly",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Steamed Crab",
+      "imageName": "steamed_crab",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Jiangsu",
+      "ingredients": [
+        "\u2022 Crab",
+        "\u2022 Ginger",
+        "\u2022 Vinegar",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Crab",
+        "Ginger"
+      ]
+    },
+    {
+      "name": "Yangzhou Fried Rice",
+      "imageName": "yangzhou_fried_rice",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Jiangsu",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Egg",
+        "\u2022 Shrimp",
+        "\u2022 Ham",
+        "\u2022 Peas"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Rice",
+        "Egg"
+      ]
+    },
+    {
+      "name": "Dongpo Pork",
+      "imageName": "dongpo_pork",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Zhejiang",
+      "ingredients": [
+        "\u2022 Pork belly",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar",
+        "\u2022 Shaoxing wine"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork belly",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "West Lake Fish",
+      "imageName": "west_lake_fish",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Zhejiang",
+      "ingredients": [
+        "\u2022 Fish",
+        "\u2022 Soy sauce",
+        "\u2022 Vinegar",
+        "\u2022 Sugar",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Fish",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Beggar\u2019s Chicken",
+      "imageName": "beggar\u2019s_chicken",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Zhejiang",
+      "ingredients": [
+        "\u2022 Whole chicken",
+        "\u2022 Shaoxing wine",
+        "\u2022 Soy sauce",
+        "\u2022 Lotus leaves"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Whole chicken",
+        "Shaoxing wine"
+      ]
+    },
+    {
+      "name": "Stir-fried Bamboo Shoots",
+      "imageName": "stir-fried_bamboo_shoots",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Zhejiang",
+      "ingredients": [
+        "\u2022 Bamboo shoots",
+        "\u2022 Soy sauce",
+        "\u2022 Oil",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Bamboo shoots",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Shaoxing Drunken Shrimp",
+      "imageName": "shaoxing_drunken_shrimp",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Zhejiang",
+      "ingredients": [
+        "\u2022 Shrimp",
+        "\u2022 Shaoxing wine",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Shrimp",
+        "Shaoxing wine"
+      ]
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "imageName": "vegetable_stir_fry",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Zhejiang",
+      "ingredients": [
+        "\u2022 Mixed vegetables",
+        "\u2022 Soy sauce",
+        "\u2022 Garlic",
+        "\u2022 Oil"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Mixed vegetables",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Buddha Jumps Over the Wall",
+      "imageName": "buddha_jumps_over_the_wall",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Fujian",
+      "ingredients": [
+        "\u2022 Abalone",
+        "\u2022 Sea cucumber",
+        "\u2022 Chicken",
+        "\u2022 Shaoxing wine"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Abalone",
+        "Sea cucumber"
+      ]
+    },
+    {
+      "name": "Oyster Omelette",
+      "imageName": "oyster_omelette",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Fujian",
+      "ingredients": [
+        "\u2022 Oysters",
+        "\u2022 Eggs",
+        "\u2022 Potato starch",
+        "\u2022 Chili sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Oysters",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Fujian Fried Rice",
+      "imageName": "fujian_fried_rice",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Fujian",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Shrimp",
+        "\u2022 Egg",
+        "\u2022 Soy sauce",
+        "\u2022 Vegetables"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Rice",
+        "Shrimp"
+      ]
+    },
+    {
+      "name": "Braised Noodles",
+      "imageName": "braised_noodles",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Fujian",
+      "ingredients": [
+        "\u2022 Noodles",
+        "\u2022 Pork",
+        "\u2022 Soy sauce",
+        "\u2022 Oyster sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Noodles",
+        "Pork"
+      ]
+    },
+    {
+      "name": "Red Yeast Pork",
+      "imageName": "red_yeast_pork",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Fujian",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Red yeast rice",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Red yeast rice"
+      ]
+    },
+    {
+      "name": "Fish Ball Soup",
+      "imageName": "fish_ball_soup",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Fujian",
+      "ingredients": [
+        "\u2022 Fish balls",
+        "\u2022 Seaweed",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Fish balls",
+        "Seaweed"
+      ]
+    },
+    {
+      "name": "Braised Tofu",
+      "imageName": "braised_tofu",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Anhui",
+      "ingredients": [
+        "\u2022 Tofu",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic",
+        "\u2022 Scallions"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Tofu",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Bamboo Shoots with Pork",
+      "imageName": "bamboo_shoots_with_pork",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Anhui",
+      "ingredients": [
+        "\u2022 Bamboo shoots",
+        "\u2022 Pork",
+        "\u2022 Soy sauce",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Bamboo shoots",
+        "Pork"
+      ]
+    },
+    {
+      "name": "Stewed Chicken with Mushrooms",
+      "imageName": "stewed_chicken_with_mushrooms",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Anhui",
+      "ingredients": [
+        "\u2022 Chicken",
+        "\u2022 Mushrooms",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Chicken",
+        "Mushrooms"
+      ]
+    },
+    {
+      "name": "Wild Herb Soup",
+      "imageName": "wild_herb_soup",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Anhui",
+      "ingredients": [
+        "\u2022 Wild herbs",
+        "\u2022 Tofu",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Wild herbs",
+        "Tofu"
+      ]
+    },
+    {
+      "name": "Anhui Roast Duck",
+      "imageName": "anhui_roast_duck",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Anhui",
+      "ingredients": [
+        "\u2022 Duck",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Duck",
+        "Soy sauce"
+      ]
+    },
+    {
+      "name": "Steamed Pork with Rice Flour",
+      "imageName": "steamed_pork_with_rice_flour",
+      "cuisine": "Chinese",
+      "country": "China",
+      "regionalVariety": "Anhui",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Rice flour",
+        "\u2022 Soy sauce",
+        "\u2022 Chili flakes"
+      ],
+      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Rice flour"
+      ]
     }
   ]
 }
