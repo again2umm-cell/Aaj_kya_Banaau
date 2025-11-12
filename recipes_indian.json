@@ -5,27 +5,932 @@
       "imageName": "butter_chicken",
       "cuisine": "Indian",
       "country": "India",
-      "ingredients": ["• 500g Chicken", "• 2 tbsp Butter", "• 1 cup Cream", "• Tomato puree", "• Spices"],
+      "ingredients": [
+        "\u2022 500g Chicken",
+        "\u2022 2 tbsp Butter",
+        "\u2022 1 cup Cream",
+        "\u2022 Tomato puree",
+        "\u2022 Spices"
+      ],
       "instructions": "1. Marinate chicken with spices\n2. Cook chicken until tender\n3. Make tomato gravy with butter\n4. Add cooked chicken to gravy\n5. Add cream and simmer\n6. Serve with rice or naan",
-      "requiredIngredients": ["Chicken", "Butter"]
+      "requiredIngredients": [
+        "Chicken",
+        "Butter"
+      ],
+      "regionalVariety": "General Indian"
     },
     {
       "name": "Palak Paneer",
       "imageName": "palak_paneer",
       "cuisine": "Indian",
       "country": "India",
-      "ingredients": ["• 200g Paneer", "• 2 cups Spinach", "• 1 Onion", "• Cream", "• Spices"],
+      "ingredients": [
+        "\u2022 200g Paneer",
+        "\u2022 2 cups Spinach",
+        "\u2022 1 Onion",
+        "\u2022 Cream",
+        "\u2022 Spices"
+      ],
       "instructions": "1. Blanch spinach and make puree\n2. Cut paneer into cubes\n3. Cook onions until golden\n4. Add spinach puree and spices\n5. Add paneer cubes gently\n6. Add cream and simmer\n7. Serve hot with roti",
-      "requiredIngredients": ["Paneer", "Spinach"]
+      "requiredIngredients": [
+        "Paneer",
+        "Spinach"
+      ],
+      "regionalVariety": "General Indian"
     },
     {
       "name": "Biryani",
       "imageName": "biryani",
       "cuisine": "Indian",
       "country": "India",
-      "ingredients": ["• 2 cups Basmati Rice", "• 500g Meat/Vegetables", "• 1 cup Yogurt", "• Biryani spices", "• Fried onions"],
+      "ingredients": [
+        "\u2022 2 cups Basmati Rice",
+        "\u2022 500g Meat/Vegetables",
+        "\u2022 1 cup Yogurt",
+        "\u2022 Biryani spices",
+        "\u2022 Fried onions"
+      ],
       "instructions": "1. Soak rice for 30 minutes\n2. Marinate meat with yogurt and spices\n3. Cook meat until 70% done\n4. Boil rice until 70% cooked\n5. Layer rice and meat alternately\n6. Top with fried onions\n7. Cook on dum for 45 minutes\n8. Serve with raita",
-      "requiredIngredients": ["Rice", "Yogurt"]
+      "requiredIngredients": [
+        "Rice",
+        "Yogurt"
+      ],
+      "regionalVariety": "General Indian"
+    },
+    {
+      "name": "Dal Makhani",
+      "imageName": "dal_makhani",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "North Indian",
+      "ingredients": [
+        "\u2022 Black lentils",
+        "\u2022 Butter",
+        "\u2022 Cream",
+        "\u2022 Tomatoes",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Black lentils",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Chole Bhature",
+      "imageName": "chole_bhature",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "North Indian",
+      "ingredients": [
+        "\u2022 Chickpeas",
+        "\u2022 Flour",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Chickpeas",
+        "Flour"
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "imageName": "paneer_tikka",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "North Indian",
+      "ingredients": [
+        "\u2022 Paneer",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Lemon juice",
+        "\u2022 Onion"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Paneer",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Rajma Chawal",
+      "imageName": "rajma_chawal",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "North Indian",
+      "ingredients": [
+        "\u2022 Kidney beans",
+        "\u2022 Rice",
+        "\u2022 Onion",
+        "\u2022 Tomato",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Kidney beans",
+        "Rice"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken",
+      "imageName": "tandoori_chicken",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "North Indian",
+      "ingredients": [
+        "\u2022 Chicken",
+        "\u2022 Yogurt",
+        "\u2022 Lemon juice",
+        "\u2022 Spices",
+        "\u2022 Butter"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Chicken",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "imageName": "aloo_paratha",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "North Indian",
+      "ingredients": [
+        "\u2022 Wheat flour",
+        "\u2022 Potatoes",
+        "\u2022 Ghee",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Wheat flour",
+        "Potatoes"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "imageName": "masala_dosa",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "South Indian",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Urad dal",
+        "\u2022 Potatoes",
+        "\u2022 Spices",
+        "\u2022 Oil"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Rice",
+        "Urad dal"
+      ]
+    },
+    {
+      "name": "Sambar",
+      "imageName": "sambar",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "South Indian",
+      "ingredients": [
+        "\u2022 Toor dal",
+        "\u2022 Tamarind",
+        "\u2022 Vegetables",
+        "\u2022 Mustard seeds",
+        "\u2022 Curry leaves"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Toor dal",
+        "Tamarind"
+      ]
+    },
+    {
+      "name": "Chicken Chettinad",
+      "imageName": "chicken_chettinad",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "South Indian",
+      "ingredients": [
+        "\u2022 Chicken",
+        "\u2022 Coconut",
+        "\u2022 Curry leaves",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Chicken",
+        "Coconut"
+      ]
+    },
+    {
+      "name": "Fish Curry",
+      "imageName": "fish_curry",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "South Indian",
+      "ingredients": [
+        "\u2022 Fish",
+        "\u2022 Coconut milk",
+        "\u2022 Tamarind",
+        "\u2022 Curry leaves",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Fish",
+        "Coconut milk"
+      ]
+    },
+    {
+      "name": "Idli",
+      "imageName": "idli",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "South Indian",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Urad dal",
+        "\u2022 Salt",
+        "\u2022 Water"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Rice",
+        "Urad dal"
+      ]
+    },
+    {
+      "name": "Rasam",
+      "imageName": "rasam",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "South Indian",
+      "ingredients": [
+        "\u2022 Tamarind",
+        "\u2022 Tomato",
+        "\u2022 Black pepper",
+        "\u2022 Garlic",
+        "\u2022 Mustard seeds"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Tamarind",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Fish Curry",
+      "imageName": "fish_curry",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "East Indian",
+      "ingredients": [
+        "\u2022 Fish",
+        "\u2022 Mustard oil",
+        "\u2022 Turmeric",
+        "\u2022 Chilies",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Fish",
+        "Mustard oil"
+      ]
+    },
+    {
+      "name": "Macher Jhol",
+      "imageName": "macher_jhol",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "East Indian",
+      "ingredients": [
+        "\u2022 Rohu fish",
+        "\u2022 Potatoes",
+        "\u2022 Mustard oil",
+        "\u2022 Tomato",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Rohu fish",
+        "Potatoes"
+      ]
+    },
+    {
+      "name": "Aloo Posto",
+      "imageName": "aloo_posto",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "East Indian",
+      "ingredients": [
+        "\u2022 Potatoes",
+        "\u2022 Poppy seeds",
+        "\u2022 Mustard oil",
+        "\u2022 Green chilies"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Potatoes",
+        "Poppy seeds"
+      ]
+    },
+    {
+      "name": "Prawn Malai Curry",
+      "imageName": "prawn_malai_curry",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "East Indian",
+      "ingredients": [
+        "\u2022 Prawns",
+        "\u2022 Coconut milk",
+        "\u2022 Onion",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Prawns",
+        "Coconut milk"
+      ]
+    },
+    {
+      "name": "Rasgulla",
+      "imageName": "rasgulla",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "East Indian",
+      "ingredients": [
+        "\u2022 Milk",
+        "\u2022 Sugar",
+        "\u2022 Lemon juice"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Milk",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "Sandesh",
+      "imageName": "sandesh",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "East Indian",
+      "ingredients": [
+        "\u2022 Paneer",
+        "\u2022 Sugar",
+        "\u2022 Cardamom"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Paneer",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "Dhokla",
+      "imageName": "dhokla",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "West Indian",
+      "ingredients": [
+        "\u2022 Gram flour",
+        "\u2022 Yogurt",
+        "\u2022 Lemon juice",
+        "\u2022 Mustard seeds"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Gram flour",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Goan Prawn Curry",
+      "imageName": "goan_prawn_curry",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "West Indian",
+      "ingredients": [
+        "\u2022 Prawns",
+        "\u2022 Coconut milk",
+        "\u2022 Tamarind",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Prawns",
+        "Coconut milk"
+      ]
+    },
+    {
+      "name": "Vada Pav",
+      "imageName": "vada_pav",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "West Indian",
+      "ingredients": [
+        "\u2022 Potatoes",
+        "\u2022 Gram flour",
+        "\u2022 Bread",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Potatoes",
+        "Gram flour"
+      ]
+    },
+    {
+      "name": "Misal Pav",
+      "imageName": "misal_pav",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "West Indian",
+      "ingredients": [
+        "\u2022 Sprouts",
+        "\u2022 Spices",
+        "\u2022 Bread",
+        "\u2022 Onion"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Sprouts",
+        "Spices"
+      ]
+    },
+    {
+      "name": "Thepla",
+      "imageName": "thepla",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "West Indian",
+      "ingredients": [
+        "\u2022 Wheat flour",
+        "\u2022 Fenugreek leaves",
+        "\u2022 Yogurt",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Wheat flour",
+        "Fenugreek leaves"
+      ]
+    },
+    {
+      "name": "Puran Poli",
+      "imageName": "puran_poli",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "West Indian",
+      "ingredients": [
+        "\u2022 Wheat flour",
+        "\u2022 Chana dal",
+        "\u2022 Jaggery",
+        "\u2022 Ghee"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Wheat flour",
+        "Chana dal"
+      ]
+    },
+    {
+      "name": "Smoked Pork Curry",
+      "imageName": "smoked_pork_curry",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Northeast Indian",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Bamboo shoots",
+        "\u2022 Ginger",
+        "\u2022 Garlic",
+        "\u2022 Chilies"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Bamboo shoots"
+      ]
+    },
+    {
+      "name": "Fish Tenia",
+      "imageName": "fish_tenia",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Northeast Indian",
+      "ingredients": [
+        "\u2022 Fish",
+        "\u2022 Mustard leaves",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Fish",
+        "Mustard leaves"
+      ]
+    },
+    {
+      "name": "Eromba",
+      "imageName": "eromba",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Northeast Indian",
+      "ingredients": [
+        "\u2022 Fermented fish",
+        "\u2022 Boiled vegetables",
+        "\u2022 Chilies",
+        "\u2022 Salt"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Fermented fish",
+        "Boiled vegetables"
+      ]
+    },
+    {
+      "name": "Jadoh",
+      "imageName": "jadoh",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Northeast Indian",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Pork",
+        "\u2022 Spices",
+        "\u2022 Onion"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Rice",
+        "Pork"
+      ]
+    },
+    {
+      "name": "Thukpa",
+      "imageName": "thukpa",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Northeast Indian",
+      "ingredients": [
+        "\u2022 Noodles",
+        "\u2022 Chicken",
+        "\u2022 Vegetables",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Noodles",
+        "Chicken"
+      ]
+    },
+    {
+      "name": "Pork with Lai Xaak",
+      "imageName": "pork_with_lai_xaak",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Northeast Indian",
+      "ingredients": [
+        "\u2022 Pork",
+        "\u2022 Mustard greens",
+        "\u2022 Garlic",
+        "\u2022 Ginger"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Pork",
+        "Mustard greens"
+      ]
+    },
+    {
+      "name": "Poha",
+      "imageName": "poha",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Central Indian",
+      "ingredients": [
+        "\u2022 Flattened rice",
+        "\u2022 Onion",
+        "\u2022 Mustard seeds",
+        "\u2022 Curry leaves",
+        "\u2022 Lemon"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Flattened rice",
+        "Onion"
+      ]
+    },
+    {
+      "name": "Bhutte Ka Kees",
+      "imageName": "bhutte_ka_kees",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Central Indian",
+      "ingredients": [
+        "\u2022 Corn",
+        "\u2022 Milk",
+        "\u2022 Spices",
+        "\u2022 Ghee"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Corn",
+        "Milk"
+      ]
+    },
+    {
+      "name": "Dal Bafla",
+      "imageName": "dal_bafla",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Central Indian",
+      "ingredients": [
+        "\u2022 Wheat flour",
+        "\u2022 Lentils",
+        "\u2022 Ghee",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Wheat flour",
+        "Lentils"
+      ]
+    },
+    {
+      "name": "Sabudana Khichdi",
+      "imageName": "sabudana_khichdi",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Central Indian",
+      "ingredients": [
+        "\u2022 Tapioca pearls",
+        "\u2022 Potato",
+        "\u2022 Peanuts",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Tapioca pearls",
+        "Potato"
+      ]
+    },
+    {
+      "name": "Chana Samosa",
+      "imageName": "chana_samosa",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Central Indian",
+      "ingredients": [
+        "\u2022 Chickpeas",
+        "\u2022 Potato",
+        "\u2022 Spices",
+        "\u2022 Flour"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Chickpeas",
+        "Potato"
+      ]
+    },
+    {
+      "name": "Khopra Pak",
+      "imageName": "khopra_pak",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Central Indian",
+      "ingredients": [
+        "\u2022 Coconut",
+        "\u2022 Sugar",
+        "\u2022 Milk"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Coconut",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "Dal Baati Churma",
+      "imageName": "dal_baati_churma",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Rajasthani",
+      "ingredients": [
+        "\u2022 Wheat flour",
+        "\u2022 Lentils",
+        "\u2022 Ghee",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Wheat flour",
+        "Lentils"
+      ]
+    },
+    {
+      "name": "Gatte Ki Sabzi",
+      "imageName": "gatte_ki_sabzi",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Rajasthani",
+      "ingredients": [
+        "\u2022 Gram flour",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Gram flour",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Ker Sangri",
+      "imageName": "ker_sangri",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Rajasthani",
+      "ingredients": [
+        "\u2022 Desert beans",
+        "\u2022 Berries",
+        "\u2022 Oil",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Desert beans",
+        "Berries"
+      ]
+    },
+    {
+      "name": "Laal Maas",
+      "imageName": "laal_maas",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Rajasthani",
+      "ingredients": [
+        "\u2022 Mutton",
+        "\u2022 Red chilies",
+        "\u2022 Garlic",
+        "\u2022 Ghee"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Mutton",
+        "Red chilies"
+      ]
+    },
+    {
+      "name": "Papad Ki Sabzi",
+      "imageName": "papad_ki_sabzi",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Rajasthani",
+      "ingredients": [
+        "\u2022 Papad",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Papad",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Bajra Roti",
+      "imageName": "bajra_roti",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Rajasthani",
+      "ingredients": [
+        "\u2022 Millet flour",
+        "\u2022 Ghee",
+        "\u2022 Salt"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Millet flour",
+        "Ghee"
+      ]
+    },
+    {
+      "name": "Rogan Josh",
+      "imageName": "rogan_josh",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Kashmiri",
+      "ingredients": [
+        "\u2022 Mutton",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Saffron",
+        "\u2022 Ghee"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Mutton",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Yakhni",
+      "imageName": "yakhni",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Kashmiri",
+      "ingredients": [
+        "\u2022 Mutton",
+        "\u2022 Yogurt",
+        "\u2022 Fennel",
+        "\u2022 Spices"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Mutton",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Dum Aloo",
+      "imageName": "dum_aloo",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Kashmiri",
+      "ingredients": [
+        "\u2022 Baby potatoes",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Baby potatoes",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Gushtaba",
+      "imageName": "gushtaba",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Kashmiri",
+      "ingredients": [
+        "\u2022 Minced mutton",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Ghee"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Minced mutton",
+        "Yogurt"
+      ]
+    },
+    {
+      "name": "Kahwa",
+      "imageName": "kahwa",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Kashmiri",
+      "ingredients": [
+        "\u2022 Green tea",
+        "\u2022 Saffron",
+        "\u2022 Almonds",
+        "\u2022 Sugar"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Green tea",
+        "Saffron"
+      ]
+    },
+    {
+      "name": "Modur Pulao",
+      "imageName": "modur_pulao",
+      "cuisine": "Indian",
+      "country": "India",
+      "regionalVariety": "Kashmiri",
+      "ingredients": [
+        "\u2022 Rice",
+        "\u2022 Milk",
+        "\u2022 Sugar",
+        "\u2022 Dry fruits",
+        "\u2022 Saffron"
+      ],
+      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "requiredIngredients": [
+        "Rice",
+        "Milk"
+      ]
     }
   ]
 }
