@@ -6,18 +6,19 @@
       "cuisine": "Continental",
       "country": "USA",
       "ingredients": [
-        "\u2022 Beef steak",
-        "\u2022 Butter",
-        "\u2022 Garlic",
-        "\u2022 Herbs",
-        "\u2022 Salt",
-        "\u2022 Pepper"
+        "• Beef steak",
+        "• Butter",
+        "• Garlic",
+        "• Herbs",
+        "• Salt",
+        "• Pepper"
       ],
       "instructions": "1. Season steak with salt and pepper\n2. Heat grill to high\n3. Grill steak 4 minutes each side\n4. Add butter and garlic\n5. Let rest 5 minutes\n6. Slice and serve",
       "requiredIngredients": [
         "Beef",
         "Butter"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/grilled_steak.png"
     },
     {
       "name": "Caesar Salad",
@@ -25,17 +26,18 @@
       "cuisine": "Continental",
       "country": "USA",
       "ingredients": [
-        "\u2022 Romaine lettuce",
-        "\u2022 Croutons",
-        "\u2022 Parmesan",
-        "\u2022 Caesar dressing",
-        "\u2022 Chicken (optional)"
+        "• Romaine lettuce",
+        "• Croutons",
+        "• Parmesan",
+        "• Caesar dressing",
+        "• Chicken (optional)"
       ],
       "instructions": "1. Wash and chop lettuce\n2. Grill chicken if using\n3. Toss lettuce with dressing\n4. Add croutons\n5. Top with parmesan\n6. Add chicken slices\n7. Serve fresh",
       "requiredIngredients": [
         "Lettuce",
         "Cheese"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/caesar_salad.png"
     },
     {
       "name": "Fish and Chips",
@@ -43,17 +45,18 @@
       "cuisine": "Continental",
       "country": "UK",
       "ingredients": [
-        "\u2022 White fish",
-        "\u2022 Potatoes",
-        "\u2022 Flour",
-        "\u2022 Beer",
-        "\u2022 Oil for frying"
+        "• White fish",
+        "• Potatoes",
+        "• Flour",
+        "• Beer",
+        "• Oil for frying"
       ],
       "instructions": "1. Cut potatoes into chips\n2. Make beer batter\n3. Coat fish in batter\n4. Deep fry fish until golden\n5. Fry chips until crispy\n6. Serve with tartar sauce",
       "requiredIngredients": [
         "Fish",
         "Potato"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/fish_chips.png"
     },
     {
       "name": "Beef Stroganoff",
@@ -61,18 +64,19 @@
       "cuisine": "Continental",
       "country": "Russia",
       "ingredients": [
-        "\u2022 Beef",
-        "\u2022 Mushrooms",
-        "\u2022 Onions",
-        "\u2022 Sour cream",
-        "\u2022 Butter",
-        "\u2022 Flour"
+        "• Beef",
+        "• Mushrooms",
+        "• Onions",
+        "• Sour cream",
+        "• Butter",
+        "• Flour"
       ],
-      "instructions": "1. Saut\u00e9 onions and mushrooms\n2. Add beef strips and brown\n3. Stir in flour and sour cream\n4. Simmer until thickened\n5. Serve over noodles",
+      "instructions": "1. Sauté onions and mushrooms\n2. Add beef strips and brown\n3. Stir in flour and sour cream\n4. Simmer until thickened\n5. Serve over noodles",
       "requiredIngredients": [
         "Beef",
         "Mushroom"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/beef_stroganoff.png"
     },
     {
       "name": "Chicken Kiev",
@@ -80,37 +84,39 @@
       "cuisine": "Continental",
       "country": "Ukraine",
       "ingredients": [
-        "\u2022 Chicken breast",
-        "\u2022 Butter",
-        "\u2022 Garlic",
-        "\u2022 Parsley",
-        "\u2022 Breadcrumbs",
-        "\u2022 Egg"
+        "• Chicken breast",
+        "• Butter",
+        "• Garlic",
+        "• Parsley",
+        "• Breadcrumbs",
+        "• Egg"
       ],
       "instructions": "1. Make garlic butter and freeze\n2. Stuff chicken with butter\n3. Coat in egg and breadcrumbs\n4. Fry until golden\n5. Bake until cooked through",
       "requiredIngredients": [
         "Chicken",
         "Butter"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chicken_kiev.png"
     },
     {
-      "name": "Shepherd\u2019s Pie",
+      "name": "Shepherd’s Pie",
       "imageName": "shepherds_pie",
       "cuisine": "Continental",
       "country": "UK",
       "ingredients": [
-        "\u2022 Minced lamb",
-        "\u2022 Onions",
-        "\u2022 Carrots",
-        "\u2022 Peas",
-        "\u2022 Mashed potatoes",
-        "\u2022 Butter"
+        "• Minced lamb",
+        "• Onions",
+        "• Carrots",
+        "• Peas",
+        "• Mashed potatoes",
+        "• Butter"
       ],
       "instructions": "1. Cook minced lamb with onions and carrots\n2. Add peas\n3. Spread mashed potatoes on top\n4. Bake until golden",
       "requiredIngredients": [
         "Lamb",
         "Potato"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/shepherds_pie.png"
     },
     {
       "name": "Quiche Lorraine",
@@ -118,17 +124,18 @@
       "cuisine": "Continental",
       "country": "France",
       "ingredients": [
-        "\u2022 Pastry crust",
-        "\u2022 Bacon",
-        "\u2022 Eggs",
-        "\u2022 Cream",
-        "\u2022 Cheese"
+        "• Pastry crust",
+        "• Bacon",
+        "• Eggs",
+        "• Cream",
+        "• Cheese"
       ],
       "instructions": "1. Prebake pastry shell\n2. Cook bacon\n3. Mix eggs, cream, cheese\n4. Pour filling and bake",
       "requiredIngredients": [
         "Egg",
         "Cheese"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/quiche_lorraine.png"
     },
     {
       "name": "Spaghetti Carbonara",
@@ -136,17 +143,18 @@
       "cuisine": "Continental",
       "country": "Italy",
       "ingredients": [
-        "\u2022 Spaghetti",
-        "\u2022 Eggs",
-        "\u2022 Parmesan",
-        "\u2022 Pancetta",
-        "\u2022 Pepper"
+        "• Spaghetti",
+        "• Eggs",
+        "• Parmesan",
+        "• Pancetta",
+        "• Pepper"
       ],
       "instructions": "1. Cook spaghetti\n2. Fry pancetta\n3. Mix eggs and cheese\n4. Toss with pasta and pancetta",
       "requiredIngredients": [
         "Pasta",
         "Egg"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_carbonara.png"
     },
     {
       "name": "Roast Chicken",
@@ -154,17 +162,18 @@
       "cuisine": "Continental",
       "country": "UK",
       "ingredients": [
-        "\u2022 Whole chicken",
-        "\u2022 Butter",
-        "\u2022 Herbs",
-        "\u2022 Garlic",
-        "\u2022 Lemon"
+        "• Whole chicken",
+        "• Butter",
+        "• Herbs",
+        "• Garlic",
+        "• Lemon"
       ],
       "instructions": "1. Rub chicken with butter and herbs\n2. Stuff with garlic and lemon\n3. Roast until golden brown",
       "requiredIngredients": [
         "Chicken",
         "Butter"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/roast_chicken.png"
     },
     {
       "name": "Beef Wellington",
@@ -172,17 +181,18 @@
       "cuisine": "Continental",
       "country": "UK",
       "ingredients": [
-        "\u2022 Beef tenderloin",
-        "\u2022 Mushrooms",
-        "\u2022 Puff pastry",
-        "\u2022 Prosciutto",
-        "\u2022 Egg yolk"
+        "• Beef tenderloin",
+        "• Mushrooms",
+        "• Puff pastry",
+        "• Prosciutto",
+        "• Egg yolk"
       ],
       "instructions": "1. Wrap seared beef with mushrooms and prosciutto\n2. Encase in puff pastry\n3. Bake until golden",
       "requiredIngredients": [
         "Beef",
         "Pastry"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/beef_wellington.png"
     },
     {
       "name": "Ratatouille",
@@ -190,17 +200,18 @@
       "cuisine": "Continental",
       "country": "France",
       "ingredients": [
-        "\u2022 Eggplant",
-        "\u2022 Zucchini",
-        "\u2022 Bell pepper",
-        "\u2022 Tomato",
-        "\u2022 Olive oil"
+        "• Eggplant",
+        "• Zucchini",
+        "• Bell pepper",
+        "• Tomato",
+        "• Olive oil"
       ],
       "instructions": "1. Slice vegetables\n2. Layer in baking dish\n3. Drizzle with olive oil\n4. Bake until tender",
       "requiredIngredients": [
         "Tomato",
         "Eggplant"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ratatouille.png"
     },
     {
       "name": "Croque Monsieur",
@@ -208,16 +219,17 @@
       "cuisine": "Continental",
       "country": "France",
       "ingredients": [
-        "\u2022 Bread",
-        "\u2022 Ham",
-        "\u2022 Cheese",
-        "\u2022 B\u00e9chamel sauce"
+        "• Bread",
+        "• Ham",
+        "• Cheese",
+        "• Béchamel sauce"
       ],
-      "instructions": "1. Layer ham and cheese between bread\n2. Spread b\u00e9chamel sauce on top\n3. Grill until golden",
+      "instructions": "1. Layer ham and cheese between bread\n2. Spread béchamel sauce on top\n3. Grill until golden",
       "requiredIngredients": [
         "Ham",
         "Cheese"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/croque_monsieur.png"
     },
     {
       "name": "Goulash",
@@ -225,17 +237,18 @@
       "cuisine": "Continental",
       "country": "Hungary",
       "ingredients": [
-        "\u2022 Beef",
-        "\u2022 Onions",
-        "\u2022 Paprika",
-        "\u2022 Tomato paste",
-        "\u2022 Potatoes"
+        "• Beef",
+        "• Onions",
+        "• Paprika",
+        "• Tomato paste",
+        "• Potatoes"
       ],
-      "instructions": "1. Saut\u00e9 onions\n2. Add beef and paprika\n3. Stir in tomato paste\n4. Add potatoes and simmer",
+      "instructions": "1. Sauté onions\n2. Add beef and paprika\n3. Stir in tomato paste\n4. Add potatoes and simmer",
       "requiredIngredients": [
         "Beef",
         "Potato"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/goulash.png"
     },
     {
       "name": "Roasted Vegetables",
@@ -243,17 +256,18 @@
       "cuisine": "Continental",
       "country": "France",
       "ingredients": [
-        "\u2022 Carrots",
-        "\u2022 Potatoes",
-        "\u2022 Zucchini",
-        "\u2022 Olive oil",
-        "\u2022 Herbs"
+        "• Carrots",
+        "• Potatoes",
+        "• Zucchini",
+        "• Olive oil",
+        "• Herbs"
       ],
       "instructions": "1. Chop vegetables\n2. Toss in olive oil and herbs\n3. Roast until tender",
       "requiredIngredients": [
         "Vegetable",
         "Olive oil"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/roasted_vegetables.png"
     },
     {
       "name": "Mashed Potatoes",
@@ -261,17 +275,18 @@
       "cuisine": "Continental",
       "country": "UK",
       "ingredients": [
-        "\u2022 Potatoes",
-        "\u2022 Butter",
-        "\u2022 Milk",
-        "\u2022 Salt",
-        "\u2022 Pepper"
+        "• Potatoes",
+        "• Butter",
+        "• Milk",
+        "• Salt",
+        "• Pepper"
       ],
       "instructions": "1. Boil potatoes\n2. Mash with butter and milk\n3. Season with salt and pepper",
       "requiredIngredients": [
         "Potato",
         "Butter"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/mashed_potatoes.png"
     },
     {
       "name": "Apple Strudel",
@@ -279,17 +294,18 @@
       "cuisine": "Continental",
       "country": "Austria",
       "ingredients": [
-        "\u2022 Puff pastry",
-        "\u2022 Apples",
-        "\u2022 Sugar",
-        "\u2022 Cinnamon",
-        "\u2022 Raisins"
+        "• Puff pastry",
+        "• Apples",
+        "• Sugar",
+        "• Cinnamon",
+        "• Raisins"
       ],
       "instructions": "1. Fill pastry with apple mixture\n2. Roll up and bake\n3. Dust with sugar",
       "requiredIngredients": [
         "Apple",
         "Pastry"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/apple_strudel.png"
     },
     {
       "name": "Minestrone Soup",
@@ -297,17 +313,18 @@
       "cuisine": "Continental",
       "country": "Italy",
       "ingredients": [
-        "\u2022 Mixed vegetables",
-        "\u2022 Beans",
-        "\u2022 Pasta",
-        "\u2022 Tomato",
-        "\u2022 Broth"
+        "• Mixed vegetables",
+        "• Beans",
+        "• Pasta",
+        "• Tomato",
+        "• Broth"
       ],
-      "instructions": "1. Saut\u00e9 vegetables\n2. Add broth, beans, and pasta\n3. Simmer until cooked",
+      "instructions": "1. Sauté vegetables\n2. Add broth, beans, and pasta\n3. Simmer until cooked",
       "requiredIngredients": [
         "Vegetable",
         "Pasta"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/minestrone_soup.png"
     },
     {
       "name": "Risotto alla Milanese",
@@ -315,17 +332,18 @@
       "cuisine": "Continental",
       "country": "Italy",
       "ingredients": [
-        "\u2022 Arborio rice",
-        "\u2022 Saffron",
-        "\u2022 Butter",
-        "\u2022 Parmesan",
-        "\u2022 Stock"
+        "• Arborio rice",
+        "• Saffron",
+        "• Butter",
+        "• Parmesan",
+        "• Stock"
       ],
       "instructions": "1. Toast rice in butter\n2. Add stock gradually\n3. Stir in saffron and cheese",
       "requiredIngredients": [
         "Rice",
         "Butter"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_milanese.png"
     },
     {
       "name": "Coq au Vin",
@@ -333,17 +351,18 @@
       "cuisine": "Continental",
       "country": "France",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Red wine",
-        "\u2022 Mushrooms",
-        "\u2022 Bacon",
-        "\u2022 Onions"
+        "• Chicken",
+        "• Red wine",
+        "• Mushrooms",
+        "• Bacon",
+        "• Onions"
       ],
       "instructions": "1. Marinate chicken in wine\n2. Sear with bacon and onions\n3. Simmer with mushrooms",
       "requiredIngredients": [
         "Chicken",
         "Wine"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/coq_au_vin.png"
     },
     {
       "name": "Pancakes",
@@ -351,17 +370,18 @@
       "cuisine": "Continental",
       "country": "USA",
       "ingredients": [
-        "\u2022 Flour",
-        "\u2022 Milk",
-        "\u2022 Eggs",
-        "\u2022 Butter",
-        "\u2022 Sugar"
+        "• Flour",
+        "• Milk",
+        "• Eggs",
+        "• Butter",
+        "• Sugar"
       ],
       "instructions": "1. Mix batter\n2. Cook on skillet until golden\n3. Serve with syrup",
       "requiredIngredients": [
         "Flour",
         "Egg"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pancakes.png"
     },
     {
       "name": "Yorkshire Pudding",
@@ -369,33 +389,35 @@
       "cuisine": "Continental",
       "country": "UK",
       "ingredients": [
-        "\u2022 Flour",
-        "\u2022 Eggs",
-        "\u2022 Milk",
-        "\u2022 Beef drippings"
+        "• Flour",
+        "• Eggs",
+        "• Milk",
+        "• Beef drippings"
       ],
       "instructions": "1. Whisk batter\n2. Pour into hot drippings\n3. Bake until puffed and golden",
       "requiredIngredients": [
         "Egg",
         "Flour"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/yorkshire_pudding.png"
     },
     {
-      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "name": "Crème Brûlée",
       "imageName": "creme_brulee",
       "cuisine": "Continental",
       "country": "France",
       "ingredients": [
-        "\u2022 Cream",
-        "\u2022 Egg yolks",
-        "\u2022 Sugar",
-        "\u2022 Vanilla"
+        "• Cream",
+        "• Egg yolks",
+        "• Sugar",
+        "• Vanilla"
       ],
       "instructions": "1. Mix yolks, sugar, and cream\n2. Bake in water bath\n3. Chill and caramelize sugar top",
       "requiredIngredients": [
         "Cream",
         "Egg"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/creme_brulee.png"
     },
     {
       "name": "Tiramisu",
@@ -403,17 +425,18 @@
       "cuisine": "Continental",
       "country": "Italy",
       "ingredients": [
-        "\u2022 Mascarpone",
-        "\u2022 Eggs",
-        "\u2022 Coffee",
-        "\u2022 Ladyfingers",
-        "\u2022 Cocoa powder"
+        "• Mascarpone",
+        "• Eggs",
+        "• Coffee",
+        "• Ladyfingers",
+        "• Cocoa powder"
       ],
       "instructions": "1. Layer coffee-soaked ladyfingers with mascarpone mixture\n2. Chill\n3. Dust with cocoa powder",
       "requiredIngredients": [
         "Coffee",
         "Mascarpone"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tiramisu.png"
     }
   ]
 }

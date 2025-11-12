@@ -6,19 +6,20 @@
       "cuisine": "Thai",
       "country": "Thailand",
       "ingredients": [
-        "\u2022 200g Rice noodles",
-        "\u2022 100g Shrimp",
-        "\u2022 2 Eggs",
-        "\u2022 Peanuts",
-        "\u2022 Bean sprouts",
-        "\u2022 Tamarind sauce"
+        "• 200g Rice noodles",
+        "• 100g Shrimp",
+        "• 2 Eggs",
+        "• Peanuts",
+        "• Bean sprouts",
+        "• Tamarind sauce"
       ],
       "instructions": "1. Soak rice noodles in warm water\n2. Heat oil in wok\n3. Scramble eggs\n4. Add shrimp and cook\n5. Add noodles and sauce\n6. Toss with bean sprouts\n7. Garnish with peanuts\n8. Serve hot",
       "requiredIngredients": [
         "Noodles",
         "Shrimp"
       ],
-      "regionalVariety": "Central Thai"
+      "regionalVariety": "Central Thai",
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pad_thai.png"
     },
     {
       "name": "Tom Yum Soup",
@@ -26,19 +27,20 @@
       "cuisine": "Thai",
       "country": "Thailand",
       "ingredients": [
-        "\u2022 Shrimp",
-        "\u2022 Lemongrass",
-        "\u2022 Galangal",
-        "\u2022 Lime leaves",
-        "\u2022 Chili",
-        "\u2022 Fish sauce"
+        "• Shrimp",
+        "• Lemongrass",
+        "• Galangal",
+        "• Lime leaves",
+        "• Chili",
+        "• Fish sauce"
       ],
       "instructions": "1. Boil water with lemongrass\n2. Add galangal and lime leaves\n3. Add shrimp and cook\n4. Season with fish sauce\n5. Add chili and lime juice\n6. Serve hot",
       "requiredIngredients": [
         "Shrimp",
         "Lemongrass"
       ],
-      "regionalVariety": "Central Thai"
+      "regionalVariety": "Central Thai",
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tom_yum.png"
     },
     {
       "name": "Green Curry",
@@ -46,18 +48,19 @@
       "cuisine": "Thai",
       "country": "Thailand",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Green curry paste",
-        "\u2022 Coconut milk",
-        "\u2022 Vegetables",
-        "\u2022 Thai basil"
+        "• Chicken",
+        "• Green curry paste",
+        "• Coconut milk",
+        "• Vegetables",
+        "• Thai basil"
       ],
       "instructions": "1. Heat curry paste in pan\n2. Add chicken and cook\n3. Pour coconut milk\n4. Add vegetables\n5. Simmer until done\n6. Add Thai basil\n7. Serve with rice",
       "requiredIngredients": [
         "Chicken",
         "Coconut"
       ],
-      "regionalVariety": "Central Thai"
+      "regionalVariety": "Central Thai",
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/green_curry.png"
     },
     {
       "name": "Pad See Ew",
@@ -66,17 +69,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Wide rice noodles",
-        "\u2022 Soy sauce",
-        "\u2022 Chinese broccoli",
-        "\u2022 Egg",
-        "\u2022 Garlic"
+        "• Wide rice noodles",
+        "• Soy sauce",
+        "• Chinese broccoli",
+        "• Egg",
+        "• Garlic"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Wide rice noodles",
         "Soy sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pad_see_ew.png"
     },
     {
       "name": "Stir-fried Basil (Pad Krapow)",
@@ -85,17 +89,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Minced pork or chicken",
-        "\u2022 Holy basil",
-        "\u2022 Garlic",
-        "\u2022 Chilies",
-        "\u2022 Fish sauce"
+        "• Minced pork or chicken",
+        "• Holy basil",
+        "• Garlic",
+        "• Chilies",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Minced pork or chicken",
         "Holy basil"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/stirfried_basil_pad_krapow.png"
     },
     {
       "name": "Thai Fried Rice",
@@ -104,17 +109,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Cooked rice",
-        "\u2022 Egg",
-        "\u2022 Fish sauce",
-        "\u2022 Garlic",
-        "\u2022 Spring onions"
+        "• Cooked rice",
+        "• Egg",
+        "• Fish sauce",
+        "• Garlic",
+        "• Spring onions"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Cooked rice",
         "Egg"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/thai_fried_rice.png"
     },
     {
       "name": "Massaman Curry",
@@ -123,17 +129,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Massaman curry paste",
-        "\u2022 Beef or chicken",
-        "\u2022 Coconut milk",
-        "\u2022 Potatoes",
-        "\u2022 Peanuts"
+        "• Massaman curry paste",
+        "• Beef or chicken",
+        "• Coconut milk",
+        "• Potatoes",
+        "• Peanuts"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Massaman curry paste",
         "Beef or chicken"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/massaman_curry.png"
     },
     {
       "name": "Panang Curry",
@@ -142,17 +149,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Panang paste",
-        "\u2022 Coconut milk",
-        "\u2022 Meat (beef or chicken)",
-        "\u2022 Kaffir lime leaves",
-        "\u2022 Fish sauce"
+        "• Panang paste",
+        "• Coconut milk",
+        "• Meat (beef or chicken)",
+        "• Kaffir lime leaves",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Panang paste",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panang_curry.png"
     },
     {
       "name": "Khao Pad Sapparod",
@@ -161,17 +169,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Cooked rice",
-        "\u2022 Pineapple",
-        "\u2022 Shrimp or chicken",
-        "\u2022 Cashews",
-        "\u2022 Curry powder"
+        "• Cooked rice",
+        "• Pineapple",
+        "• Shrimp or chicken",
+        "• Cashews",
+        "• Curry powder"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Cooked rice",
         "Pineapple"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_pad_sapparod.png"
     },
     {
       "name": "Khao Mun Gai (Hainanese Chicken Rice - Thai style)",
@@ -180,17 +189,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Jasmine rice",
-        "\u2022 Ginger",
-        "\u2022 Garlic",
-        "\u2022 Cucumber"
+        "• Chicken",
+        "• Jasmine rice",
+        "• Ginger",
+        "• Garlic",
+        "• Cucumber"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Chicken",
         "Jasmine rice"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_mun_gai_hainanese_chicken_rice__thai_style.png"
     },
     {
       "name": "Kway Teow Reua (Boat Noodles)",
@@ -199,17 +209,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Rice noodles",
-        "\u2022 Pork or beef",
-        "\u2022 Dark soy",
-        "\u2022 Star anise",
-        "\u2022 Bean sprouts"
+        "• Rice noodles",
+        "• Pork or beef",
+        "• Dark soy",
+        "• Star anise",
+        "• Bean sprouts"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice noodles",
         "Pork or beef"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/kway_teow_reua_boat_noodles.png"
     },
     {
       "name": "Khao Soi",
@@ -218,17 +229,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Egg noodles",
-        "\u2022 Coconut curry broth",
-        "\u2022 Chicken or beef",
-        "\u2022 Pickled mustard greens",
-        "\u2022 Lime"
+        "• Egg noodles",
+        "• Coconut curry broth",
+        "• Chicken or beef",
+        "• Pickled mustard greens",
+        "• Lime"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Egg noodles",
         "Coconut curry broth"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_soi.png"
     },
     {
       "name": "Sai Oua (Northern Sausage)",
@@ -237,17 +249,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Pork",
-        "\u2022 Lemongrass",
-        "\u2022 Kaffir lime",
-        "\u2022 Chilies",
-        "\u2022 Curry paste"
+        "• Pork",
+        "• Lemongrass",
+        "• Kaffir lime",
+        "• Chilies",
+        "• Curry paste"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork",
         "Lemongrass"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sai_oua_northern_sausage.png"
     },
     {
       "name": "Nam Prik Ong",
@@ -256,17 +269,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Minced pork",
-        "\u2022 Tomatoes",
-        "\u2022 Red chilies",
-        "\u2022 Shrimp paste",
-        "\u2022 Garlic"
+        "• Minced pork",
+        "• Tomatoes",
+        "• Red chilies",
+        "• Shrimp paste",
+        "• Garlic"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Minced pork",
         "Tomatoes"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/nam_prik_ong.png"
     },
     {
       "name": "Gaeng Hang Lay (Burmese-influenced Pork Curry)",
@@ -275,17 +289,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Pork belly",
-        "\u2022 Tamarind",
-        "\u2022 Ginger",
-        "\u2022 Turmeric",
-        "\u2022 Shallots"
+        "• Pork belly",
+        "• Tamarind",
+        "• Ginger",
+        "• Turmeric",
+        "• Shallots"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork belly",
         "Tamarind"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gaeng_hang_lay_burmeseinfluenced_pork_curry.png"
     },
     {
       "name": "Laab Lanna (Northern-style Laab)",
@@ -294,17 +309,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Minced pork or chicken",
-        "\u2022 Mint",
-        "\u2022 Toasted rice powder",
-        "\u2022 Lime",
-        "\u2022 Fish sauce"
+        "• Minced pork or chicken",
+        "• Mint",
+        "• Toasted rice powder",
+        "• Lime",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Minced pork or chicken",
         "Mint"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/laab_lanna_northernstyle_laab.png"
     },
     {
       "name": "Kaeng Khanun (Jackfruit Curry)",
@@ -313,17 +329,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Young jackfruit",
-        "\u2022 Curry paste",
-        "\u2022 Coconut milk",
-        "\u2022 Fish sauce",
-        "\u2022 Fish sauce"
+        "• Young jackfruit",
+        "• Curry paste",
+        "• Coconut milk",
+        "• Fish sauce",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Young jackfruit",
         "Curry paste"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/kaeng_khanun_jackfruit_curry.png"
     },
     {
       "name": "Nam Prik Num (Roasted Green Chili Dip)",
@@ -332,17 +349,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Roasted green chilies",
-        "\u2022 Garlic",
-        "\u2022 Shallots",
-        "\u2022 Fish sauce",
-        "\u2022 Lime"
+        "• Roasted green chilies",
+        "• Garlic",
+        "• Shallots",
+        "• Fish sauce",
+        "• Lime"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Roasted green chilies",
         "Garlic"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/nam_prik_num_roasted_green_chili_dip.png"
     },
     {
       "name": "Khao Niaw (Sticky Rice) with Mango",
@@ -351,17 +369,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Sticky rice",
-        "\u2022 Coconut milk",
-        "\u2022 Mango",
-        "\u2022 Sugar",
-        "\u2022 Salt"
+        "• Sticky rice",
+        "• Coconut milk",
+        "• Mango",
+        "• Sugar",
+        "• Salt"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Sticky rice",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_niaw_sticky_rice_with_mango.png"
     },
     {
       "name": "Jok (Rice Porridge)",
@@ -370,17 +389,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Rice",
-        "\u2022 Pork or chicken",
-        "\u2022 Ginger",
-        "\u2022 Fish sauce",
-        "\u2022 Egg"
+        "• Rice",
+        "• Pork or chicken",
+        "• Ginger",
+        "• Fish sauce",
+        "• Egg"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice",
         "Pork or chicken"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/jok_rice_porridge.png"
     },
     {
       "name": "Grilled Pork Neck (Kor Moo Yang)",
@@ -389,17 +409,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Pork neck",
-        "\u2022 Soy sauce",
-        "\u2022 Garlic",
-        "\u2022 Pepper",
-        "\u2022 Palm sugar"
+        "• Pork neck",
+        "• Soy sauce",
+        "• Garlic",
+        "• Pepper",
+        "• Palm sugar"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork neck",
         "Soy sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/grilled_pork_neck_kor_moo_yang.png"
     },
     {
       "name": "Som Tum (Green Papaya Salad)",
@@ -408,17 +429,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Green papaya",
-        "\u2022 Lime",
-        "\u2022 Fish sauce",
-        "\u2022 Palm sugar",
-        "\u2022 Chilies"
+        "• Green papaya",
+        "• Lime",
+        "• Fish sauce",
+        "• Palm sugar",
+        "• Chilies"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Green papaya",
         "Lime"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/som_tum_green_papaya_salad.png"
     },
     {
       "name": "Larb (Larb Moo)",
@@ -427,17 +449,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Minced pork",
-        "\u2022 Lime",
-        "\u2022 Roasted rice powder",
-        "\u2022 Fish sauce",
-        "\u2022 Fresh herbs"
+        "• Minced pork",
+        "• Lime",
+        "• Roasted rice powder",
+        "• Fish sauce",
+        "• Fresh herbs"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Minced pork",
         "Lime"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/larb_larb_moo.png"
     },
     {
       "name": "Gai Yang (Grilled Chicken)",
@@ -446,17 +469,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Whole chicken or pieces",
-        "\u2022 Garlic",
-        "\u2022 Coriander root",
-        "\u2022 Fish sauce",
-        "\u2022 Pepper"
+        "• Whole chicken or pieces",
+        "• Garlic",
+        "• Coriander root",
+        "• Fish sauce",
+        "• Pepper"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Whole chicken or pieces",
         "Garlic"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gai_yang_grilled_chicken.png"
     },
     {
       "name": "Moo Ping (Grilled Pork Skewers)",
@@ -465,17 +489,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Pork",
-        "\u2022 Soy sauce",
-        "\u2022 Palm sugar",
-        "\u2022 Garlic",
-        "\u2022 Coconut milk"
+        "• Pork",
+        "• Soy sauce",
+        "• Palm sugar",
+        "• Garlic",
+        "• Coconut milk"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork",
         "Soy sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/moo_ping_grilled_pork_skewers.png"
     },
     {
       "name": "Nam Tok (Waterfall Beef Salad)",
@@ -484,17 +509,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Grilled beef",
-        "\u2022 Lime",
-        "\u2022 Fish sauce",
-        "\u2022 Chili flakes",
-        "\u2022 Roasted rice powder"
+        "• Grilled beef",
+        "• Lime",
+        "• Fish sauce",
+        "• Chili flakes",
+        "• Roasted rice powder"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Grilled beef",
         "Lime"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/nam_tok_waterfall_beef_salad.png"
     },
     {
       "name": "Tom Saap (Isan Spicy Soup)",
@@ -503,17 +529,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Pork ribs",
-        "\u2022 Lemongrass",
-        "\u2022 Kaffir lime",
-        "\u2022 Fish sauce",
-        "\u2022 Chilies"
+        "• Pork ribs",
+        "• Lemongrass",
+        "• Kaffir lime",
+        "• Fish sauce",
+        "• Chilies"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork ribs",
         "Lemongrass"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tom_saap_isan_spicy_soup.png"
     },
     {
       "name": "Khao Jee (Grilled Sticky Rice)",
@@ -522,17 +549,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Sticky rice",
-        "\u2022 Egg",
-        "\u2022 Salt",
-        "\u2022 Coconut milk",
-        "\u2022 Fish sauce"
+        "• Sticky rice",
+        "• Egg",
+        "• Salt",
+        "• Coconut milk",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Sticky rice",
         "Egg"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_jee_grilled_sticky_rice.png"
     },
     {
       "name": "Gaeng Om",
@@ -541,17 +569,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Mixed vegetables",
-        "\u2022 Herbs",
-        "\u2022 Shrimp or pork",
-        "\u2022 Fish sauce",
-        "\u2022 Chilies"
+        "• Mixed vegetables",
+        "• Herbs",
+        "• Shrimp or pork",
+        "• Fish sauce",
+        "• Chilies"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Mixed vegetables",
         "Herbs"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gaeng_om.png"
     },
     {
       "name": "Sai Krok Isan (Isan fermented sausage)",
@@ -560,17 +589,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Pork",
-        "\u2022 Rice",
-        "\u2022 Garlic",
-        "\u2022 Salt",
-        "\u2022 Pepper"
+        "• Pork",
+        "• Rice",
+        "• Garlic",
+        "• Salt",
+        "• Pepper"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork",
         "Rice"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sai_krok_isan_isan_fermented_sausage.png"
     },
     {
       "name": "Pla Pao (Salt-crusted Grilled Fish)",
@@ -579,17 +609,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Whole fish",
-        "\u2022 Salt",
-        "\u2022 Lemongrass",
-        "\u2022 Lime",
-        "\u2022 Chili dip"
+        "• Whole fish",
+        "• Salt",
+        "• Lemongrass",
+        "• Lime",
+        "• Chili dip"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Whole fish",
         "Salt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pla_pao_saltcrusted_grilled_fish.png"
     },
     {
       "name": "Massaman Curry (Southern style)",
@@ -598,17 +629,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Massaman paste",
-        "\u2022 Beef or chicken",
-        "\u2022 Coconut milk",
-        "\u2022 Potatoes",
-        "\u2022 Peanuts"
+        "• Massaman paste",
+        "• Beef or chicken",
+        "• Coconut milk",
+        "• Potatoes",
+        "• Peanuts"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Massaman paste",
         "Beef or chicken"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/massaman_curry_southern_style.png"
     },
     {
       "name": "Gaeng Tai Pla (Southern Fish Curry)",
@@ -617,17 +649,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Fermented fish sauce (tai pla)",
-        "\u2022 Fish or seafood",
-        "\u2022 Eggplant",
-        "\u2022 Turmeric",
-        "\u2022 Chilies"
+        "• Fermented fish sauce (tai pla)",
+        "• Fish or seafood",
+        "• Eggplant",
+        "• Turmeric",
+        "• Chilies"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Fermented fish sauce (tai pla)",
         "Fish or seafood"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gaeng_tai_pla_southern_fish_curry.png"
     },
     {
       "name": "Khao Yam (Southern rice salad)",
@@ -636,17 +669,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Cooked rice",
-        "\u2022 Herbs",
-        "\u2022 Grated coconut",
-        "\u2022 Lime",
-        "\u2022 Fish sauce"
+        "• Cooked rice",
+        "• Herbs",
+        "• Grated coconut",
+        "• Lime",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Cooked rice",
         "Herbs"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_yam_southern_rice_salad.png"
     },
     {
       "name": "Khao Mok Gai (Thai biryani)",
@@ -655,17 +689,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Spices",
-        "\u2022 Rice",
-        "\u2022 Yogurt",
-        "\u2022 Curry powder"
+        "• Chicken",
+        "• Spices",
+        "• Rice",
+        "• Yogurt",
+        "• Curry powder"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Chicken",
         "Spices"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_mok_gai_thai_biryani.png"
     },
     {
       "name": "Gaeng Som (Sour Curry) - Southern variant",
@@ -674,17 +709,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Fish",
-        "\u2022 Tamarind",
-        "\u2022 Vegetables",
-        "\u2022 Chilies",
-        "\u2022 Garlic"
+        "• Fish",
+        "• Tamarind",
+        "• Vegetables",
+        "• Chilies",
+        "• Garlic"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Fish",
         "Tamarind"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gaeng_som_sour_curry__southern_variant.png"
     },
     {
       "name": "Roti with Curry Dip",
@@ -693,17 +729,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Flour",
-        "\u2022 Water",
-        "\u2022 Oil",
-        "\u2022 Curry (for dip)",
-        "\u2022 Fish sauce"
+        "• Flour",
+        "• Water",
+        "• Oil",
+        "• Curry (for dip)",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Flour",
         "Water"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/roti_with_curry_dip.png"
     },
     {
       "name": "Khanom Jeen Nam Ya",
@@ -712,17 +749,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Rice noodles",
-        "\u2022 Fish-based curry sauce",
-        "\u2022 Coconut milk",
-        "\u2022 Fresh herbs",
-        "\u2022 Fish sauce"
+        "• Rice noodles",
+        "• Fish-based curry sauce",
+        "• Coconut milk",
+        "• Fresh herbs",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice noodles",
         "Fish-based curry sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khanom_jeen_nam_ya.png"
     },
     {
       "name": "Kluay Tod (Fried Banana)",
@@ -731,17 +769,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Bananas",
-        "\u2022 Flour",
-        "\u2022 Sugar",
-        "\u2022 Oil",
-        "\u2022 Fish sauce"
+        "• Bananas",
+        "• Flour",
+        "• Sugar",
+        "• Oil",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Bananas",
         "Flour"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/kluay_tod_fried_banana.png"
     },
     {
       "name": "Hoi Tod (Oyster Omelette) - Southern style",
@@ -750,17 +789,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Oysters",
-        "\u2022 Eggs",
-        "\u2022 Rice flour",
-        "\u2022 Bean sprouts",
-        "\u2022 Fish sauce"
+        "• Oysters",
+        "• Eggs",
+        "• Rice flour",
+        "• Bean sprouts",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Oysters",
         "Eggs"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/hoi_tod_oyster_omelette__southern_style.png"
     },
     {
       "name": "Pla Rad Prik (Fish with Chili Sauce)",
@@ -769,17 +809,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Whole fish",
-        "\u2022 Garlic",
-        "\u2022 Chilies",
-        "\u2022 Tamarind",
-        "\u2022 Palm sugar"
+        "• Whole fish",
+        "• Garlic",
+        "• Chilies",
+        "• Tamarind",
+        "• Palm sugar"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Whole fish",
         "Garlic"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pla_rad_prik_fish_with_chili_sauce.png"
     },
     {
       "name": "Moo Satay (Pork Satay)",
@@ -788,17 +829,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Pork",
-        "\u2022 Turmeric",
-        "\u2022 Coconut milk",
-        "\u2022 Peanut sauce",
-        "\u2022 Cucumber relish"
+        "• Pork",
+        "• Turmeric",
+        "• Coconut milk",
+        "• Peanut sauce",
+        "• Cucumber relish"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork",
         "Turmeric"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/moo_satay_pork_satay.png"
     },
     {
       "name": "Boat Noodles",
@@ -807,17 +849,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Rice noodles",
-        "\u2022 Beef or pork",
-        "\u2022 Dark soy",
-        "\u2022 Bean sprouts",
-        "\u2022 Pork blood (optional)"
+        "• Rice noodles",
+        "• Beef or pork",
+        "• Dark soy",
+        "• Bean sprouts",
+        "• Pork blood (optional)"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice noodles",
         "Beef or pork"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/boat_noodles.png"
     },
     {
       "name": "Hoy Tod (Oyster Omelette)",
@@ -826,17 +869,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Oysters",
-        "\u2022 Eggs",
-        "\u2022 Rice flour",
-        "\u2022 Bean sprouts",
-        "\u2022 Fish sauce"
+        "• Oysters",
+        "• Eggs",
+        "• Rice flour",
+        "• Bean sprouts",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Oysters",
         "Eggs"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/hoy_tod_oyster_omelette.png"
     },
     {
       "name": "Kai Jeow (Thai Omelette)",
@@ -845,17 +889,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Eggs",
-        "\u2022 Fish sauce",
-        "\u2022 Oil",
-        "\u2022 Spring onions",
-        "\u2022 Fish sauce"
+        "• Eggs",
+        "• Fish sauce",
+        "• Oil",
+        "• Spring onions",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Eggs",
         "Fish sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/kai_jeow_thai_omelette.png"
     },
     {
       "name": "Gai Tod (Fried Chicken)",
@@ -864,17 +909,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Fish sauce",
-        "\u2022 Pepper",
-        "\u2022 Garlic",
-        "\u2022 Flour"
+        "• Chicken",
+        "• Fish sauce",
+        "• Pepper",
+        "• Garlic",
+        "• Flour"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Chicken",
         "Fish sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gai_tod_fried_chicken.png"
     },
     {
       "name": "Khao Man Gai (Chicken Rice - Bangkok style)",
@@ -883,17 +929,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Jasmine rice",
-        "\u2022 Ginger",
-        "\u2022 Garlic",
-        "\u2022 Cucumber"
+        "• Chicken",
+        "• Jasmine rice",
+        "• Ginger",
+        "• Garlic",
+        "• Cucumber"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Chicken",
         "Jasmine rice"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_man_gai_chicken_rice__bangkok_style.png"
     },
     {
       "name": "Thai Crepe (Khanom Buang)",
@@ -902,17 +949,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Rice flour batter",
-        "\u2022 Coconut cream",
-        "\u2022 Sweet or savory toppings",
-        "\u2022 Sugar",
-        "\u2022 Fish sauce"
+        "• Rice flour batter",
+        "• Coconut cream",
+        "• Sweet or savory toppings",
+        "• Sugar",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice flour batter",
         "Coconut cream"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/thai_crepe_khanom_buang.png"
     },
     {
       "name": "Mango Sticky Rice (street version)",
@@ -921,17 +969,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Sticky rice",
-        "\u2022 Mango",
-        "\u2022 Coconut milk",
-        "\u2022 Sugar",
-        "\u2022 Salt"
+        "• Sticky rice",
+        "• Mango",
+        "• Coconut milk",
+        "• Sugar",
+        "• Salt"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Sticky rice",
         "Mango"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/mango_sticky_rice_street_version.png"
     },
     {
       "name": "Grilled Pork Neck (Moo Yang)",
@@ -940,17 +989,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Pork neck",
-        "\u2022 Soy sauce",
-        "\u2022 Garlic",
-        "\u2022 Palm sugar",
-        "\u2022 Pepper"
+        "• Pork neck",
+        "• Soy sauce",
+        "• Garlic",
+        "• Palm sugar",
+        "• Pepper"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork neck",
         "Soy sauce"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/grilled_pork_neck_moo_yang.png"
     },
     {
       "name": "Yum Woon Sen (Glass Noodle Salad)",
@@ -959,17 +1009,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Glass noodles",
-        "\u2022 Shrimp",
-        "\u2022 Lime",
-        "\u2022 Fish sauce",
-        "\u2022 Chili"
+        "• Glass noodles",
+        "• Shrimp",
+        "• Lime",
+        "• Fish sauce",
+        "• Chili"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Glass noodles",
         "Shrimp"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/yum_woon_sen_glass_noodle_salad.png"
     },
     {
       "name": "Hor Mok Pla (Steamed Fish Custard)",
@@ -978,17 +1029,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Fish",
-        "\u2022 Coconut milk",
-        "\u2022 Red curry paste",
-        "\u2022 Egg",
-        "\u2022 Kaffir lime leaves"
+        "• Fish",
+        "• Coconut milk",
+        "• Red curry paste",
+        "• Egg",
+        "• Kaffir lime leaves"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Fish",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/hor_mok_pla_steamed_fish_custard.png"
     },
     {
       "name": "Chor Muang (Flower-shaped dumplings)",
@@ -997,17 +1049,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Rice flour",
-        "\u2022 Natural food color",
-        "\u2022 Minced pork",
-        "\u2022 Coconut cream",
-        "\u2022 Herbs"
+        "• Rice flour",
+        "• Natural food color",
+        "• Minced pork",
+        "• Coconut cream",
+        "• Herbs"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice flour",
         "Natural food color"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chor_muang_flowershaped_dumplings.png"
     },
     {
       "name": "Miang Kham (Leaf-wrapped Bites)",
@@ -1016,17 +1069,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Betel leaves",
-        "\u2022 Dried shrimp",
-        "\u2022 Peanuts",
-        "\u2022 Lime",
-        "\u2022 Coconut"
+        "• Betel leaves",
+        "• Dried shrimp",
+        "• Peanuts",
+        "• Lime",
+        "• Coconut"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Betel leaves",
         "Dried shrimp"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/miang_kham_leafwrapped_bites.png"
     },
     {
       "name": "Khao Chae (Jasmine rice in iced jasmine water)",
@@ -1035,17 +1089,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Jasmine rice",
-        "\u2022 Jasmine water",
-        "\u2022Salted shrimp paste",
-        "\u2022Sweet condiments",
-        "\u2022 Fish sauce"
+        "• Jasmine rice",
+        "• Jasmine water",
+        "•Salted shrimp paste",
+        "•Sweet condiments",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Jasmine rice",
         "Jasmine water"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_chae_jasmine_rice_in_iced_jasmine_water.png"
     },
     {
       "name": "Kaeng Kiao Wan Hor (Royal green curry variation)",
@@ -1054,17 +1109,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Green curry paste",
-        "\u2022 Coconut milk",
-        "\u2022 Meat or tofu",
-        "\u2022 Herbs",
-        "\u2022 Kaffir lime"
+        "• Green curry paste",
+        "• Coconut milk",
+        "• Meat or tofu",
+        "• Herbs",
+        "• Kaffir lime"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Green curry paste",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/kaeng_kiao_wan_hor_royal_green_curry_variation.png"
     },
     {
       "name": "Sang Kaya Fak Thong (Pumpkin custard)",
@@ -1073,17 +1129,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Pumpkin",
-        "\u2022 Coconut milk",
-        "\u2022 Eggs",
-        "\u2022 Sugar",
-        "\u2022 Palm sugar"
+        "• Pumpkin",
+        "• Coconut milk",
+        "• Eggs",
+        "• Sugar",
+        "• Palm sugar"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pumpkin",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sang_kaya_fak_thong_pumpkin_custard.png"
     },
     {
       "name": "Khao Niew Moo Ping",
@@ -1092,17 +1149,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Sticky rice",
-        "\u2022 Grilled pork",
-        "\u2022 Palm sugar",
-        "\u2022 Soy sauce",
-        "\u2022 Garlic"
+        "• Sticky rice",
+        "• Grilled pork",
+        "• Palm sugar",
+        "• Soy sauce",
+        "• Garlic"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Sticky rice",
         "Grilled pork"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_niew_moo_ping.png"
     },
     {
       "name": "Nam Prik Pao (Chili Jam)",
@@ -1111,17 +1169,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Dried chilies",
-        "\u2022 Garlic",
-        "\u2022 Shallots",
-        "\u2022 Tamarind",
-        "\u2022 Sugar"
+        "• Dried chilies",
+        "• Garlic",
+        "• Shallots",
+        "• Tamarind",
+        "• Sugar"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Dried chilies",
         "Garlic"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/nam_prik_pao_chili_jam.png"
     },
     {
       "name": "Pla Kapong Neung Manao",
@@ -1130,17 +1189,18 @@
       "country": "Thailand",
       "regionalVariety": "Central Thai",
       "ingredients": [
-        "\u2022 Barramundi/sea bass",
-        "\u2022 Lime",
-        "\u2022 Garlic",
-        "\u2022 Chili",
-        "\u2022 Fish sauce"
+        "• Barramundi/sea bass",
+        "• Lime",
+        "• Garlic",
+        "• Chili",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Barramundi/sea bass",
         "Lime"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pla_kapong_neung_manao.png"
     },
     {
       "name": "Nam Prik Noom (Green chili dip)",
@@ -1149,17 +1209,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Roasted green chilies",
-        "\u2022 Garlic",
-        "\u2022 Shallots",
-        "\u2022 Lime",
-        "\u2022 Fish sauce"
+        "• Roasted green chilies",
+        "• Garlic",
+        "• Shallots",
+        "• Lime",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Roasted green chilies",
         "Garlic"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/nam_prik_noom_green_chili_dip.png"
     },
     {
       "name": "Khan Toke Set (Northern platter)",
@@ -1168,17 +1229,18 @@
       "country": "Thailand",
       "regionalVariety": "Northern Thai (Lanna)",
       "ingredients": [
-        "\u2022 Sticky rice",
-        "\u2022 Various dips",
-        "\u2022 Grilled items",
-        "\u2022 Vegetables",
-        "\u2022 Fish sauce"
+        "• Sticky rice",
+        "• Various dips",
+        "• Grilled items",
+        "• Vegetables",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Sticky rice",
         "Various dips"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khan_toke_set_northern_platter.png"
     },
     {
       "name": "Tam Khanun (young jackfruit salad)",
@@ -1187,17 +1249,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Young jackfruit",
-        "\u2022 Lime",
-        "\u2022 Fish sauce",
-        "\u2022 Chilies",
-        "\u2022 Herbs"
+        "• Young jackfruit",
+        "• Lime",
+        "• Fish sauce",
+        "• Chilies",
+        "• Herbs"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Young jackfruit",
         "Lime"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tam_khanun_young_jackfruit_salad.png"
     },
     {
       "name": "Gaeng Om (Isan herb curry)",
@@ -1206,17 +1269,18 @@
       "country": "Thailand",
       "regionalVariety": "Northeastern Thai (Isan)",
       "ingredients": [
-        "\u2022 Mixed herbs",
-        "\u2022 Pork or shrimp",
-        "\u2022 Fish sauce",
-        "\u2022 Chilies",
-        "\u2022 Vegetables"
+        "• Mixed herbs",
+        "• Pork or shrimp",
+        "• Fish sauce",
+        "• Chilies",
+        "• Vegetables"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Mixed herbs",
         "Pork or shrimp"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gaeng_om_isan_herb_curry.png"
     },
     {
       "name": "Khao Tom (Rice soup)",
@@ -1225,17 +1289,18 @@
       "country": "Thailand",
       "regionalVariety": "Southern Thai",
       "ingredients": [
-        "\u2022 Rice",
-        "\u2022 Pork or shrimp",
-        "\u2022 Garlic",
-        "\u2022 Fish sauce",
-        "\u2022 Ginger"
+        "• Rice",
+        "• Pork or shrimp",
+        "• Garlic",
+        "• Fish sauce",
+        "• Ginger"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Rice",
         "Pork or shrimp"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_tom_rice_soup.png"
     },
     {
       "name": "Khao Kha Moo (Braised pork leg on rice)",
@@ -1244,17 +1309,18 @@
       "country": "Thailand",
       "regionalVariety": "Street Food / Bangkok Specials",
       "ingredients": [
-        "\u2022 Pork leg",
-        "\u2022 Star anise",
-        "\u2022 Soy sauce",
-        "\u2022 Garlic",
-        "\u2022 Hard-boiled egg"
+        "• Pork leg",
+        "• Star anise",
+        "• Soy sauce",
+        "• Garlic",
+        "• Hard-boiled egg"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Pork leg",
         "Star anise"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khao_kha_moo_braised_pork_leg_on_rice.png"
     },
     {
       "name": "Bai Tong Na Tung (rice with toppings)",
@@ -1263,17 +1329,18 @@
       "country": "Thailand",
       "regionalVariety": "Royal Thai Cuisine",
       "ingredients": [
-        "\u2022 Jasmine rice",
-        "\u2022 Various toppings",
-        "\u2022 Coconut milk",
-        "\u2022 Herbs",
-        "\u2022 Fish sauce"
+        "• Jasmine rice",
+        "• Various toppings",
+        "• Coconut milk",
+        "• Herbs",
+        "• Fish sauce"
       ],
       "instructions": "1. Prepare ingredients.\n2. Follow traditional regional method (grill/simmer/steam/fry as required).\n3. Combine flavors carefully balancing sweet, sour, salty, and spicy.\n4. Garnish and serve with rice or noodles as typical.",
       "requiredIngredients": [
         "Jasmine rice",
         "Various toppings"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/bai_tong_na_tung_rice_with_toppings.png"
     }
   ]
 }

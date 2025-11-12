@@ -6,18 +6,19 @@
       "cuisine": "Indian",
       "country": "India",
       "ingredients": [
-        "\u2022 500g Chicken",
-        "\u2022 2 tbsp Butter",
-        "\u2022 1 cup Cream",
-        "\u2022 Tomato puree",
-        "\u2022 Spices"
+        "• 500g Chicken",
+        "• 2 tbsp Butter",
+        "• 1 cup Cream",
+        "• Tomato puree",
+        "• Spices"
       ],
       "instructions": "1. Marinate chicken with spices\n2. Cook chicken until tender\n3. Make tomato gravy with butter\n4. Add cooked chicken to gravy\n5. Add cream and simmer\n6. Serve with rice or naan",
       "requiredIngredients": [
         "Chicken",
         "Butter"
       ],
-      "regionalVariety": "General Indian"
+      "regionalVariety": "General Indian",
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/butter_chicken.png"
     },
     {
       "name": "Palak Paneer",
@@ -25,18 +26,19 @@
       "cuisine": "Indian",
       "country": "India",
       "ingredients": [
-        "\u2022 200g Paneer",
-        "\u2022 2 cups Spinach",
-        "\u2022 1 Onion",
-        "\u2022 Cream",
-        "\u2022 Spices"
+        "• 200g Paneer",
+        "• 2 cups Spinach",
+        "• 1 Onion",
+        "• Cream",
+        "• Spices"
       ],
       "instructions": "1. Blanch spinach and make puree\n2. Cut paneer into cubes\n3. Cook onions until golden\n4. Add spinach puree and spices\n5. Add paneer cubes gently\n6. Add cream and simmer\n7. Serve hot with roti",
       "requiredIngredients": [
         "Paneer",
         "Spinach"
       ],
-      "regionalVariety": "General Indian"
+      "regionalVariety": "General Indian",
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/palak_paneer.png"
     },
     {
       "name": "Biryani",
@@ -44,18 +46,19 @@
       "cuisine": "Indian",
       "country": "India",
       "ingredients": [
-        "\u2022 2 cups Basmati Rice",
-        "\u2022 500g Meat/Vegetables",
-        "\u2022 1 cup Yogurt",
-        "\u2022 Biryani spices",
-        "\u2022 Fried onions"
+        "• 2 cups Basmati Rice",
+        "• 500g Meat/Vegetables",
+        "• 1 cup Yogurt",
+        "• Biryani spices",
+        "• Fried onions"
       ],
       "instructions": "1. Soak rice for 30 minutes\n2. Marinate meat with yogurt and spices\n3. Cook meat until 70% done\n4. Boil rice until 70% cooked\n5. Layer rice and meat alternately\n6. Top with fried onions\n7. Cook on dum for 45 minutes\n8. Serve with raita",
       "requiredIngredients": [
         "Rice",
         "Yogurt"
       ],
-      "regionalVariety": "General Indian"
+      "regionalVariety": "General Indian",
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/biryani.png"
     },
     {
       "name": "Dal Makhani",
@@ -64,17 +67,18 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "\u2022 Black lentils",
-        "\u2022 Butter",
-        "\u2022 Cream",
-        "\u2022 Tomatoes",
-        "\u2022 Spices"
+        "• Black lentils",
+        "• Butter",
+        "• Cream",
+        "• Tomatoes",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Black lentils",
         "Butter"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/dal_makhani.png"
     },
     {
       "name": "Chole Bhature",
@@ -83,17 +87,18 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "\u2022 Chickpeas",
-        "\u2022 Flour",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Oil"
+        "• Chickpeas",
+        "• Flour",
+        "• Yogurt",
+        "• Spices",
+        "• Oil"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Chickpeas",
         "Flour"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chole_bhature.png"
     },
     {
       "name": "Paneer Tikka",
@@ -102,17 +107,18 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "\u2022 Paneer",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Lemon juice",
-        "\u2022 Onion"
+        "• Paneer",
+        "• Yogurt",
+        "• Spices",
+        "• Lemon juice",
+        "• Onion"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Paneer",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/paneer_tikka.png"
     },
     {
       "name": "Rajma Chawal",
@@ -121,17 +127,18 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "\u2022 Kidney beans",
-        "\u2022 Rice",
-        "\u2022 Onion",
-        "\u2022 Tomato",
-        "\u2022 Spices"
+        "• Kidney beans",
+        "• Rice",
+        "• Onion",
+        "• Tomato",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Kidney beans",
         "Rice"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/rajma_chawal.png"
     },
     {
       "name": "Tandoori Chicken",
@@ -140,17 +147,18 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Yogurt",
-        "\u2022 Lemon juice",
-        "\u2022 Spices",
-        "\u2022 Butter"
+        "• Chicken",
+        "• Yogurt",
+        "• Lemon juice",
+        "• Spices",
+        "• Butter"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Chicken",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tandoori_chicken.png"
     },
     {
       "name": "Aloo Paratha",
@@ -159,16 +167,17 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "\u2022 Wheat flour",
-        "\u2022 Potatoes",
-        "\u2022 Ghee",
-        "\u2022 Spices"
+        "• Wheat flour",
+        "• Potatoes",
+        "• Ghee",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Wheat flour",
         "Potatoes"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/aloo_paratha.png"
     },
     {
       "name": "Masala Dosa",
@@ -177,17 +186,18 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "\u2022 Rice",
-        "\u2022 Urad dal",
-        "\u2022 Potatoes",
-        "\u2022 Spices",
-        "\u2022 Oil"
+        "• Rice",
+        "• Urad dal",
+        "• Potatoes",
+        "• Spices",
+        "• Oil"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Rice",
         "Urad dal"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/masala_dosa.png"
     },
     {
       "name": "Sambar",
@@ -196,17 +206,18 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "\u2022 Toor dal",
-        "\u2022 Tamarind",
-        "\u2022 Vegetables",
-        "\u2022 Mustard seeds",
-        "\u2022 Curry leaves"
+        "• Toor dal",
+        "• Tamarind",
+        "• Vegetables",
+        "• Mustard seeds",
+        "• Curry leaves"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Toor dal",
         "Tamarind"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sambar.png"
     },
     {
       "name": "Chicken Chettinad",
@@ -215,16 +226,17 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "\u2022 Chicken",
-        "\u2022 Coconut",
-        "\u2022 Curry leaves",
-        "\u2022 Spices"
+        "• Chicken",
+        "• Coconut",
+        "• Curry leaves",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Chicken",
         "Coconut"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chicken_chettinad.png"
     },
     {
       "name": "Fish Curry",
@@ -233,17 +245,18 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "\u2022 Fish",
-        "\u2022 Coconut milk",
-        "\u2022 Tamarind",
-        "\u2022 Curry leaves",
-        "\u2022 Spices"
+        "• Fish",
+        "• Coconut milk",
+        "• Tamarind",
+        "• Curry leaves",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Fish",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/fish_curry.png"
     },
     {
       "name": "Idli",
@@ -252,16 +265,17 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "\u2022 Rice",
-        "\u2022 Urad dal",
-        "\u2022 Salt",
-        "\u2022 Water"
+        "• Rice",
+        "• Urad dal",
+        "• Salt",
+        "• Water"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Rice",
         "Urad dal"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/idli.png"
     },
     {
       "name": "Rasam",
@@ -270,17 +284,18 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "\u2022 Tamarind",
-        "\u2022 Tomato",
-        "\u2022 Black pepper",
-        "\u2022 Garlic",
-        "\u2022 Mustard seeds"
+        "• Tamarind",
+        "• Tomato",
+        "• Black pepper",
+        "• Garlic",
+        "• Mustard seeds"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Tamarind",
         "Tomato"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/rasam.png"
     },
     {
       "name": "Fish Curry",
@@ -289,17 +304,18 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "\u2022 Fish",
-        "\u2022 Mustard oil",
-        "\u2022 Turmeric",
-        "\u2022 Chilies",
-        "\u2022 Spices"
+        "• Fish",
+        "• Mustard oil",
+        "• Turmeric",
+        "• Chilies",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Fish",
         "Mustard oil"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/fish_curry.png"
     },
     {
       "name": "Macher Jhol",
@@ -308,17 +324,18 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "\u2022 Rohu fish",
-        "\u2022 Potatoes",
-        "\u2022 Mustard oil",
-        "\u2022 Tomato",
-        "\u2022 Spices"
+        "• Rohu fish",
+        "• Potatoes",
+        "• Mustard oil",
+        "• Tomato",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Rohu fish",
         "Potatoes"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/macher_jhol.png"
     },
     {
       "name": "Aloo Posto",
@@ -327,16 +344,17 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "\u2022 Potatoes",
-        "\u2022 Poppy seeds",
-        "\u2022 Mustard oil",
-        "\u2022 Green chilies"
+        "• Potatoes",
+        "• Poppy seeds",
+        "• Mustard oil",
+        "• Green chilies"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Potatoes",
         "Poppy seeds"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/aloo_posto.png"
     },
     {
       "name": "Prawn Malai Curry",
@@ -345,16 +363,17 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "\u2022 Prawns",
-        "\u2022 Coconut milk",
-        "\u2022 Onion",
-        "\u2022 Spices"
+        "• Prawns",
+        "• Coconut milk",
+        "• Onion",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Prawns",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/prawn_malai_curry.png"
     },
     {
       "name": "Rasgulla",
@@ -363,15 +382,16 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "\u2022 Milk",
-        "\u2022 Sugar",
-        "\u2022 Lemon juice"
+        "• Milk",
+        "• Sugar",
+        "• Lemon juice"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Milk",
         "Sugar"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/rasgulla.png"
     },
     {
       "name": "Sandesh",
@@ -380,15 +400,16 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "\u2022 Paneer",
-        "\u2022 Sugar",
-        "\u2022 Cardamom"
+        "• Paneer",
+        "• Sugar",
+        "• Cardamom"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Paneer",
         "Sugar"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sandesh.png"
     },
     {
       "name": "Dhokla",
@@ -397,16 +418,17 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "\u2022 Gram flour",
-        "\u2022 Yogurt",
-        "\u2022 Lemon juice",
-        "\u2022 Mustard seeds"
+        "• Gram flour",
+        "• Yogurt",
+        "• Lemon juice",
+        "• Mustard seeds"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Gram flour",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/dhokla.png"
     },
     {
       "name": "Goan Prawn Curry",
@@ -415,16 +437,17 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "\u2022 Prawns",
-        "\u2022 Coconut milk",
-        "\u2022 Tamarind",
-        "\u2022 Spices"
+        "• Prawns",
+        "• Coconut milk",
+        "• Tamarind",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Prawns",
         "Coconut milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/goan_prawn_curry.png"
     },
     {
       "name": "Vada Pav",
@@ -433,16 +456,17 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "\u2022 Potatoes",
-        "\u2022 Gram flour",
-        "\u2022 Bread",
-        "\u2022 Spices"
+        "• Potatoes",
+        "• Gram flour",
+        "• Bread",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Potatoes",
         "Gram flour"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/vada_pav.png"
     },
     {
       "name": "Misal Pav",
@@ -451,16 +475,17 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "\u2022 Sprouts",
-        "\u2022 Spices",
-        "\u2022 Bread",
-        "\u2022 Onion"
+        "• Sprouts",
+        "• Spices",
+        "• Bread",
+        "• Onion"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Sprouts",
         "Spices"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/misal_pav.png"
     },
     {
       "name": "Thepla",
@@ -469,16 +494,17 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "\u2022 Wheat flour",
-        "\u2022 Fenugreek leaves",
-        "\u2022 Yogurt",
-        "\u2022 Spices"
+        "• Wheat flour",
+        "• Fenugreek leaves",
+        "• Yogurt",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Wheat flour",
         "Fenugreek leaves"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/thepla.png"
     },
     {
       "name": "Puran Poli",
@@ -487,16 +513,17 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "\u2022 Wheat flour",
-        "\u2022 Chana dal",
-        "\u2022 Jaggery",
-        "\u2022 Ghee"
+        "• Wheat flour",
+        "• Chana dal",
+        "• Jaggery",
+        "• Ghee"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Wheat flour",
         "Chana dal"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/puran_poli.png"
     },
     {
       "name": "Smoked Pork Curry",
@@ -505,17 +532,18 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "\u2022 Pork",
-        "\u2022 Bamboo shoots",
-        "\u2022 Ginger",
-        "\u2022 Garlic",
-        "\u2022 Chilies"
+        "• Pork",
+        "• Bamboo shoots",
+        "• Ginger",
+        "• Garlic",
+        "• Chilies"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Pork",
         "Bamboo shoots"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/smoked_pork_curry.png"
     },
     {
       "name": "Fish Tenia",
@@ -524,16 +552,17 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "\u2022 Fish",
-        "\u2022 Mustard leaves",
-        "\u2022 Ginger",
-        "\u2022 Garlic"
+        "• Fish",
+        "• Mustard leaves",
+        "• Ginger",
+        "• Garlic"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Fish",
         "Mustard leaves"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/fish_tenia.png"
     },
     {
       "name": "Eromba",
@@ -542,16 +571,17 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "\u2022 Fermented fish",
-        "\u2022 Boiled vegetables",
-        "\u2022 Chilies",
-        "\u2022 Salt"
+        "• Fermented fish",
+        "• Boiled vegetables",
+        "• Chilies",
+        "• Salt"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Fermented fish",
         "Boiled vegetables"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/eromba.png"
     },
     {
       "name": "Jadoh",
@@ -560,16 +590,17 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "\u2022 Rice",
-        "\u2022 Pork",
-        "\u2022 Spices",
-        "\u2022 Onion"
+        "• Rice",
+        "• Pork",
+        "• Spices",
+        "• Onion"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Rice",
         "Pork"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/jadoh.png"
     },
     {
       "name": "Thukpa",
@@ -578,16 +609,17 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "\u2022 Noodles",
-        "\u2022 Chicken",
-        "\u2022 Vegetables",
-        "\u2022 Spices"
+        "• Noodles",
+        "• Chicken",
+        "• Vegetables",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Noodles",
         "Chicken"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/thukpa.png"
     },
     {
       "name": "Pork with Lai Xaak",
@@ -596,16 +628,17 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "\u2022 Pork",
-        "\u2022 Mustard greens",
-        "\u2022 Garlic",
-        "\u2022 Ginger"
+        "• Pork",
+        "• Mustard greens",
+        "• Garlic",
+        "• Ginger"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Pork",
         "Mustard greens"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pork_with_lai_xaak.png"
     },
     {
       "name": "Poha",
@@ -614,17 +647,18 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "\u2022 Flattened rice",
-        "\u2022 Onion",
-        "\u2022 Mustard seeds",
-        "\u2022 Curry leaves",
-        "\u2022 Lemon"
+        "• Flattened rice",
+        "• Onion",
+        "• Mustard seeds",
+        "• Curry leaves",
+        "• Lemon"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Flattened rice",
         "Onion"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/poha.png"
     },
     {
       "name": "Bhutte Ka Kees",
@@ -633,16 +667,17 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "\u2022 Corn",
-        "\u2022 Milk",
-        "\u2022 Spices",
-        "\u2022 Ghee"
+        "• Corn",
+        "• Milk",
+        "• Spices",
+        "• Ghee"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Corn",
         "Milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/bhutte_ka_kees.png"
     },
     {
       "name": "Dal Bafla",
@@ -651,16 +686,17 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "\u2022 Wheat flour",
-        "\u2022 Lentils",
-        "\u2022 Ghee",
-        "\u2022 Spices"
+        "• Wheat flour",
+        "• Lentils",
+        "• Ghee",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Wheat flour",
         "Lentils"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/dal_bafla.png"
     },
     {
       "name": "Sabudana Khichdi",
@@ -669,16 +705,17 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "\u2022 Tapioca pearls",
-        "\u2022 Potato",
-        "\u2022 Peanuts",
-        "\u2022 Spices"
+        "• Tapioca pearls",
+        "• Potato",
+        "• Peanuts",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Tapioca pearls",
         "Potato"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sabudana_khichdi.png"
     },
     {
       "name": "Chana Samosa",
@@ -687,16 +724,17 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "\u2022 Chickpeas",
-        "\u2022 Potato",
-        "\u2022 Spices",
-        "\u2022 Flour"
+        "• Chickpeas",
+        "• Potato",
+        "• Spices",
+        "• Flour"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Chickpeas",
         "Potato"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chana_samosa.png"
     },
     {
       "name": "Khopra Pak",
@@ -705,15 +743,16 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "\u2022 Coconut",
-        "\u2022 Sugar",
-        "\u2022 Milk"
+        "• Coconut",
+        "• Sugar",
+        "• Milk"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Coconut",
         "Sugar"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/khopra_pak.png"
     },
     {
       "name": "Dal Baati Churma",
@@ -722,16 +761,17 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "\u2022 Wheat flour",
-        "\u2022 Lentils",
-        "\u2022 Ghee",
-        "\u2022 Spices"
+        "• Wheat flour",
+        "• Lentils",
+        "• Ghee",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Wheat flour",
         "Lentils"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/dal_baati_churma.png"
     },
     {
       "name": "Gatte Ki Sabzi",
@@ -740,16 +780,17 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "\u2022 Gram flour",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Oil"
+        "• Gram flour",
+        "• Yogurt",
+        "• Spices",
+        "• Oil"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Gram flour",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gatte_ki_sabzi.png"
     },
     {
       "name": "Ker Sangri",
@@ -758,16 +799,17 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "\u2022 Desert beans",
-        "\u2022 Berries",
-        "\u2022 Oil",
-        "\u2022 Spices"
+        "• Desert beans",
+        "• Berries",
+        "• Oil",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Desert beans",
         "Berries"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ker_sangri.png"
     },
     {
       "name": "Laal Maas",
@@ -776,16 +818,17 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "\u2022 Mutton",
-        "\u2022 Red chilies",
-        "\u2022 Garlic",
-        "\u2022 Ghee"
+        "• Mutton",
+        "• Red chilies",
+        "• Garlic",
+        "• Ghee"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Mutton",
         "Red chilies"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/laal_maas.png"
     },
     {
       "name": "Papad Ki Sabzi",
@@ -794,16 +837,17 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "\u2022 Papad",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Oil"
+        "• Papad",
+        "• Yogurt",
+        "• Spices",
+        "• Oil"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Papad",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/papad_ki_sabzi.png"
     },
     {
       "name": "Bajra Roti",
@@ -812,15 +856,16 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "\u2022 Millet flour",
-        "\u2022 Ghee",
-        "\u2022 Salt"
+        "• Millet flour",
+        "• Ghee",
+        "• Salt"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Millet flour",
         "Ghee"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/bajra_roti.png"
     },
     {
       "name": "Rogan Josh",
@@ -829,17 +874,18 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "\u2022 Mutton",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Saffron",
-        "\u2022 Ghee"
+        "• Mutton",
+        "• Yogurt",
+        "• Spices",
+        "• Saffron",
+        "• Ghee"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Mutton",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/rogan_josh.png"
     },
     {
       "name": "Yakhni",
@@ -848,16 +894,17 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "\u2022 Mutton",
-        "\u2022 Yogurt",
-        "\u2022 Fennel",
-        "\u2022 Spices"
+        "• Mutton",
+        "• Yogurt",
+        "• Fennel",
+        "• Spices"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Mutton",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/yakhni.png"
     },
     {
       "name": "Dum Aloo",
@@ -866,16 +913,17 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "\u2022 Baby potatoes",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Oil"
+        "• Baby potatoes",
+        "• Yogurt",
+        "• Spices",
+        "• Oil"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Baby potatoes",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/dum_aloo.png"
     },
     {
       "name": "Gushtaba",
@@ -884,16 +932,17 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "\u2022 Minced mutton",
-        "\u2022 Yogurt",
-        "\u2022 Spices",
-        "\u2022 Ghee"
+        "• Minced mutton",
+        "• Yogurt",
+        "• Spices",
+        "• Ghee"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Minced mutton",
         "Yogurt"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gushtaba.png"
     },
     {
       "name": "Kahwa",
@@ -902,16 +951,17 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "\u2022 Green tea",
-        "\u2022 Saffron",
-        "\u2022 Almonds",
-        "\u2022 Sugar"
+        "• Green tea",
+        "• Saffron",
+        "• Almonds",
+        "• Sugar"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Green tea",
         "Saffron"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/kahwa.png"
     },
     {
       "name": "Modur Pulao",
@@ -920,17 +970,18 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "\u2022 Rice",
-        "\u2022 Milk",
-        "\u2022 Sugar",
-        "\u2022 Dry fruits",
-        "\u2022 Saffron"
+        "• Rice",
+        "• Milk",
+        "• Sugar",
+        "• Dry fruits",
+        "• Saffron"
       ],
       "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
       "requiredIngredients": [
         "Rice",
         "Milk"
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/modur_pulao.png"
     }
   ]
 }
