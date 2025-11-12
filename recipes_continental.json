@@ -5,27 +5,415 @@
       "imageName": "grilled_steak",
       "cuisine": "Continental",
       "country": "USA",
-      "ingredients": ["• Beef steak", "• Butter", "• Garlic", "• Herbs", "• Salt", "• Pepper"],
+      "ingredients": [
+        "\u2022 Beef steak",
+        "\u2022 Butter",
+        "\u2022 Garlic",
+        "\u2022 Herbs",
+        "\u2022 Salt",
+        "\u2022 Pepper"
+      ],
       "instructions": "1. Season steak with salt and pepper\n2. Heat grill to high\n3. Grill steak 4 minutes each side\n4. Add butter and garlic\n5. Let rest 5 minutes\n6. Slice and serve",
-      "requiredIngredients": ["Beef", "Butter"]
+      "requiredIngredients": [
+        "Beef",
+        "Butter"
+      ]
     },
     {
       "name": "Caesar Salad",
       "imageName": "caesar_salad",
       "cuisine": "Continental",
       "country": "USA",
-      "ingredients": ["• Romaine lettuce", "• Croutons", "• Parmesan", "• Caesar dressing", "• Chicken (optional)"],
+      "ingredients": [
+        "\u2022 Romaine lettuce",
+        "\u2022 Croutons",
+        "\u2022 Parmesan",
+        "\u2022 Caesar dressing",
+        "\u2022 Chicken (optional)"
+      ],
       "instructions": "1. Wash and chop lettuce\n2. Grill chicken if using\n3. Toss lettuce with dressing\n4. Add croutons\n5. Top with parmesan\n6. Add chicken slices\n7. Serve fresh",
-      "requiredIngredients": ["Lettuce", "Cheese"]
+      "requiredIngredients": [
+        "Lettuce",
+        "Cheese"
+      ]
     },
     {
       "name": "Fish and Chips",
       "imageName": "fish_chips",
       "cuisine": "Continental",
       "country": "UK",
-      "ingredients": ["• White fish", "• Potatoes", "• Flour", "• Beer", "• Oil for frying"],
+      "ingredients": [
+        "\u2022 White fish",
+        "\u2022 Potatoes",
+        "\u2022 Flour",
+        "\u2022 Beer",
+        "\u2022 Oil for frying"
+      ],
       "instructions": "1. Cut potatoes into chips\n2. Make beer batter\n3. Coat fish in batter\n4. Deep fry fish until golden\n5. Fry chips until crispy\n6. Serve with tartar sauce",
-      "requiredIngredients": ["Fish", "Potato"]
+      "requiredIngredients": [
+        "Fish",
+        "Potato"
+      ]
+    },
+    {
+      "name": "Beef Stroganoff",
+      "imageName": "beef_stroganoff",
+      "cuisine": "Continental",
+      "country": "Russia",
+      "ingredients": [
+        "\u2022 Beef",
+        "\u2022 Mushrooms",
+        "\u2022 Onions",
+        "\u2022 Sour cream",
+        "\u2022 Butter",
+        "\u2022 Flour"
+      ],
+      "instructions": "1. Saut\u00e9 onions and mushrooms\n2. Add beef strips and brown\n3. Stir in flour and sour cream\n4. Simmer until thickened\n5. Serve over noodles",
+      "requiredIngredients": [
+        "Beef",
+        "Mushroom"
+      ]
+    },
+    {
+      "name": "Chicken Kiev",
+      "imageName": "chicken_kiev",
+      "cuisine": "Continental",
+      "country": "Ukraine",
+      "ingredients": [
+        "\u2022 Chicken breast",
+        "\u2022 Butter",
+        "\u2022 Garlic",
+        "\u2022 Parsley",
+        "\u2022 Breadcrumbs",
+        "\u2022 Egg"
+      ],
+      "instructions": "1. Make garlic butter and freeze\n2. Stuff chicken with butter\n3. Coat in egg and breadcrumbs\n4. Fry until golden\n5. Bake until cooked through",
+      "requiredIngredients": [
+        "Chicken",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Shepherd\u2019s Pie",
+      "imageName": "shepherds_pie",
+      "cuisine": "Continental",
+      "country": "UK",
+      "ingredients": [
+        "\u2022 Minced lamb",
+        "\u2022 Onions",
+        "\u2022 Carrots",
+        "\u2022 Peas",
+        "\u2022 Mashed potatoes",
+        "\u2022 Butter"
+      ],
+      "instructions": "1. Cook minced lamb with onions and carrots\n2. Add peas\n3. Spread mashed potatoes on top\n4. Bake until golden",
+      "requiredIngredients": [
+        "Lamb",
+        "Potato"
+      ]
+    },
+    {
+      "name": "Quiche Lorraine",
+      "imageName": "quiche_lorraine",
+      "cuisine": "Continental",
+      "country": "France",
+      "ingredients": [
+        "\u2022 Pastry crust",
+        "\u2022 Bacon",
+        "\u2022 Eggs",
+        "\u2022 Cream",
+        "\u2022 Cheese"
+      ],
+      "instructions": "1. Prebake pastry shell\n2. Cook bacon\n3. Mix eggs, cream, cheese\n4. Pour filling and bake",
+      "requiredIngredients": [
+        "Egg",
+        "Cheese"
+      ]
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "imageName": "spaghetti_carbonara",
+      "cuisine": "Continental",
+      "country": "Italy",
+      "ingredients": [
+        "\u2022 Spaghetti",
+        "\u2022 Eggs",
+        "\u2022 Parmesan",
+        "\u2022 Pancetta",
+        "\u2022 Pepper"
+      ],
+      "instructions": "1. Cook spaghetti\n2. Fry pancetta\n3. Mix eggs and cheese\n4. Toss with pasta and pancetta",
+      "requiredIngredients": [
+        "Pasta",
+        "Egg"
+      ]
+    },
+    {
+      "name": "Roast Chicken",
+      "imageName": "roast_chicken",
+      "cuisine": "Continental",
+      "country": "UK",
+      "ingredients": [
+        "\u2022 Whole chicken",
+        "\u2022 Butter",
+        "\u2022 Herbs",
+        "\u2022 Garlic",
+        "\u2022 Lemon"
+      ],
+      "instructions": "1. Rub chicken with butter and herbs\n2. Stuff with garlic and lemon\n3. Roast until golden brown",
+      "requiredIngredients": [
+        "Chicken",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Beef Wellington",
+      "imageName": "beef_wellington",
+      "cuisine": "Continental",
+      "country": "UK",
+      "ingredients": [
+        "\u2022 Beef tenderloin",
+        "\u2022 Mushrooms",
+        "\u2022 Puff pastry",
+        "\u2022 Prosciutto",
+        "\u2022 Egg yolk"
+      ],
+      "instructions": "1. Wrap seared beef with mushrooms and prosciutto\n2. Encase in puff pastry\n3. Bake until golden",
+      "requiredIngredients": [
+        "Beef",
+        "Pastry"
+      ]
+    },
+    {
+      "name": "Ratatouille",
+      "imageName": "ratatouille",
+      "cuisine": "Continental",
+      "country": "France",
+      "ingredients": [
+        "\u2022 Eggplant",
+        "\u2022 Zucchini",
+        "\u2022 Bell pepper",
+        "\u2022 Tomato",
+        "\u2022 Olive oil"
+      ],
+      "instructions": "1. Slice vegetables\n2. Layer in baking dish\n3. Drizzle with olive oil\n4. Bake until tender",
+      "requiredIngredients": [
+        "Tomato",
+        "Eggplant"
+      ]
+    },
+    {
+      "name": "Croque Monsieur",
+      "imageName": "croque_monsieur",
+      "cuisine": "Continental",
+      "country": "France",
+      "ingredients": [
+        "\u2022 Bread",
+        "\u2022 Ham",
+        "\u2022 Cheese",
+        "\u2022 B\u00e9chamel sauce"
+      ],
+      "instructions": "1. Layer ham and cheese between bread\n2. Spread b\u00e9chamel sauce on top\n3. Grill until golden",
+      "requiredIngredients": [
+        "Ham",
+        "Cheese"
+      ]
+    },
+    {
+      "name": "Goulash",
+      "imageName": "goulash",
+      "cuisine": "Continental",
+      "country": "Hungary",
+      "ingredients": [
+        "\u2022 Beef",
+        "\u2022 Onions",
+        "\u2022 Paprika",
+        "\u2022 Tomato paste",
+        "\u2022 Potatoes"
+      ],
+      "instructions": "1. Saut\u00e9 onions\n2. Add beef and paprika\n3. Stir in tomato paste\n4. Add potatoes and simmer",
+      "requiredIngredients": [
+        "Beef",
+        "Potato"
+      ]
+    },
+    {
+      "name": "Roasted Vegetables",
+      "imageName": "roasted_vegetables",
+      "cuisine": "Continental",
+      "country": "France",
+      "ingredients": [
+        "\u2022 Carrots",
+        "\u2022 Potatoes",
+        "\u2022 Zucchini",
+        "\u2022 Olive oil",
+        "\u2022 Herbs"
+      ],
+      "instructions": "1. Chop vegetables\n2. Toss in olive oil and herbs\n3. Roast until tender",
+      "requiredIngredients": [
+        "Vegetable",
+        "Olive oil"
+      ]
+    },
+    {
+      "name": "Mashed Potatoes",
+      "imageName": "mashed_potatoes",
+      "cuisine": "Continental",
+      "country": "UK",
+      "ingredients": [
+        "\u2022 Potatoes",
+        "\u2022 Butter",
+        "\u2022 Milk",
+        "\u2022 Salt",
+        "\u2022 Pepper"
+      ],
+      "instructions": "1. Boil potatoes\n2. Mash with butter and milk\n3. Season with salt and pepper",
+      "requiredIngredients": [
+        "Potato",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Apple Strudel",
+      "imageName": "apple_strudel",
+      "cuisine": "Continental",
+      "country": "Austria",
+      "ingredients": [
+        "\u2022 Puff pastry",
+        "\u2022 Apples",
+        "\u2022 Sugar",
+        "\u2022 Cinnamon",
+        "\u2022 Raisins"
+      ],
+      "instructions": "1. Fill pastry with apple mixture\n2. Roll up and bake\n3. Dust with sugar",
+      "requiredIngredients": [
+        "Apple",
+        "Pastry"
+      ]
+    },
+    {
+      "name": "Minestrone Soup",
+      "imageName": "minestrone_soup",
+      "cuisine": "Continental",
+      "country": "Italy",
+      "ingredients": [
+        "\u2022 Mixed vegetables",
+        "\u2022 Beans",
+        "\u2022 Pasta",
+        "\u2022 Tomato",
+        "\u2022 Broth"
+      ],
+      "instructions": "1. Saut\u00e9 vegetables\n2. Add broth, beans, and pasta\n3. Simmer until cooked",
+      "requiredIngredients": [
+        "Vegetable",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Risotto alla Milanese",
+      "imageName": "risotto_milanese",
+      "cuisine": "Continental",
+      "country": "Italy",
+      "ingredients": [
+        "\u2022 Arborio rice",
+        "\u2022 Saffron",
+        "\u2022 Butter",
+        "\u2022 Parmesan",
+        "\u2022 Stock"
+      ],
+      "instructions": "1. Toast rice in butter\n2. Add stock gradually\n3. Stir in saffron and cheese",
+      "requiredIngredients": [
+        "Rice",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Coq au Vin",
+      "imageName": "coq_au_vin",
+      "cuisine": "Continental",
+      "country": "France",
+      "ingredients": [
+        "\u2022 Chicken",
+        "\u2022 Red wine",
+        "\u2022 Mushrooms",
+        "\u2022 Bacon",
+        "\u2022 Onions"
+      ],
+      "instructions": "1. Marinate chicken in wine\n2. Sear with bacon and onions\n3. Simmer with mushrooms",
+      "requiredIngredients": [
+        "Chicken",
+        "Wine"
+      ]
+    },
+    {
+      "name": "Pancakes",
+      "imageName": "pancakes",
+      "cuisine": "Continental",
+      "country": "USA",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Milk",
+        "\u2022 Eggs",
+        "\u2022 Butter",
+        "\u2022 Sugar"
+      ],
+      "instructions": "1. Mix batter\n2. Cook on skillet until golden\n3. Serve with syrup",
+      "requiredIngredients": [
+        "Flour",
+        "Egg"
+      ]
+    },
+    {
+      "name": "Yorkshire Pudding",
+      "imageName": "yorkshire_pudding",
+      "cuisine": "Continental",
+      "country": "UK",
+      "ingredients": [
+        "\u2022 Flour",
+        "\u2022 Eggs",
+        "\u2022 Milk",
+        "\u2022 Beef drippings"
+      ],
+      "instructions": "1. Whisk batter\n2. Pour into hot drippings\n3. Bake until puffed and golden",
+      "requiredIngredients": [
+        "Egg",
+        "Flour"
+      ]
+    },
+    {
+      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "imageName": "creme_brulee",
+      "cuisine": "Continental",
+      "country": "France",
+      "ingredients": [
+        "\u2022 Cream",
+        "\u2022 Egg yolks",
+        "\u2022 Sugar",
+        "\u2022 Vanilla"
+      ],
+      "instructions": "1. Mix yolks, sugar, and cream\n2. Bake in water bath\n3. Chill and caramelize sugar top",
+      "requiredIngredients": [
+        "Cream",
+        "Egg"
+      ]
+    },
+    {
+      "name": "Tiramisu",
+      "imageName": "tiramisu",
+      "cuisine": "Continental",
+      "country": "Italy",
+      "ingredients": [
+        "\u2022 Mascarpone",
+        "\u2022 Eggs",
+        "\u2022 Coffee",
+        "\u2022 Ladyfingers",
+        "\u2022 Cocoa powder"
+      ],
+      "instructions": "1. Layer coffee-soaked ladyfingers with mascarpone mixture\n2. Chill\n3. Dust with cocoa powder",
+      "requiredIngredients": [
+        "Coffee",
+        "Mascarpone"
+      ]
     }
   ]
 }
