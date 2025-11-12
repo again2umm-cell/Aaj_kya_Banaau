@@ -1,0 +1,361 @@
+{
+  "recipes": [
+    {
+      "name": "Dal Rice",
+      "imageName": "dal_rice",
+      "ingredients": ["• 1 cup Rice", "• 1/2 cup Dal", "• 1 tsp Turmeric", "• Salt to taste", "• 2 cups Water"],
+      "instructions": "1. Wash rice and dal separately\n2. Cook rice with 2 cups water until soft\n3. Pressure cook dal with turmeric and salt\n4. Mix cooked dal with rice\n5. Serve hot with ghee",
+      "requiredIngredients": ["Dal", "Rice"]
+    },
+    {
+      "name": "Aloo Sabzi",
+      "imageName": "aloo_sabzi",
+      "ingredients": ["• 4 Potatoes", "• 1 Onion", "• 1 tsp Cumin seeds", "• 1 tsp Turmeric", "• Salt to taste", "• 2 tbsp Oil"],
+      "instructions": "1. Cut potatoes into cubes\n2. Heat oil, add cumin seeds\n3. Add chopped onions, cook until golden\n4. Add potatoes, turmeric, salt\n5. Cover and cook for 15-20 minutes\n6. Serve hot with roti",
+      "requiredIngredients": ["Potato", "Onion"]
+    },
+    {
+      "name": "Rajma",
+      "imageName": "rajma",
+      "ingredients": ["• 1 cup Rajma (soaked overnight)", "• 1 Onion", "• 2 Tomatoes", "• Ginger-garlic paste", "• Spices"],
+      "instructions": "1. Pressure cook soaked rajma for 4-5 whistles\n2. Heat oil, add cumin seeds\n3. Add onions, cook until brown\n4. Add ginger-garlic paste, tomatoes\n5. Add cooked rajma with water\n6. Simmer for 15 minutes\n7. Serve with rice",
+      "requiredIngredients": ["Rajma", "Onion"]
+    },
+    {
+      "name": "Chole",
+      "imageName": "chole",
+      "ingredients": ["• 1 cup Chickpeas (soaked)", "• 1 Onion", "• 2 Tomatoes", "• Chole masala", "• Ginger-garlic paste"],
+      "instructions": "1. Pressure cook soaked chickpeas\n2. Heat oil in pan\n3. Add onions, cook until golden\n4. Add ginger-garlic paste and tomatoes\n5. Add chole masala and spices\n6. Add cooked chickpeas\n7. Cook for 15 minutes\n8. Garnish with coriander",
+      "requiredIngredients": ["Chickpeas", "Onion"]
+    },
+    {
+      "name": "Paneer Curry",
+      "imageName": "paneer_curry",
+      "ingredients": ["• 200g Paneer cubes", "• 2 Tomatoes", "• 1 Onion", "• 2 tbsp Cream", "• Spices"],
+      "instructions": "1. Cut paneer into cubes\n2. Make paste of tomatoes and onions\n3. Heat oil, add the paste\n4. Cook until oil separates\n5. Add paneer cubes gently\n6. Add cream and spices\n7. Simmer for 5 minutes\n8. Serve hot",
+      "requiredIngredients": ["Paneer", "Tomato"]
+    },
+    {
+      "name": "Biryani",
+      "imageName": "biryani",
+      "ingredients": ["• 2 cups Basmati Rice", "• 500g Meat/Vegetables", "• 1 cup Yogurt", "• Biryani spices", "• Fried onions"],
+      "instructions": "1. Soak rice for 30 minutes\n2. Marinate meat with yogurt and spices\n3. Cook meat until 70% done\n4. Boil rice until 70% cooked\n5. Layer rice and meat alternately\n6. Top with fried onions\n7. Cook on dum for 45 minutes\n8. Serve with raita",
+      "requiredIngredients": ["Rice", "Yogurt"]
+    },
+    {
+      "name": "Roti",
+      "imageName": "roti",
+      "ingredients": ["• 2 cups Wheat Flour", "• Water as needed", "• Pinch of Salt", "• 1 tsp Oil (optional)"],
+      "instructions": "1. Mix flour, salt and oil\n2. Add water gradually to make soft dough\n3. Rest dough for 15 minutes\n4. Roll into small circles\n5. Cook on hot tawa until brown spots appear\n6. Flip and cook other side\n7. Serve hot with curry",
+      "requiredIngredients": ["Wheat Flour"]
+    },
+    {
+      "name": "Paratha",
+      "imageName": "paratha",
+      "ingredients": ["• 2 cups Wheat Flour", "• Ghee/Oil", "• Salt", "• Stuffing (optional)"],
+      "instructions": "1. Make dough like roti\n2. Roll, apply ghee, fold\n3. Roll again into circle\n4. Cook on tawa with ghee\n5. Press gently while cooking\n6. Cook until golden brown\n7. Serve hot with pickle",
+      "requiredIngredients": ["Wheat Flour"]
+    },
+    {
+      "name": "Khichdi",
+      "imageName": "khichdi",
+      "ingredients": ["• 1 cup Rice", "• 1/2 cup Dal", "• Vegetables", "• Turmeric", "• Salt"],
+      "instructions": "1. Wash rice and dal together\n2. Heat ghee, add cumin seeds\n3. Add vegetables, cook for 2 minutes\n4. Add rice, dal, turmeric\n5. Add 4 cups water and salt\n6. Cook until soft and mushy\n7. Serve hot with ghee",
+      "requiredIngredients": ["Rice", "Dal"]
+    },
+    {
+      "name": "Samosa",
+      "imageName": "samosa",
+      "ingredients": ["• 2 cups Flour", "• Potato filling", "• Oil for frying", "• Spices"],
+      "instructions": "1. Make dough with flour and oil\n2. Prepare spiced potato filling\n3. Roll dough into small circles\n4. Cut in half, make cone\n5. Fill with potato mixture\n6. Seal edges with water\n7. Deep fry until golden\n8. Serve hot with chutney",
+      "requiredIngredients": ["Wheat Flour", "Potato"]
+    },
+    {
+      "name": "Dosa",
+      "imageName": "dosa",
+      "ingredients": ["• 3 cups Rice", "• 1 cup Urad Dal", "• Salt", "• Oil for cooking"],
+      "instructions": "1. Soak rice and dal separately for 4 hours\n2. Grind to smooth batter\n3. Mix and add salt\n4. Ferment overnight\n5. Heat non-stick pan\n6. Pour batter, spread thin\n7. Cook until crispy\n8. Serve with sambar and chutney",
+      "requiredIngredients": ["Rice", "Dal"]
+    },
+    {
+      "name": "Idli",
+      "imageName": "idli",
+      "ingredients": ["• Dosa batter", "• Idli steamer", "• Oil for greasing"],
+      "instructions": "1. Use fermented dosa batter\n2. Grease idli plates with oil\n3. Pour batter into molds\n4. Steam for 12-15 minutes\n5. Check with toothpick\n6. Cool for 2 minutes\n7. Remove gently\n8. Serve with sambar",
+      "requiredIngredients": ["Rice", "Dal"]
+    },
+    {
+      "name": "Poha",
+      "imageName": "poha",
+      "ingredients": ["• 2 cups Flattened Rice", "• Onions", "• Peanuts", "• Curry leaves", "• Turmeric"],
+      "instructions": "1. Wash poha, drain well\n2. Heat oil, add peanuts\n3. Add curry leaves, onions\n4. Add turmeric, salt\n5. Add drained poha\n6. Mix gently, cook 3 minutes\n7. Garnish with coriander\n8. Serve hot with lemon",
+      "requiredIngredients": ["Rice"]
+    },
+    {
+      "name": "Upma",
+      "imageName": "upma",
+      "ingredients": ["• 1 cup Semolina", "• Vegetables", "• Mustard seeds", "• Curry leaves", "• Water"],
+      "instructions": "1. Dry roast semolina until aromatic\n2. Heat oil, add mustard seeds\n3. Add curry leaves, vegetables\n4. Add 3 cups water, bring to boil\n5. Slowly add roasted semolina\n6. Stir continuously to avoid lumps\n7. Cook until thick\n8. Serve hot",
+      "requiredIngredients": ["Semolina"]
+    },
+    {
+      "name": "Pasta",
+      "imageName": "pasta",
+      "ingredients": ["• 2 cups Pasta", "• Vegetables", "• Cheese", "• Herbs", "• Olive oil"],
+      "instructions": "1. Boil pasta in salted water\n2. Heat olive oil in pan\n3. Add vegetables, cook until tender\n4. Add cooked pasta\n5. Toss with cheese and herbs\n6. Season with salt and pepper\n7. Cook for 2 minutes\n8. Serve hot",
+      "requiredIngredients": ["Pasta"]
+    },
+    {
+      "name": "Fried Rice",
+      "imageName": "fried_rice",
+      "ingredients": ["• 2 cups Cooked Rice", "• Mixed vegetables", "• Soy sauce", "• Oil", "• Garlic"],
+      "instructions": "1. Use day-old cooked rice\n2. Heat oil in wok\n3. Add garlic, stir for 30 seconds\n4. Add vegetables, stir-fry\n5. Add rice, break lumps\n6. Add soy sauce, mix well\n7. Stir-fry for 3-4 minutes\n8. Serve hot",
+      "requiredIngredients": ["Rice"]
+    },
+    {
+      "name": "Maggi",
+      "imageName": "maggi",
+      "ingredients": ["• 1 pack Maggi Noodles", "• Vegetables (optional)", "• Maggi Masala", "• Water"],
+      "instructions": "1. Boil 1.5 cups water\n2. Add noodles, break into pieces\n3. Add vegetables if using\n4. Cook for 2 minutes\n5. Add masala packet\n6. Stir well and cook 1 minute\n7. Turn off heat\n8. Serve immediately",
+      "requiredIngredients": ["Noodles"]
+    },
+    {
+      "name": "Sandwich",
+      "imageName": "sandwich",
+      "ingredients": ["• 4 Bread slices", "• Vegetables (tomato, cucumber)", "• Butter", "• Cheese", "• Chutney"],
+      "instructions": "1. Apply butter on bread slices\n2. Spread chutney on one side\n3. Layer vegetables and cheese\n4. Cover with another slice\n5. Heat sandwich maker or pan\n6. Grill until golden brown\n7. Cut diagonally\n8. Serve hot with ketchup",
+      "requiredIngredients": ["Bread"]
+    },
+    {
+      "name": "Butter Chicken",
+      "imageName": "butter_chicken",
+      "ingredients": ["• 500g Chicken", "• 2 tbsp Butter", "• 1 cup Cream", "• Tomato puree", "• Spices"],
+      "instructions": "1. Marinate chicken with spices\n2. Cook chicken until tender\n3. Make tomato gravy with butter\n4. Add cooked chicken to gravy\n5. Add cream and simmer\n6. Garnish with coriander\n7. Serve with rice or naan",
+      "requiredIngredients": ["Chicken", "Butter"]
+    },
+    {
+      "name": "Palak Paneer",
+      "imageName": "palak_paneer",
+      "ingredients": ["• 200g Paneer", "• 2 cups Spinach", "• 1 Onion", "• Cream", "• Spices"],
+      "instructions": "1. Blanch spinach and make puree\n2. Cut paneer into cubes\n3. Cook onions until golden\n4. Add spinach puree and spices\n5. Add paneer cubes gently\n6. Add cream and simmer\n7. Serve hot with roti",
+      "requiredIngredients": ["Paneer", "Spinach"]
+    },
+    {
+      "name": "Pizza",
+      "imageName": "pizza",
+      "ingredients": ["• Pizza base", "• Tomato sauce", "• Cheese", "• Vegetables", "• Herbs"],
+      "instructions": "1. Spread sauce on pizza base\n2. Add cheese generously\n3. Top with vegetables\n4. Sprinkle herbs and spices\n5. Bake at 200°C for 15 minutes\n6. Cut into slices\n7. Serve hot",
+      "requiredIngredients": ["Bread", "Cheese"]
+    },
+    {
+      "name": "Burger",
+      "imageName": "burger",
+      "ingredients": ["• Burger buns", "• Patty (veg/chicken)", "• Lettuce", "• Tomato", "• Cheese", "• Sauce"],
+      "instructions": "1. Cook patty until done\n2. Toast burger buns\n3. Apply sauce on buns\n4. Layer lettuce and tomato\n5. Place cooked patty\n6. Add cheese slice\n7. Cover and serve",
+      "requiredIngredients": ["Bread", "Cheese"]
+    },
+    {
+      "name": "Omelette",
+      "imageName": "omelette",
+      "ingredients": ["• 3 Eggs", "• Onions", "• Tomatoes", "• Green chilies", "• Salt", "• Oil"],
+      "instructions": "1. Beat eggs with salt\n2. Heat oil in pan\n3. Add chopped vegetables\n4. Pour beaten eggs\n5. Cook until bottom sets\n6. Fold in half\n7. Serve hot",
+      "requiredIngredients": ["Eggs"]
+    },
+    {
+      "name": "Pav Bhaji",
+      "imageName": "pav_bhaji",
+      "ingredients": ["• Mixed vegetables", "• Pav bread", "• Butter", "• Pav bhaji masala", "• Onions"],
+      "instructions": "1. Boil and mash vegetables\n2. Heat butter in pan\n3. Add onions, cook until soft\n4. Add mashed vegetables\n5. Add pav bhaji masala\n6. Cook for 10 minutes\n7. Serve with buttered pav",
+      "requiredIngredients": ["Bread", "Potato"]
+    },
+    {
+      "name": "Vada Pav",
+      "imageName": "vada_pav",
+      "ingredients": ["• Pav bread", "• Potato vada", "• Green chutney", "• Tamarind chutney", "• Fried green chilies"],
+      "instructions": "1. Make spiced potato vada\n2. Deep fry until golden\n3. Slit pav bread\n4. Apply chutneys\n5. Place vada inside\n6. Serve with fried chilies\n7. Enjoy hot",
+      "requiredIngredients": ["Bread", "Potato"]
+    },
+    {
+      "name": "Dhokla",
+      "imageName": "dhokla",
+      "ingredients": ["• Gram flour", "• Yogurt", "• Ginger-green chili paste", "• Eno", "• Mustard seeds"],
+      "instructions": "1. Mix gram flour with yogurt\n2. Add ginger-chili paste\n3. Add eno and mix\n4. Steam for 15 minutes\n5. Temper with mustard seeds\n6. Cut into pieces\n7. Serve with chutney",
+      "requiredIngredients": ["Chickpeas", "Yogurt"]
+    },
+    {
+      "name": "Kachori",
+      "imageName": "kachori",
+      "ingredients": ["• Wheat flour", "• Dal filling", "• Oil for frying", "• Spices"],
+      "instructions": "1. Make dough with flour\n2. Prepare spiced dal filling\n3. Roll and stuff dough\n4. Seal edges properly\n5. Deep fry until golden\n6. Serve hot with chutney\n7. Enjoy crispy",
+      "requiredIngredients": ["Wheat Flour", "Dal"]
+    },
+    {
+      "name": "Chicken Curry",
+      "imageName": "chicken_curry",
+      "ingredients": ["• 500g Chicken", "• Onions", "• Tomatoes", "• Coconut milk", "• Curry spices"],
+      "instructions": "1. Marinate chicken with spices\n2. Cook onions until golden\n3. Add tomatoes and cook\n4. Add chicken and cook\n5. Add coconut milk\n6. Simmer until tender\n7. Serve with rice",
+      "requiredIngredients": ["Chicken", "Onion"]
+    },
+    {
+      "name": "Fish Curry",
+      "imageName": "fish_curry",
+      "ingredients": ["• 500g Fish", "• Coconut", "• Tamarind", "• Curry leaves", "• Red chilies"],
+      "instructions": "1. Clean and cut fish\n2. Grind coconut with spices\n3. Cook tamarind water\n4. Add coconut paste\n5. Add fish pieces\n6. Cook until done\n7. Serve with rice",
+      "requiredIngredients": ["Fish", "Coconut"]
+    },
+    {
+      "name": "Mutton Biryani",
+      "imageName": "mutton_biryani",
+      "ingredients": ["• Mutton", "• Basmati rice", "• Yogurt", "• Fried onions", "• Biryani spices"],
+      "instructions": "1. Marinate mutton overnight\n2. Cook mutton until tender\n3. Parboil rice with spices\n4. Layer mutton and rice\n5. Top with fried onions\n6. Cook on dum for 1 hour\n7. Serve with raita",
+      "requiredIngredients": ["Mutton", "Rice"]
+    },
+    {
+      "name": "Aloo Gobi",
+      "imageName": "aloo_gobi",
+      "ingredients": ["• Potatoes", "• Cauliflower", "• Onions", "• Tomatoes", "• Spices"],
+      "instructions": "1. Cut potatoes and cauliflower\n2. Heat oil, add cumin\n3. Add vegetables\n4. Add spices and cook\n5. Cover and simmer\n6. Cook until tender\n7. Serve hot",
+      "requiredIngredients": ["Potato", "Cauliflower"]
+    },
+    {
+      "name": "Bhindi Masala",
+      "imageName": "bhindi_masala",
+      "ingredients": ["• Okra", "• Onions", "• Tomatoes", "• Spices", "• Oil"],
+      "instructions": "1. Wash and cut okra\n2. Heat oil in pan\n3. Add okra, fry until crisp\n4. Add onions and tomatoes\n5. Add spices and cook\n6. Mix well and serve\n7. Enjoy with roti",
+      "requiredIngredients": ["Okra", "Onion"]
+    },
+    {
+      "name": "Kadhi Pakora",
+      "imageName": "kadhi_pakora",
+      "ingredients": ["• Yogurt", "• Gram flour", "• Pakoras", "• Ginger", "• Spices"],
+      "instructions": "1. Make pakoras and fry\n2. Mix yogurt with gram flour\n3. Add water and spices\n4. Cook until thick\n5. Add pakoras\n6. Simmer for 10 minutes\n7. Serve with rice",
+      "requiredIngredients": ["Yogurt", "Chickpeas"]
+    },
+    {
+      "name": "Masala Chai",
+      "imageName": "masala_chai",
+      "ingredients": ["• Tea leaves", "• Milk", "• Sugar", "• Cardamom", "• Ginger"],
+      "instructions": "1. Boil water with spices\n2. Add tea leaves\n3. Add milk and sugar\n4. Boil for 2 minutes\n5. Strain and serve\n6. Enjoy hot\n7. Perfect with snacks",
+      "requiredIngredients": ["Tea", "Milk"]
+    },
+    {
+      "name": "Lassi",
+      "imageName": "lassi",
+      "ingredients": ["• Yogurt", "• Sugar", "• Cardamom", "• Ice", "• Mint"],
+      "instructions": "1. Blend yogurt with sugar\n2. Add cardamom powder\n3. Add ice cubes\n4. Blend until frothy\n5. Pour in glasses\n6. Garnish with mint\n7. Serve chilled",
+      "requiredIngredients": ["Yogurt", "Sugar"]
+    },
+    {
+      "name": "Naan",
+      "imageName": "naan",
+      "ingredients": ["• Wheat flour", "• Yogurt", "• Baking powder", "• Salt", "• Oil"],
+      "instructions": "1. Mix flour with yogurt\n2. Add baking powder and salt\n3. Knead into soft dough\n4. Rest for 2 hours\n5. Roll into oval shape\n6. Cook on tawa\n7. Serve hot with curry",
+      "requiredIngredients": ["Wheat Flour", "Yogurt"]
+    },
+    {
+      "name": "Tandoori Chicken",
+      "imageName": "tandoori_chicken",
+      "ingredients": ["• Chicken", "• Yogurt", "• Tandoori masala", "• Lemon juice", "• Ginger-garlic"],
+      "instructions": "1. Make cuts in chicken\n2. Marinate with yogurt and spices\n3. Rest for 4 hours\n4. Cook in oven at 200°C\n5. Baste with butter\n6. Cook until charred\n7. Serve with onions",
+      "requiredIngredients": ["Chicken", "Yogurt"]
+    },
+    {
+      "name": "Seekh Kebab",
+      "imageName": "seekh_kebab",
+      "ingredients": ["• Minced meat", "• Onions", "• Spices", "• Mint", "• Coriander"],
+      "instructions": "1. Mix mince with spices\n2. Add chopped herbs\n3. Form around skewers\n4. Cook on grill\n5. Turn frequently\n6. Cook until done\n7. Serve with chutney",
+      "requiredIngredients": ["Mutton", "Onion"]
+    },
+    {
+      "name": "Rasgulla",
+      "imageName": "rasgulla",
+      "ingredients": ["• Milk", "• Lemon juice", "• Sugar", "• Water", "• Cardamom"],
+      "instructions": "1. Curdle milk with lemon\n2. Strain and make paneer\n3. Knead into smooth dough\n4. Make small balls\n5. Boil in sugar syrup\n6. Cook for 15 minutes\n7. Serve chilled",
+      "requiredIngredients": ["Milk", "Sugar"]
+    },
+    {
+      "name": "Gulab Jamun",
+      "imageName": "gulab_jamun",
+      "ingredients": ["• Milk powder", "• Flour", "• Ghee", "• Sugar syrup", "• Cardamom"],
+      "instructions": "1. Mix milk powder with flour\n2. Add ghee and make dough\n3. Form small balls\n4. Deep fry until golden\n5. Soak in sugar syrup\n6. Let it absorb syrup\n7. Serve warm",
+      "requiredIngredients": ["Milk", "Sugar"]
+    },
+    {
+      "name": "Jalebi",
+      "imageName": "jalebi",
+      "ingredients": ["• Flour", "• Yogurt", "• Sugar", "• Saffron", "• Oil for frying"],
+      "instructions": "1. Make batter with flour and yogurt\n2. Ferment overnight\n3. Make sugar syrup with saffron\n4. Heat oil for frying\n5. Pour batter in spiral shape\n6. Fry until crispy\n7. Dip in syrup and serve",
+      "requiredIngredients": ["Wheat Flour", "Sugar"]
+    },
+    {
+      "name": "Pani Puri",
+      "imageName": "pani_puri",
+      "ingredients": ["• Puri shells", "• Spiced water", "• Potato filling", "• Tamarind chutney", "• Mint chutney"],
+      "instructions": "1. Make spiced mint water\n2. Prepare potato filling\n3. Make hole in puri\n4. Fill with potato\n5. Add chutneys\n6. Fill with spiced water\n7. Eat immediately",
+      "requiredIngredients": ["Wheat Flour", "Potato"]
+    },
+    {
+      "name": "Bhel Puri",
+      "imageName": "bhel_puri",
+      "ingredients": ["• Puffed rice", "• Sev", "• Onions", "• Tomatoes", "• Chutneys"],
+      "instructions": "1. Mix puffed rice with vegetables\n2. Add chopped onions and tomatoes\n3. Add mint and tamarind chutney\n4. Mix well\n5. Top with sev\n6. Serve immediately\n7. Enjoy crunchy snack",
+      "requiredIngredients": ["Rice", "Onion"]
+    },
+    {
+      "name": "Dahi Vada",
+      "imageName": "dahi_vada",
+      "ingredients": ["• Urad dal", "• Yogurt", "• Tamarind chutney", "• Mint chutney", "• Spices"],
+      "instructions": "1. Soak and grind urad dal\n2. Make fluffy batter\n3. Deep fry vadas\n4. Soak in warm water\n5. Squeeze and place in yogurt\n6. Top with chutneys\n7. Serve chilled",
+      "requiredIngredients": ["Dal", "Yogurt"]
+    },
+    {
+      "name": "Aloo Tikki",
+      "imageName": "aloo_tikki",
+      "ingredients": ["• Potatoes", "• Peas", "• Spices", "• Breadcrumbs", "• Oil"],
+      "instructions": "1. Boil and mash potatoes\n2. Add peas and spices\n3. Form into patties\n4. Coat with breadcrumbs\n5. Shallow fry until golden\n6. Serve with chutney\n7. Enjoy hot and crispy",
+      "requiredIngredients": ["Potato", "Peas"]
+    },
+    {
+      "name": "Malai Kofta",
+      "imageName": "malai_kofta",
+      "ingredients": ["• Paneer", "• Potatoes", "• Cashews", "• Cream", "• Tomato gravy"],
+      "instructions": "1. Mix paneer with mashed potato\n2. Form balls and fry\n3. Make rich tomato gravy\n4. Add cream and cashews\n5. Add fried koftas\n6. Simmer gently\n7. Serve with rice",
+      "requiredIngredients": ["Paneer", "Potato"]
+    },
+    {
+      "name": "Dum Aloo",
+      "imageName": "dum_aloo",
+      "ingredients": ["• Baby potatoes", "• Yogurt", "• Onions", "• Tomatoes", "• Spices"],
+      "instructions": "1. Boil baby potatoes\n2. Prick with fork\n3. Fry until golden\n4. Make spicy gravy\n5. Add potatoes to gravy\n6. Cook on dum\n7. Serve hot",
+      "requiredIngredients": ["Potato", "Yogurt"]
+    },
+    {
+      "name": "Baingan Bharta",
+      "imageName": "baingan_bharta",
+      "ingredients": ["• Eggplant", "• Onions", "• Tomatoes", "• Ginger-garlic", "• Spices"],
+      "instructions": "1. Roast eggplant on flame\n2. Peel and mash\n3. Heat oil, add onions\n4. Add tomatoes and spices\n5. Add mashed eggplant\n6. Cook until dry\n7. Serve with roti",
+      "requiredIngredients": ["Eggplant", "Onion"]
+    },
+    {
+      "name": "Methi Thepla",
+      "imageName": "methi_thepla",
+      "ingredients": ["• Wheat flour", "• Fenugreek leaves", "• Yogurt", "• Spices", "• Oil"],
+      "instructions": "1. Mix flour with chopped methi\n2. Add yogurt and spices\n3. Make soft dough\n4. Roll into thin circles\n5. Cook on tawa with oil\n6. Serve with pickle\n7. Perfect for travel",
+      "requiredIngredients": ["Wheat Flour", "Spinach"]
+    },
+    {
+      "name": "Misal Pav",
+      "imageName": "misal_pav",
+      "ingredients": ["• Mixed sprouts", "• Pav bread", "• Spicy gravy", "• Onions", "• Farsan"],
+      "instructions": "1. Cook mixed sprouts\n2. Make spicy misal gravy\n3. Mix sprouts with gravy\n4. Serve in bowl\n5. Top with onions and farsan\n6. Serve with pav\n7. Enjoy spicy dish",
+      "requiredIngredients": ["Sprouts", "Bread"]
+    }
+  ],
+  "ingredients": [
+    "Bell Pepper", "Bread", "Butter", "Carrot", "Cauliflower", "Cheese", "Chicken", "Chickpeas", "Coconut", "Coriander",
+    "Cucumber", "Cumin Seeds", "Dal", "Eggplant", "Eggs", "Fish", "Garam Masala", "Garlic", "Ginger", "Green Chili",
+    "Lemon", "Milk", "Mint", "Mushroom", "Mutton", "Noodles", "Oil", "Okra", "Onion", "Paneer",
+    "Pasta", "Peas", "Potato", "Rajma", "Red Chili Powder", "Rice", "Salt", "Semolina",
+    "Spinach", "Sprouts", "Sugar", "Tea", "Tomato", "Turmeric", "Wheat Flour", "Yogurt"
+  ]
+}
