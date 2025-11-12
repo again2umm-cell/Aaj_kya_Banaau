@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "name": "Pasta Carbonara",
+      "imageName": "pasta_carbonara",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "ingredients": ["• 400g Spaghetti", "• 200g Bacon", "• 3 Eggs", "• Parmesan cheese", "• Black pepper"],
+      "instructions": "1. Cook pasta in salted water\n2. Fry bacon until crispy\n3. Beat eggs with cheese\n4. Drain pasta, reserve water\n5. Mix hot pasta with egg mixture\n6. Add bacon and toss\n7. Season with pepper\n8. Serve immediately",
+      "requiredIngredients": ["Pasta", "Eggs"]
+    },
+    {
+      "name": "Margherita Pizza",
+      "imageName": "margherita_pizza",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "ingredients": ["• Pizza dough", "• Tomato sauce", "• Mozzarella", "• Fresh basil", "• Olive oil"],
+      "instructions": "1. Roll out pizza dough\n2. Spread tomato sauce\n3. Add mozzarella slices\n4. Drizzle olive oil\n5. Bake at 250°C for 10 minutes\n6. Add fresh basil\n7. Serve hot",
+      "requiredIngredients": ["Bread", "Cheese"]
+    },
+    {
+      "name": "Risotto",
+      "imageName": "risotto",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "ingredients": ["• Arborio rice", "• White wine", "• Parmesan", "• Butter", "• Chicken stock"],
+      "instructions": "1. Heat stock in separate pan\n2. Sauté rice in butter\n3. Add wine and stir\n4. Add stock gradually\n5. Stir continuously\n6. Add parmesan and butter\n7. Serve creamy",
+      "requiredIngredients": ["Rice", "Cheese"]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "name": "Pad Thai",
+      "imageName": "pad_thai",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "ingredients": ["• 200g Rice noodles", "• 100g Shrimp", "• 2 Eggs", "• Peanuts", "• Bean sprouts", "• Tamarind sauce"],
+      "instructions": "1. Soak rice noodles in warm water\n2. Heat oil in wok\n3. Scramble eggs\n4. Add shrimp and cook\n5. Add noodles and sauce\n6. Toss with bean sprouts\n7. Garnish with peanuts\n8. Serve hot",
+      "requiredIngredients": ["Noodles", "Shrimp"]
+    },
+    {
+      "name": "Tom Yum Soup",
+      "imageName": "tom_yum",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "ingredients": ["• Shrimp", "• Lemongrass", "• Galangal", "• Lime leaves", "• Chili", "• Fish sauce"],
+      "instructions": "1. Boil water with lemongrass\n2. Add galangal and lime leaves\n3. Add shrimp and cook\n4. Season with fish sauce\n5. Add chili and lime juice\n6. Serve hot",
+      "requiredIngredients": ["Shrimp", "Lemongrass"]
+    },
+    {
+      "name": "Green Curry",
+      "imageName": "green_curry",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "ingredients": ["• Chicken", "• Green curry paste", "• Coconut milk", "• Vegetables", "• Thai basil"],
+      "instructions": "1. Heat curry paste in pan\n2. Add chicken and cook\n3. Pour coconut milk\n4. Add vegetables\n5. Simmer until done\n6. Add Thai basil\n7. Serve with rice",
+      "requiredIngredients": ["Chicken", "Coconut"]
+    }
+  ]
+}

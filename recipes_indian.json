@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "name": "Butter Chicken",
+      "imageName": "butter_chicken",
+      "cuisine": "Indian",
+      "country": "India",
+      "ingredients": ["• 500g Chicken", "• 2 tbsp Butter", "• 1 cup Cream", "• Tomato puree", "• Spices"],
+      "instructions": "1. Marinate chicken with spices\n2. Cook chicken until tender\n3. Make tomato gravy with butter\n4. Add cooked chicken to gravy\n5. Add cream and simmer\n6. Serve with rice or naan",
+      "requiredIngredients": ["Chicken", "Butter"]
+    },
+    {
+      "name": "Palak Paneer",
+      "imageName": "palak_paneer",
+      "cuisine": "Indian",
+      "country": "India",
+      "ingredients": ["• 200g Paneer", "• 2 cups Spinach", "• 1 Onion", "• Cream", "• Spices"],
+      "instructions": "1. Blanch spinach and make puree\n2. Cut paneer into cubes\n3. Cook onions until golden\n4. Add spinach puree and spices\n5. Add paneer cubes gently\n6. Add cream and simmer\n7. Serve hot with roti",
+      "requiredIngredients": ["Paneer", "Spinach"]
+    },
+    {
+      "name": "Biryani",
+      "imageName": "biryani",
+      "cuisine": "Indian",
+      "country": "India",
+      "ingredients": ["• 2 cups Basmati Rice", "• 500g Meat/Vegetables", "• 1 cup Yogurt", "• Biryani spices", "• Fried onions"],
+      "instructions": "1. Soak rice for 30 minutes\n2. Marinate meat with yogurt and spices\n3. Cook meat until 70% done\n4. Boil rice until 70% cooked\n5. Layer rice and meat alternately\n6. Top with fried onions\n7. Cook on dum for 45 minutes\n8. Serve with raita",
+      "requiredIngredients": ["Rice", "Yogurt"]
+    }
+  ]
+}

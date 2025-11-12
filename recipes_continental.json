@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "name": "Grilled Steak",
+      "imageName": "grilled_steak",
+      "cuisine": "Continental",
+      "country": "USA",
+      "ingredients": ["• Beef steak", "• Butter", "• Garlic", "• Herbs", "• Salt", "• Pepper"],
+      "instructions": "1. Season steak with salt and pepper\n2. Heat grill to high\n3. Grill steak 4 minutes each side\n4. Add butter and garlic\n5. Let rest 5 minutes\n6. Slice and serve",
+      "requiredIngredients": ["Beef", "Butter"]
+    },
+    {
+      "name": "Caesar Salad",
+      "imageName": "caesar_salad",
+      "cuisine": "Continental",
+      "country": "USA",
+      "ingredients": ["• Romaine lettuce", "• Croutons", "• Parmesan", "• Caesar dressing", "• Chicken (optional)"],
+      "instructions": "1. Wash and chop lettuce\n2. Grill chicken if using\n3. Toss lettuce with dressing\n4. Add croutons\n5. Top with parmesan\n6. Add chicken slices\n7. Serve fresh",
+      "requiredIngredients": ["Lettuce", "Cheese"]
+    },
+    {
+      "name": "Fish and Chips",
+      "imageName": "fish_chips",
+      "cuisine": "Continental",
+      "country": "UK",
+      "ingredients": ["• White fish", "• Potatoes", "• Flour", "• Beer", "• Oil for frying"],
+      "instructions": "1. Cut potatoes into chips\n2. Make beer batter\n3. Coat fish in batter\n4. Deep fry fish until golden\n5. Fry chips until crispy\n6. Serve with tartar sauce",
+      "requiredIngredients": ["Fish", "Potato"]
+    }
+  ]
+}
