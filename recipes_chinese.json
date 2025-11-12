@@ -17,7 +17,8 @@
       "requiredIngredients": [
         "Chicken",
         "Peanuts"
-      ]
+      ],
+      "regionalVariety": "General Chinese"
     },
     {
       "name": "Fried Rice",
@@ -35,7 +36,8 @@
       "instructions": "1. Use day-old cooked rice\n2. Heat oil in wok\n3. Add garlic, stir for 30 seconds\n4. Add vegetables, stir-fry\n5. Add rice, break lumps\n6. Add soy sauce, mix well\n7. Stir-fry for 3-4 minutes\n8. Serve hot",
       "requiredIngredients": [
         "Rice"
-      ]
+      ],
+      "regionalVariety": "General Chinese"
     },
     {
       "name": "Sweet and Sour Pork",
@@ -53,7 +55,8 @@
       "requiredIngredients": [
         "Pork",
         "Bell Pepper"
-      ]
+      ],
+      "regionalVariety": "General Chinese"
     },
     {
       "name": "Mapo Tofu",
