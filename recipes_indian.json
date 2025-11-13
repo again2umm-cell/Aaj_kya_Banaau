@@ -6,13 +6,13 @@
       "cuisine": "Indian",
       "country": "India",
       "ingredients": [
-        "• 500g Chicken",
-        "• 2 tbsp Butter",
-        "• 1 cup Cream",
-        "• Tomato puree",
-        "• Spices"
+        "\u2022 500g Chicken",
+        "\u2022 2 tbsp Butter",
+        "\u2022 1 cup Cream",
+        "\u2022 Tomato puree",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Marinate chicken with spices\n2. Cook chicken until tender\n3. Make tomato gravy with butter\n4. Add cooked chicken to gravy\n5. Add cream and simmer\n6. Serve with rice or naan",
+      "instructions": "1. Begin by gathering all ingredients required for preparing butter chicken, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare 500g Chicken by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Chicken",
         "Butter"
@@ -26,13 +26,13 @@
       "cuisine": "Indian",
       "country": "India",
       "ingredients": [
-        "• 200g Paneer",
-        "• 2 cups Spinach",
-        "• 1 Onion",
-        "• Cream",
-        "• Spices"
+        "\u2022 200g Paneer",
+        "\u2022 2 cups Spinach",
+        "\u2022 1 Onion",
+        "\u2022 Cream",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Blanch spinach and make puree\n2. Cut paneer into cubes\n3. Cook onions until golden\n4. Add spinach puree and spices\n5. Add paneer cubes gently\n6. Add cream and simmer\n7. Serve hot with roti",
+      "instructions": "1. Begin by gathering all ingredients required for preparing palak paneer, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare 200g Paneer by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Paneer",
         "Spinach"
@@ -46,13 +46,13 @@
       "cuisine": "Indian",
       "country": "India",
       "ingredients": [
-        "• 2 cups Basmati Rice",
-        "• 500g Meat/Vegetables",
-        "• 1 cup Yogurt",
-        "• Biryani spices",
-        "• Fried onions"
+        "\u2022 2 cups Basmati Rice",
+        "\u2022 500g Meat/Vegetables",
+        "\u2022 1 cup Yogurt",
+        "\u2022 Biryani spices",
+        "\u2022 Fried onions"
       ],
-      "instructions": "1. Soak rice for 30 minutes\n2. Marinate meat with yogurt and spices\n3. Cook meat until 70% done\n4. Boil rice until 70% cooked\n5. Layer rice and meat alternately\n6. Top with fried onions\n7. Cook on dum for 45 minutes\n8. Serve with raita",
+      "instructions": "1. Begin by gathering all ingredients required for preparing biryani, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare 2 cups Basmati Rice by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Rice",
         "Yogurt"
@@ -67,13 +67,13 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "• Black lentils",
-        "• Butter",
-        "• Cream",
-        "• Tomatoes",
-        "• Spices"
+        "\u2022 Black lentils",
+        "\u2022 Butter",
+        "\u2022 Cream",
+        "\u2022 Tomatoes",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing dal makhani, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Black lentils by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Black lentils",
         "Butter"
@@ -87,13 +87,13 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "• Chickpeas",
-        "• Flour",
-        "• Yogurt",
-        "• Spices",
-        "• Oil"
+        "\u2022 Chickpeas",
+        "\u2022 Flour",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing chole bhature, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Chickpeas by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Chickpeas",
         "Flour"
@@ -107,13 +107,13 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "• Paneer",
-        "• Yogurt",
-        "• Spices",
-        "• Lemon juice",
-        "• Onion"
+        "\u2022 Paneer",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Lemon juice",
+        "\u2022 Onion"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing paneer tikka, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Paneer by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Paneer",
         "Yogurt"
@@ -127,13 +127,13 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "• Kidney beans",
-        "• Rice",
-        "• Onion",
-        "• Tomato",
-        "• Spices"
+        "\u2022 Kidney beans",
+        "\u2022 Rice",
+        "\u2022 Onion",
+        "\u2022 Tomato",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing rajma chawal, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Kidney beans by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Kidney beans",
         "Rice"
@@ -147,13 +147,13 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "• Chicken",
-        "• Yogurt",
-        "• Lemon juice",
-        "• Spices",
-        "• Butter"
+        "\u2022 Chicken",
+        "\u2022 Yogurt",
+        "\u2022 Lemon juice",
+        "\u2022 Spices",
+        "\u2022 Butter"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing tandoori chicken, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Chicken by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Chicken",
         "Yogurt"
@@ -167,12 +167,12 @@
       "country": "India",
       "regionalVariety": "North Indian",
       "ingredients": [
-        "• Wheat flour",
-        "• Potatoes",
-        "• Ghee",
-        "• Spices"
+        "\u2022 Wheat flour",
+        "\u2022 Potatoes",
+        "\u2022 Ghee",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing aloo paratha, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Wheat flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Wheat flour",
         "Potatoes"
@@ -186,13 +186,13 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "• Rice",
-        "• Urad dal",
-        "• Potatoes",
-        "• Spices",
-        "• Oil"
+        "\u2022 Rice",
+        "\u2022 Urad dal",
+        "\u2022 Potatoes",
+        "\u2022 Spices",
+        "\u2022 Oil"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing masala dosa, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Rice by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Rice",
         "Urad dal"
@@ -206,13 +206,13 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "• Toor dal",
-        "• Tamarind",
-        "• Vegetables",
-        "• Mustard seeds",
-        "• Curry leaves"
+        "\u2022 Toor dal",
+        "\u2022 Tamarind",
+        "\u2022 Vegetables",
+        "\u2022 Mustard seeds",
+        "\u2022 Curry leaves"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing sambar, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Toor dal by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Toor dal",
         "Tamarind"
@@ -226,12 +226,12 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "• Chicken",
-        "• Coconut",
-        "• Curry leaves",
-        "• Spices"
+        "\u2022 Chicken",
+        "\u2022 Coconut",
+        "\u2022 Curry leaves",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing chicken chettinad, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Chicken by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Chicken",
         "Coconut"
@@ -245,13 +245,13 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "• Fish",
-        "• Coconut milk",
-        "• Tamarind",
-        "• Curry leaves",
-        "• Spices"
+        "\u2022 Fish",
+        "\u2022 Coconut milk",
+        "\u2022 Tamarind",
+        "\u2022 Curry leaves",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing fish curry, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Fish by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Fish",
         "Coconut milk"
@@ -265,12 +265,12 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "• Rice",
-        "• Urad dal",
-        "• Salt",
-        "• Water"
+        "\u2022 Rice",
+        "\u2022 Urad dal",
+        "\u2022 Salt",
+        "\u2022 Water"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing idli, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Rice by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Rice",
         "Urad dal"
@@ -284,13 +284,13 @@
       "country": "India",
       "regionalVariety": "South Indian",
       "ingredients": [
-        "• Tamarind",
-        "• Tomato",
-        "• Black pepper",
-        "• Garlic",
-        "• Mustard seeds"
+        "\u2022 Tamarind",
+        "\u2022 Tomato",
+        "\u2022 Black pepper",
+        "\u2022 Garlic",
+        "\u2022 Mustard seeds"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing rasam, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Tamarind by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Tamarind",
         "Tomato"
@@ -304,13 +304,13 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "• Fish",
-        "• Mustard oil",
-        "• Turmeric",
-        "• Chilies",
-        "• Spices"
+        "\u2022 Fish",
+        "\u2022 Mustard oil",
+        "\u2022 Turmeric",
+        "\u2022 Chilies",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing fish curry, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Fish by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Fish",
         "Mustard oil"
@@ -324,13 +324,13 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "• Rohu fish",
-        "• Potatoes",
-        "• Mustard oil",
-        "• Tomato",
-        "• Spices"
+        "\u2022 Rohu fish",
+        "\u2022 Potatoes",
+        "\u2022 Mustard oil",
+        "\u2022 Tomato",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing macher jhol, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Rohu fish by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Rohu fish",
         "Potatoes"
@@ -344,12 +344,12 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "• Potatoes",
-        "• Poppy seeds",
-        "• Mustard oil",
-        "• Green chilies"
+        "\u2022 Potatoes",
+        "\u2022 Poppy seeds",
+        "\u2022 Mustard oil",
+        "\u2022 Green chilies"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing aloo posto, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Potatoes by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Potatoes",
         "Poppy seeds"
@@ -363,12 +363,12 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "• Prawns",
-        "• Coconut milk",
-        "• Onion",
-        "• Spices"
+        "\u2022 Prawns",
+        "\u2022 Coconut milk",
+        "\u2022 Onion",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing prawn malai curry, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Prawns by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Prawns",
         "Coconut milk"
@@ -382,11 +382,11 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "• Milk",
-        "• Sugar",
-        "• Lemon juice"
+        "\u2022 Milk",
+        "\u2022 Sugar",
+        "\u2022 Lemon juice"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing rasgulla, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Milk by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Milk",
         "Sugar"
@@ -400,11 +400,11 @@
       "country": "India",
       "regionalVariety": "East Indian",
       "ingredients": [
-        "• Paneer",
-        "• Sugar",
-        "• Cardamom"
+        "\u2022 Paneer",
+        "\u2022 Sugar",
+        "\u2022 Cardamom"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing sandesh, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Paneer by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Paneer",
         "Sugar"
@@ -418,12 +418,12 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "• Gram flour",
-        "• Yogurt",
-        "• Lemon juice",
-        "• Mustard seeds"
+        "\u2022 Gram flour",
+        "\u2022 Yogurt",
+        "\u2022 Lemon juice",
+        "\u2022 Mustard seeds"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing dhokla, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Gram flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Gram flour",
         "Yogurt"
@@ -437,12 +437,12 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "• Prawns",
-        "• Coconut milk",
-        "• Tamarind",
-        "• Spices"
+        "\u2022 Prawns",
+        "\u2022 Coconut milk",
+        "\u2022 Tamarind",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing goan prawn curry, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Prawns by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Prawns",
         "Coconut milk"
@@ -456,12 +456,12 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "• Potatoes",
-        "• Gram flour",
-        "• Bread",
-        "• Spices"
+        "\u2022 Potatoes",
+        "\u2022 Gram flour",
+        "\u2022 Bread",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing vada pav, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Potatoes by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Potatoes",
         "Gram flour"
@@ -475,12 +475,12 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "• Sprouts",
-        "• Spices",
-        "• Bread",
-        "• Onion"
+        "\u2022 Sprouts",
+        "\u2022 Spices",
+        "\u2022 Bread",
+        "\u2022 Onion"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing misal pav, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Sprouts by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Sprouts",
         "Spices"
@@ -494,12 +494,12 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "• Wheat flour",
-        "• Fenugreek leaves",
-        "• Yogurt",
-        "• Spices"
+        "\u2022 Wheat flour",
+        "\u2022 Fenugreek leaves",
+        "\u2022 Yogurt",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing thepla, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Wheat flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Wheat flour",
         "Fenugreek leaves"
@@ -513,12 +513,12 @@
       "country": "India",
       "regionalVariety": "West Indian",
       "ingredients": [
-        "• Wheat flour",
-        "• Chana dal",
-        "• Jaggery",
-        "• Ghee"
+        "\u2022 Wheat flour",
+        "\u2022 Chana dal",
+        "\u2022 Jaggery",
+        "\u2022 Ghee"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing puran poli, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Wheat flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Wheat flour",
         "Chana dal"
@@ -532,13 +532,13 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "• Pork",
-        "• Bamboo shoots",
-        "• Ginger",
-        "• Garlic",
-        "• Chilies"
+        "\u2022 Pork",
+        "\u2022 Bamboo shoots",
+        "\u2022 Ginger",
+        "\u2022 Garlic",
+        "\u2022 Chilies"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing smoked pork curry, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Pork by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Pork",
         "Bamboo shoots"
@@ -552,12 +552,12 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "• Fish",
-        "• Mustard leaves",
-        "• Ginger",
-        "• Garlic"
+        "\u2022 Fish",
+        "\u2022 Mustard leaves",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing fish tenia, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Fish by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Fish",
         "Mustard leaves"
@@ -571,12 +571,12 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "• Fermented fish",
-        "• Boiled vegetables",
-        "• Chilies",
-        "• Salt"
+        "\u2022 Fermented fish",
+        "\u2022 Boiled vegetables",
+        "\u2022 Chilies",
+        "\u2022 Salt"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing eromba, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Fermented fish by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Fermented fish",
         "Boiled vegetables"
@@ -590,12 +590,12 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "• Rice",
-        "• Pork",
-        "• Spices",
-        "• Onion"
+        "\u2022 Rice",
+        "\u2022 Pork",
+        "\u2022 Spices",
+        "\u2022 Onion"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing jadoh, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Rice by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Rice",
         "Pork"
@@ -609,12 +609,12 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "• Noodles",
-        "• Chicken",
-        "• Vegetables",
-        "• Spices"
+        "\u2022 Noodles",
+        "\u2022 Chicken",
+        "\u2022 Vegetables",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing thukpa, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Noodles by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Noodles",
         "Chicken"
@@ -628,12 +628,12 @@
       "country": "India",
       "regionalVariety": "Northeast Indian",
       "ingredients": [
-        "• Pork",
-        "• Mustard greens",
-        "• Garlic",
-        "• Ginger"
+        "\u2022 Pork",
+        "\u2022 Mustard greens",
+        "\u2022 Garlic",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing pork with lai xaak, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Pork by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Pork",
         "Mustard greens"
@@ -647,13 +647,13 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "• Flattened rice",
-        "• Onion",
-        "• Mustard seeds",
-        "• Curry leaves",
-        "• Lemon"
+        "\u2022 Flattened rice",
+        "\u2022 Onion",
+        "\u2022 Mustard seeds",
+        "\u2022 Curry leaves",
+        "\u2022 Lemon"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing poha, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Flattened rice by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Flattened rice",
         "Onion"
@@ -667,12 +667,12 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "• Corn",
-        "• Milk",
-        "• Spices",
-        "• Ghee"
+        "\u2022 Corn",
+        "\u2022 Milk",
+        "\u2022 Spices",
+        "\u2022 Ghee"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing bhutte ka kees, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Corn by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Corn",
         "Milk"
@@ -686,12 +686,12 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "• Wheat flour",
-        "• Lentils",
-        "• Ghee",
-        "• Spices"
+        "\u2022 Wheat flour",
+        "\u2022 Lentils",
+        "\u2022 Ghee",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing dal bafla, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Wheat flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Wheat flour",
         "Lentils"
@@ -705,12 +705,12 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "• Tapioca pearls",
-        "• Potato",
-        "• Peanuts",
-        "• Spices"
+        "\u2022 Tapioca pearls",
+        "\u2022 Potato",
+        "\u2022 Peanuts",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing sabudana khichdi, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Tapioca pearls by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Tapioca pearls",
         "Potato"
@@ -724,12 +724,12 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "• Chickpeas",
-        "• Potato",
-        "• Spices",
-        "• Flour"
+        "\u2022 Chickpeas",
+        "\u2022 Potato",
+        "\u2022 Spices",
+        "\u2022 Flour"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing chana samosa, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Chickpeas by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Chickpeas",
         "Potato"
@@ -743,11 +743,11 @@
       "country": "India",
       "regionalVariety": "Central Indian",
       "ingredients": [
-        "• Coconut",
-        "• Sugar",
-        "• Milk"
+        "\u2022 Coconut",
+        "\u2022 Sugar",
+        "\u2022 Milk"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing khopra pak, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Coconut by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Coconut",
         "Sugar"
@@ -761,12 +761,12 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "• Wheat flour",
-        "• Lentils",
-        "• Ghee",
-        "• Spices"
+        "\u2022 Wheat flour",
+        "\u2022 Lentils",
+        "\u2022 Ghee",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing dal baati churma, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Wheat flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Wheat flour",
         "Lentils"
@@ -780,12 +780,12 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "• Gram flour",
-        "• Yogurt",
-        "• Spices",
-        "• Oil"
+        "\u2022 Gram flour",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing gatte ki sabzi, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Gram flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Gram flour",
         "Yogurt"
@@ -799,12 +799,12 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "• Desert beans",
-        "• Berries",
-        "• Oil",
-        "• Spices"
+        "\u2022 Desert beans",
+        "\u2022 Berries",
+        "\u2022 Oil",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing ker sangri, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Desert beans by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Desert beans",
         "Berries"
@@ -818,12 +818,12 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "• Mutton",
-        "• Red chilies",
-        "• Garlic",
-        "• Ghee"
+        "\u2022 Mutton",
+        "\u2022 Red chilies",
+        "\u2022 Garlic",
+        "\u2022 Ghee"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing laal maas, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Mutton by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Mutton",
         "Red chilies"
@@ -837,12 +837,12 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "• Papad",
-        "• Yogurt",
-        "• Spices",
-        "• Oil"
+        "\u2022 Papad",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing papad ki sabzi, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Papad by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Papad",
         "Yogurt"
@@ -856,11 +856,11 @@
       "country": "India",
       "regionalVariety": "Rajasthani",
       "ingredients": [
-        "• Millet flour",
-        "• Ghee",
-        "• Salt"
+        "\u2022 Millet flour",
+        "\u2022 Ghee",
+        "\u2022 Salt"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing bajra roti, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Millet flour by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Millet flour",
         "Ghee"
@@ -874,13 +874,13 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "• Mutton",
-        "• Yogurt",
-        "• Spices",
-        "• Saffron",
-        "• Ghee"
+        "\u2022 Mutton",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Saffron",
+        "\u2022 Ghee"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing rogan josh, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Mutton by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Mutton",
         "Yogurt"
@@ -894,12 +894,12 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "• Mutton",
-        "• Yogurt",
-        "• Fennel",
-        "• Spices"
+        "\u2022 Mutton",
+        "\u2022 Yogurt",
+        "\u2022 Fennel",
+        "\u2022 Spices"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing yakhni, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Mutton by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Mutton",
         "Yogurt"
@@ -913,12 +913,12 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "• Baby potatoes",
-        "• Yogurt",
-        "• Spices",
-        "• Oil"
+        "\u2022 Baby potatoes",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Oil"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing dum aloo, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Baby potatoes by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Baby potatoes",
         "Yogurt"
@@ -932,12 +932,12 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "• Minced mutton",
-        "• Yogurt",
-        "• Spices",
-        "• Ghee"
+        "\u2022 Minced mutton",
+        "\u2022 Yogurt",
+        "\u2022 Spices",
+        "\u2022 Ghee"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing gushtaba, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Minced mutton by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Minced mutton",
         "Yogurt"
@@ -951,12 +951,12 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "• Green tea",
-        "• Saffron",
-        "• Almonds",
-        "• Sugar"
+        "\u2022 Green tea",
+        "\u2022 Saffron",
+        "\u2022 Almonds",
+        "\u2022 Sugar"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing kahwa, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Green tea by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Green tea",
         "Saffron"
@@ -970,13 +970,13 @@
       "country": "India",
       "regionalVariety": "Kashmiri",
       "ingredients": [
-        "• Rice",
-        "• Milk",
-        "• Sugar",
-        "• Dry fruits",
-        "• Saffron"
+        "\u2022 Rice",
+        "\u2022 Milk",
+        "\u2022 Sugar",
+        "\u2022 Dry fruits",
+        "\u2022 Saffron"
       ],
-      "instructions": "1. Prepare all ingredients\n2. Cook following regional tradition\n3. Adjust spices and serve hot",
+      "instructions": "1. Begin by gathering all ingredients required for preparing modur pulao, ensuring vegetables are washed, spices are measured, and proteins are cleaned.\n2. Prepare Rice by chopping, marinating, soaking, or rinsing as traditionally required for the dish.\n3. Heat oil, ghee, or butter in a kadhai or pot over medium flame until hot enough for saut\u00e9ing.\n4. Add aromatics such as onions, ginger, garlic, curry leaves, or whole spices and saut\u00e9 until fragrant and lightly golden.\n5. Add ground spices like turmeric, red chili, coriander, garam masala, or regional masalas and roast briefly to release their flavors.\n6. Incorporate tomatoes, curd, coconut, tamarind, or other base ingredients depending on the dish and cook until the mixture thickens.\n7. Add the prepared main ingredient along with any vegetables, dals, or meat pieces and mix thoroughly so they absorb the masala.\n8. Pour in water, stock, or coconut milk (if applicable) and bring the mixture to a gentle boil.\n9. Reduce heat to low and allow the dish to simmer until the main ingredient cooks fully and flavors deepen.\n10. Taste and adjust seasoning, adding salt, spice, tanginess, or sweetness as needed.\n11. Finish with garnishes such as coriander, ghee, cream, fried onions, or tempering (tadka) depending on regional preparation.\n12. Serve hot with roti, naan, rice, dosa, or the traditional pairing for the dish.",
       "requiredIngredients": [
         "Rice",
         "Milk"
