@@ -19221,8 +19221,8 @@
     {
       "name": "Dal Rice",
       "imageName": "dal_rice",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "1 cup Rice",
@@ -19270,8 +19270,8 @@
     {
       "name": "Aloo Sabzi",
       "imageName": "aloo_sabzi",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "4 Potatoes",
@@ -19318,8 +19318,8 @@
     {
       "name": "Rajma",
       "imageName": "rajma",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "1 cup Rajma (soaked overnight)",
@@ -19371,8 +19371,8 @@
     {
       "name": "Chole",
       "imageName": "chole",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "1 cup Chickpeas (soaked)",
@@ -19424,8 +19424,8 @@
     {
       "name": "Paneer Curry",
       "imageName": "paneer_curry",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "200g Paneer cubes",
@@ -19478,8 +19478,8 @@
     {
       "name": "Roti",
       "imageName": "roti",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "2 cups Wheat Flour",
@@ -19527,8 +19527,8 @@
     {
       "name": "Paratha",
       "imageName": "paratha",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "2 cups Wheat Flour",
@@ -19576,8 +19576,8 @@
     {
       "name": "Khichdi",
       "imageName": "khichdi",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "1 cup Rice",
@@ -19625,8 +19625,8 @@
     {
       "name": "Samosa",
       "imageName": "samosa",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "2 cups Flour",
@@ -19672,8 +19672,8 @@
     {
       "name": "Dosa",
       "imageName": "dosa",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "3 cups Rice",
@@ -19718,8 +19718,8 @@
     {
       "name": "Upma",
       "imageName": "upma",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "1 cup Semolina",
@@ -19770,8 +19770,8 @@
     {
       "name": "Pasta",
       "imageName": "pasta",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "2 cups Pasta",
@@ -19816,8 +19816,8 @@
     {
       "name": "Maggi",
       "imageName": "maggi",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "1 pack Maggi Noodles",
@@ -19864,8 +19864,8 @@
     {
       "name": "Sandwich",
       "imageName": "sandwich",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "4 Bread slices",
@@ -19910,8 +19910,8 @@
     {
       "name": "Pizza",
       "imageName": "pizza",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Pizza base",
@@ -19964,8 +19964,8 @@
     {
       "name": "Burger",
       "imageName": "burger",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Burger buns",
@@ -20019,8 +20019,8 @@
     {
       "name": "Omelette",
       "imageName": "omelette",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "3 Eggs",
@@ -20071,8 +20071,8 @@
     {
       "name": "Pav Bhaji",
       "imageName": "pav_bhaji",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Mixed vegetables",
@@ -20118,8 +20118,8 @@
     {
       "name": "Kachori",
       "imageName": "kachori",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Wheat flour",
@@ -20168,8 +20168,8 @@
     {
       "name": "Chicken Curry",
       "imageName": "chicken_curry",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "500g Chicken",
@@ -20223,8 +20223,8 @@
     {
       "name": "Mutton Biryani",
       "imageName": "mutton_biryani",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Mutton",
@@ -20274,8 +20274,8 @@
     {
       "name": "Aloo Gobi",
       "imageName": "aloo_gobi",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Potatoes",
@@ -20323,8 +20323,8 @@
     {
       "name": "Bhindi Masala",
       "imageName": "bhindi_masala",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Okra",
@@ -20374,8 +20374,8 @@
     {
       "name": "Kadhi Pakora",
       "imageName": "kadhi_pakora",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Yogurt",
@@ -20424,8 +20424,8 @@
     {
       "name": "Masala Chai",
       "imageName": "masala_chai",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Tea leaves",
@@ -20474,8 +20474,8 @@
     {
       "name": "Lassi",
       "imageName": "lassi",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Yogurt",
@@ -20524,8 +20524,8 @@
     {
       "name": "Naan",
       "imageName": "naan",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Wheat flour",
@@ -20626,8 +20626,8 @@
     {
       "name": "Gulab Jamun",
       "imageName": "gulab_jamun",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Milk powder",
@@ -20676,8 +20676,8 @@
     {
       "name": "Jalebi",
       "imageName": "jalebi",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Flour",
@@ -20725,8 +20725,8 @@
     {
       "name": "Pani Puri",
       "imageName": "pani_puri",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Puri shells",
@@ -20774,8 +20774,8 @@
     {
       "name": "Bhel Puri",
       "imageName": "bhel_puri",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Puffed rice",
@@ -20823,8 +20823,8 @@
     {
       "name": "Dahi Vada",
       "imageName": "dahi_vada",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Urad dal",
@@ -20877,8 +20877,8 @@
     {
       "name": "Aloo Tikki",
       "imageName": "aloo_tikki",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Potatoes",
@@ -20925,8 +20925,8 @@
     {
       "name": "Malai Kofta",
       "imageName": "malai_kofta",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Paneer",
@@ -20972,8 +20972,8 @@
     {
       "name": "Baingan Bharta",
       "imageName": "baingan_bharta",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Eggplant",
@@ -21026,8 +21026,8 @@
     {
       "name": "Methi Thepla",
       "imageName": "methi_thepla",
-      "cuisine": "Unknown",
-      "country": "Unknown",
+      "cuisine": "Fusion",
+      "country": "Global",
       "regionalVariety": "General",
       "ingredients": [
         "Wheat flour",
