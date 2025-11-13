@@ -6,14 +6,14 @@
       "cuisine": "Chinese",
       "country": "China",
       "ingredients": [
-        "• 500g Chicken",
-        "• Peanuts",
-        "• Dried chilies",
-        "• Soy sauce",
-        "• Ginger",
-        "• Garlic"
+        "\u2022 500g Chicken",
+        "\u2022 Peanuts",
+        "\u2022 Dried chilies",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Cut chicken into cubes\n2. Marinate with soy sauce\n3. Heat oil in wok\n4. Stir-fry chicken\n5. Add chilies and peanuts\n6. Add sauce and toss\n7. Serve with rice",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for kung pao chicken, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare 500g Chicken by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Chicken",
         "Peanuts"
@@ -27,14 +27,14 @@
       "cuisine": "Chinese",
       "country": "China",
       "ingredients": [
-        "• 2 cups Cooked Rice",
-        "• Mixed vegetables",
-        "• Soy sauce",
-        "• Oil",
-        "• Garlic",
-        "• Eggs"
+        "\u2022 2 cups Cooked Rice",
+        "\u2022 Mixed vegetables",
+        "\u2022 Soy sauce",
+        "\u2022 Oil",
+        "\u2022 Garlic",
+        "\u2022 Eggs"
       ],
-      "instructions": "1. Use day-old cooked rice\n2. Heat oil in wok\n3. Add garlic, stir for 30 seconds\n4. Add vegetables, stir-fry\n5. Add rice, break lumps\n6. Add soy sauce, mix well\n7. Stir-fry for 3-4 minutes\n8. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for fried rice, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare 2 cups Cooked Rice by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Rice"
       ],
@@ -47,13 +47,13 @@
       "cuisine": "Chinese",
       "country": "China",
       "ingredients": [
-        "• Pork",
-        "• Bell peppers",
-        "• Pineapple",
-        "• Sweet and sour sauce",
-        "• Cornstarch"
+        "\u2022 Pork",
+        "\u2022 Bell peppers",
+        "\u2022 Pineapple",
+        "\u2022 Sweet and sour sauce",
+        "\u2022 Cornstarch"
       ],
-      "instructions": "1. Cut pork into pieces\n2. Coat with cornstarch\n3. Deep fry until golden\n4. Stir-fry vegetables\n5. Add pineapple and sauce\n6. Add fried pork\n7. Toss and serve",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for sweet and sour pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Bell Pepper"
@@ -68,14 +68,14 @@
       "country": "China",
       "regionalVariety": "Sichuan",
       "ingredients": [
-        "• Tofu",
-        "• Ground pork",
-        "• Chili bean paste",
-        "• Sichuan peppercorns",
-        "• Garlic",
-        "• Ginger"
+        "\u2022 Tofu",
+        "\u2022 Ground pork",
+        "\u2022 Chili bean paste",
+        "\u2022 Sichuan peppercorns",
+        "\u2022 Garlic",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for mapo tofu, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Tofu by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Tofu",
         "Ground pork"
@@ -89,14 +89,14 @@
       "country": "China",
       "regionalVariety": "Sichuan",
       "ingredients": [
-        "• Wheat noodles",
-        "• Minced pork",
-        "• Chili oil",
-        "• Soy sauce",
-        "• Sesame paste",
-        "• Scallions"
+        "\u2022 Wheat noodles",
+        "\u2022 Minced pork",
+        "\u2022 Chili oil",
+        "\u2022 Soy sauce",
+        "\u2022 Sesame paste",
+        "\u2022 Scallions"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for dan dan noodles, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Wheat noodles by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Wheat noodles",
         "Minced pork"
@@ -110,13 +110,13 @@
       "country": "China",
       "regionalVariety": "Sichuan",
       "ingredients": [
-        "• Pork belly",
-        "• Leeks",
-        "• Bean paste",
-        "• Soy sauce",
-        "• Garlic"
+        "\u2022 Pork belly",
+        "\u2022 Leeks",
+        "\u2022 Bean paste",
+        "\u2022 Soy sauce",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for twice cooked pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork belly by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork belly",
         "Leeks"
@@ -130,13 +130,13 @@
       "country": "China",
       "regionalVariety": "Sichuan",
       "ingredients": [
-        "• Meat slices",
-        "• Chili broth",
-        "• Vegetables",
-        "• Tofu",
-        "• Dipping sauce"
+        "\u2022 Meat slices",
+        "\u2022 Chili broth",
+        "\u2022 Vegetables",
+        "\u2022 Tofu",
+        "\u2022 Dipping sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for hot pot, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Meat slices by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Meat slices",
         "Chili broth"
@@ -150,14 +150,14 @@
       "country": "China",
       "regionalVariety": "Sichuan",
       "ingredients": [
-        "• Shrimp",
-        "• Peanuts",
-        "• Dried chilies",
-        "• Soy sauce",
-        "• Ginger",
-        "• Garlic"
+        "\u2022 Shrimp",
+        "\u2022 Peanuts",
+        "\u2022 Dried chilies",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for kung pao shrimp, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Shrimp by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Shrimp",
         "Peanuts"
@@ -171,13 +171,13 @@
       "country": "China",
       "regionalVariety": "Sichuan",
       "ingredients": [
-        "• Eggplant",
-        "• Garlic",
-        "• Chili paste",
-        "• Soy sauce",
-        "• Vinegar"
+        "\u2022 Eggplant",
+        "\u2022 Garlic",
+        "\u2022 Chili paste",
+        "\u2022 Soy sauce",
+        "\u2022 Vinegar"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for spicy eggplant, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Eggplant by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Eggplant",
         "Garlic"
@@ -191,13 +191,13 @@
       "country": "China",
       "regionalVariety": "Cantonese",
       "ingredients": [
-        "• Pork",
-        "• Honey",
-        "• Soy sauce",
-        "• Hoisin sauce",
-        "• Chinese five spice"
+        "\u2022 Pork",
+        "\u2022 Honey",
+        "\u2022 Soy sauce",
+        "\u2022 Hoisin sauce",
+        "\u2022 Chinese five spice"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for char siu, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Honey"
@@ -211,13 +211,13 @@
       "country": "China",
       "regionalVariety": "Cantonese",
       "ingredients": [
-        "• Whole fish",
-        "• Soy sauce",
-        "• Ginger",
-        "• Scallions",
-        "• Sesame oil"
+        "\u2022 Whole fish",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Scallions",
+        "\u2022 Sesame oil"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for steamed fish, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Whole fish by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Whole fish",
         "Soy sauce"
@@ -231,13 +231,13 @@
       "country": "China",
       "regionalVariety": "Cantonese",
       "ingredients": [
-        "• Shrimp",
-        "• Pork",
-        "• Wonton wrappers",
-        "• Soy sauce",
-        "• Ginger"
+        "\u2022 Shrimp",
+        "\u2022 Pork",
+        "\u2022 Wonton wrappers",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for dim sum dumplings, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Shrimp by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Shrimp",
         "Pork"
@@ -251,13 +251,13 @@
       "country": "China",
       "regionalVariety": "Cantonese",
       "ingredients": [
-        "• Duck",
-        "• Maltose syrup",
-        "• Soy sauce",
-        "• Ginger",
-        "• Garlic"
+        "\u2022 Duck",
+        "\u2022 Maltose syrup",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for roast duck, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Duck by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Duck",
         "Maltose syrup"
@@ -271,13 +271,13 @@
       "country": "China",
       "regionalVariety": "Cantonese",
       "ingredients": [
-        "• Pork",
-        "• Oyster sauce",
-        "• Sugar",
-        "• Flour",
-        "• Yeast"
+        "\u2022 Pork",
+        "\u2022 Oyster sauce",
+        "\u2022 Sugar",
+        "\u2022 Flour",
+        "\u2022 Yeast"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for sweet bbq pork buns, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Oyster sauce"
@@ -291,13 +291,13 @@
       "country": "China",
       "regionalVariety": "Cantonese",
       "ingredients": [
-        "• Egg noodles",
-        "• Soy sauce",
-        "• Bean sprouts",
-        "• Chicken",
-        "• Vegetables"
+        "\u2022 Egg noodles",
+        "\u2022 Soy sauce",
+        "\u2022 Bean sprouts",
+        "\u2022 Chicken",
+        "\u2022 Vegetables"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for cantonese fried noodles, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Egg noodles by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Egg noodles",
         "Soy sauce"
@@ -305,24 +305,24 @@
       "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cantonese_fried_noodles.png"
     },
     {
-      "name": "Chairman Mao’s Pork",
-      "imageName": "chairman_mao’s_pork",
+      "name": "Chairman Mao\u2019s Pork",
+      "imageName": "chairman_mao\u2019s_pork",
       "cuisine": "Chinese",
       "country": "China",
       "regionalVariety": "Hunan",
       "ingredients": [
-        "• Pork belly",
-        "• Soy sauce",
-        "• Sugar",
-        "• Star anise",
-        "• Rice wine"
+        "\u2022 Pork belly",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar",
+        "\u2022 Star anise",
+        "\u2022 Rice wine"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for chairman mao\u2019s pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork belly by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork belly",
         "Soy sauce"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chairman_mao’s_pork.png"
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chairman_mao\u2019s_pork.png"
     },
     {
       "name": "Hunan Beef Stir-fry",
@@ -331,13 +331,13 @@
       "country": "China",
       "regionalVariety": "Hunan",
       "ingredients": [
-        "• Beef",
-        "• Chilies",
-        "• Garlic",
-        "• Ginger",
-        "• Soy sauce"
+        "\u2022 Beef",
+        "\u2022 Chilies",
+        "\u2022 Garlic",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for hunan beef stir-fry, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Beef by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Beef",
         "Chilies"
@@ -351,12 +351,12 @@
       "country": "China",
       "regionalVariety": "Hunan",
       "ingredients": [
-        "• Fish head",
-        "• Chilies",
-        "• Garlic",
-        "• Soy sauce"
+        "\u2022 Fish head",
+        "\u2022 Chilies",
+        "\u2022 Garlic",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for steamed fish head with chilies, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Fish head by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Fish head",
         "Chilies"
@@ -370,12 +370,12 @@
       "country": "China",
       "regionalVariety": "Hunan",
       "ingredients": [
-        "• Smoked tofu",
-        "• Chili oil",
-        "• Garlic",
-        "• Soy sauce"
+        "\u2022 Smoked tofu",
+        "\u2022 Chili oil",
+        "\u2022 Garlic",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for spicy smoked tofu, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Smoked tofu by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Smoked tofu",
         "Chili oil"
@@ -389,13 +389,13 @@
       "country": "China",
       "regionalVariety": "Hunan",
       "ingredients": [
-        "• Chicken",
-        "• Dried chilies",
-        "• Garlic",
-        "• Vinegar",
-        "• Soy sauce"
+        "\u2022 Chicken",
+        "\u2022 Dried chilies",
+        "\u2022 Garlic",
+        "\u2022 Vinegar",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for hunan chicken, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Chicken by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Chicken",
         "Dried chilies"
@@ -409,12 +409,12 @@
       "country": "China",
       "regionalVariety": "Hunan",
       "ingredients": [
-        "• Pork",
-        "• Pickled chilies",
-        "• Garlic",
-        "• Ginger"
+        "\u2022 Pork",
+        "\u2022 Pickled chilies",
+        "\u2022 Garlic",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for pickled chili pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Pickled chilies"
@@ -428,13 +428,13 @@
       "country": "China",
       "regionalVariety": "Shandong",
       "ingredients": [
-        "• Carp",
-        "• Vinegar",
-        "• Sugar",
-        "• Soy sauce",
-        "• Ginger"
+        "\u2022 Carp",
+        "\u2022 Vinegar",
+        "\u2022 Sugar",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for sweet and sour carp, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Carp by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Carp",
         "Vinegar"
@@ -448,12 +448,12 @@
       "country": "China",
       "regionalVariety": "Shandong",
       "ingredients": [
-        "• Sea cucumber",
-        "• Chicken stock",
-        "• Soy sauce",
-        "• Ginger"
+        "\u2022 Sea cucumber",
+        "\u2022 Chicken stock",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for braised sea cucumber, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Sea cucumber by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Sea cucumber",
         "Chicken stock"
@@ -467,13 +467,13 @@
       "country": "China",
       "regionalVariety": "Shandong",
       "ingredients": [
-        "• Chicken",
-        "• Soy sauce",
-        "• Star anise",
-        "• Sugar",
-        "• Ginger"
+        "\u2022 Chicken",
+        "\u2022 Soy sauce",
+        "\u2022 Star anise",
+        "\u2022 Sugar",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for dezhou braised chicken, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Chicken by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Chicken",
         "Soy sauce"
@@ -487,12 +487,12 @@
       "country": "China",
       "regionalVariety": "Shandong",
       "ingredients": [
-        "• Flour",
-        "• Scallions",
-        "• Oil",
-        "• Salt"
+        "\u2022 Flour",
+        "\u2022 Scallions",
+        "\u2022 Oil",
+        "\u2022 Salt"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for scallion pancakes, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Flour by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Flour",
         "Scallions"
@@ -506,13 +506,13 @@
       "country": "China",
       "regionalVariety": "Shandong",
       "ingredients": [
-        "• Pork",
-        "• Cabbage",
-        "• Ginger",
-        "• Garlic",
-        "• Soy sauce"
+        "\u2022 Pork",
+        "\u2022 Cabbage",
+        "\u2022 Ginger",
+        "\u2022 Garlic",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for shandong dumplings, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Cabbage"
@@ -526,12 +526,12 @@
       "country": "China",
       "regionalVariety": "Shandong",
       "ingredients": [
-        "• Catfish",
-        "• Tofu",
-        "• Ginger",
-        "• Soy sauce"
+        "\u2022 Catfish",
+        "\u2022 Tofu",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for yellow river catfish soup, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Catfish by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Catfish",
         "Tofu"
@@ -539,24 +539,24 @@
       "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/yellow_river_catfish_soup.png"
     },
     {
-      "name": "Lion’s Head Meatballs",
-      "imageName": "lion’s_head_meatballs",
+      "name": "Lion\u2019s Head Meatballs",
+      "imageName": "lion\u2019s_head_meatballs",
       "cuisine": "Chinese",
       "country": "China",
       "regionalVariety": "Jiangsu",
       "ingredients": [
-        "• Pork",
-        "• Ginger",
-        "• Soy sauce",
-        "• Egg",
-        "• Cornstarch"
+        "\u2022 Pork",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce",
+        "\u2022 Egg",
+        "\u2022 Cornstarch"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for lion\u2019s head meatballs, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Ginger"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/lion’s_head_meatballs.png"
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/lion\u2019s_head_meatballs.png"
     },
     {
       "name": "Nanjing Salted Duck",
@@ -565,12 +565,12 @@
       "country": "China",
       "regionalVariety": "Jiangsu",
       "ingredients": [
-        "• Duck",
-        "• Salt",
-        "• Ginger",
-        "• Star anise"
+        "\u2022 Duck",
+        "\u2022 Salt",
+        "\u2022 Ginger",
+        "\u2022 Star anise"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for nanjing salted duck, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Duck by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Duck",
         "Salt"
@@ -584,12 +584,12 @@
       "country": "China",
       "regionalVariety": "Jiangsu",
       "ingredients": [
-        "• Shrimp",
-        "• Egg white",
-        "• Cornstarch",
-        "• Salt"
+        "\u2022 Shrimp",
+        "\u2022 Egg white",
+        "\u2022 Cornstarch",
+        "\u2022 Salt"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for crystal shrimp, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Shrimp by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Shrimp",
         "Egg white"
@@ -603,12 +603,12 @@
       "country": "China",
       "regionalVariety": "Jiangsu",
       "ingredients": [
-        "• Pork belly",
-        "• Soy sauce",
-        "• Sugar",
-        "• Shaoxing wine"
+        "\u2022 Pork belly",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar",
+        "\u2022 Shaoxing wine"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for braised pork belly, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork belly by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork belly",
         "Soy sauce"
@@ -622,12 +622,12 @@
       "country": "China",
       "regionalVariety": "Jiangsu",
       "ingredients": [
-        "• Crab",
-        "• Ginger",
-        "• Vinegar",
-        "• Soy sauce"
+        "\u2022 Crab",
+        "\u2022 Ginger",
+        "\u2022 Vinegar",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for steamed crab, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Crab by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Crab",
         "Ginger"
@@ -641,13 +641,13 @@
       "country": "China",
       "regionalVariety": "Jiangsu",
       "ingredients": [
-        "• Rice",
-        "• Egg",
-        "• Shrimp",
-        "• Ham",
-        "• Peas"
+        "\u2022 Rice",
+        "\u2022 Egg",
+        "\u2022 Shrimp",
+        "\u2022 Ham",
+        "\u2022 Peas"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for yangzhou fried rice, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Rice by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Rice",
         "Egg"
@@ -661,12 +661,12 @@
       "country": "China",
       "regionalVariety": "Zhejiang",
       "ingredients": [
-        "• Pork belly",
-        "• Soy sauce",
-        "• Sugar",
-        "• Shaoxing wine"
+        "\u2022 Pork belly",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar",
+        "\u2022 Shaoxing wine"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for dongpo pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork belly by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork belly",
         "Soy sauce"
@@ -680,13 +680,13 @@
       "country": "China",
       "regionalVariety": "Zhejiang",
       "ingredients": [
-        "• Fish",
-        "• Soy sauce",
-        "• Vinegar",
-        "• Sugar",
-        "• Ginger"
+        "\u2022 Fish",
+        "\u2022 Soy sauce",
+        "\u2022 Vinegar",
+        "\u2022 Sugar",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for west lake fish, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Fish by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Fish",
         "Soy sauce"
@@ -694,23 +694,23 @@
       "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/west_lake_fish.png"
     },
     {
-      "name": "Beggar’s Chicken",
-      "imageName": "beggar’s_chicken",
+      "name": "Beggar\u2019s Chicken",
+      "imageName": "beggar\u2019s_chicken",
       "cuisine": "Chinese",
       "country": "China",
       "regionalVariety": "Zhejiang",
       "ingredients": [
-        "• Whole chicken",
-        "• Shaoxing wine",
-        "• Soy sauce",
-        "• Lotus leaves"
+        "\u2022 Whole chicken",
+        "\u2022 Shaoxing wine",
+        "\u2022 Soy sauce",
+        "\u2022 Lotus leaves"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for beggar\u2019s chicken, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Whole chicken by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Whole chicken",
         "Shaoxing wine"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/beggar’s_chicken.png"
+      "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/beggar\u2019s_chicken.png"
     },
     {
       "name": "Stir-fried Bamboo Shoots",
@@ -719,12 +719,12 @@
       "country": "China",
       "regionalVariety": "Zhejiang",
       "ingredients": [
-        "• Bamboo shoots",
-        "• Soy sauce",
-        "• Oil",
-        "• Garlic"
+        "\u2022 Bamboo shoots",
+        "\u2022 Soy sauce",
+        "\u2022 Oil",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for stir-fried bamboo shoots, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Bamboo shoots by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Bamboo shoots",
         "Soy sauce"
@@ -738,12 +738,12 @@
       "country": "China",
       "regionalVariety": "Zhejiang",
       "ingredients": [
-        "• Shrimp",
-        "• Shaoxing wine",
-        "• Soy sauce",
-        "• Ginger"
+        "\u2022 Shrimp",
+        "\u2022 Shaoxing wine",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for shaoxing drunken shrimp, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Shrimp by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Shrimp",
         "Shaoxing wine"
@@ -757,12 +757,12 @@
       "country": "China",
       "regionalVariety": "Zhejiang",
       "ingredients": [
-        "• Mixed vegetables",
-        "• Soy sauce",
-        "• Garlic",
-        "• Oil"
+        "\u2022 Mixed vegetables",
+        "\u2022 Soy sauce",
+        "\u2022 Garlic",
+        "\u2022 Oil"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for vegetable stir fry, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Mixed vegetables by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Mixed vegetables",
         "Soy sauce"
@@ -776,12 +776,12 @@
       "country": "China",
       "regionalVariety": "Fujian",
       "ingredients": [
-        "• Abalone",
-        "• Sea cucumber",
-        "• Chicken",
-        "• Shaoxing wine"
+        "\u2022 Abalone",
+        "\u2022 Sea cucumber",
+        "\u2022 Chicken",
+        "\u2022 Shaoxing wine"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for buddha jumps over the wall, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Abalone by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Abalone",
         "Sea cucumber"
@@ -795,12 +795,12 @@
       "country": "China",
       "regionalVariety": "Fujian",
       "ingredients": [
-        "• Oysters",
-        "• Eggs",
-        "• Potato starch",
-        "• Chili sauce"
+        "\u2022 Oysters",
+        "\u2022 Eggs",
+        "\u2022 Potato starch",
+        "\u2022 Chili sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for oyster omelette, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Oysters by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Oysters",
         "Eggs"
@@ -814,13 +814,13 @@
       "country": "China",
       "regionalVariety": "Fujian",
       "ingredients": [
-        "• Rice",
-        "• Shrimp",
-        "• Egg",
-        "• Soy sauce",
-        "• Vegetables"
+        "\u2022 Rice",
+        "\u2022 Shrimp",
+        "\u2022 Egg",
+        "\u2022 Soy sauce",
+        "\u2022 Vegetables"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for fujian fried rice, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Rice by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Rice",
         "Shrimp"
@@ -834,12 +834,12 @@
       "country": "China",
       "regionalVariety": "Fujian",
       "ingredients": [
-        "• Noodles",
-        "• Pork",
-        "• Soy sauce",
-        "• Oyster sauce"
+        "\u2022 Noodles",
+        "\u2022 Pork",
+        "\u2022 Soy sauce",
+        "\u2022 Oyster sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for braised noodles, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Noodles by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Noodles",
         "Pork"
@@ -853,12 +853,12 @@
       "country": "China",
       "regionalVariety": "Fujian",
       "ingredients": [
-        "• Pork",
-        "• Red yeast rice",
-        "• Soy sauce",
-        "• Sugar"
+        "\u2022 Pork",
+        "\u2022 Red yeast rice",
+        "\u2022 Soy sauce",
+        "\u2022 Sugar"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for red yeast pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Red yeast rice"
@@ -872,12 +872,12 @@
       "country": "China",
       "regionalVariety": "Fujian",
       "ingredients": [
-        "• Fish balls",
-        "• Seaweed",
-        "• Soy sauce",
-        "• Ginger"
+        "\u2022 Fish balls",
+        "\u2022 Seaweed",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for fish ball soup, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Fish balls by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Fish balls",
         "Seaweed"
@@ -891,13 +891,13 @@
       "country": "China",
       "regionalVariety": "Anhui",
       "ingredients": [
-        "• Tofu",
-        "• Soy sauce",
-        "• Ginger",
-        "• Garlic",
-        "• Scallions"
+        "\u2022 Tofu",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic",
+        "\u2022 Scallions"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for braised tofu, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Tofu by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Tofu",
         "Soy sauce"
@@ -911,12 +911,12 @@
       "country": "China",
       "regionalVariety": "Anhui",
       "ingredients": [
-        "• Bamboo shoots",
-        "• Pork",
-        "• Soy sauce",
-        "• Garlic"
+        "\u2022 Bamboo shoots",
+        "\u2022 Pork",
+        "\u2022 Soy sauce",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for bamboo shoots with pork, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Bamboo shoots by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Bamboo shoots",
         "Pork"
@@ -930,12 +930,12 @@
       "country": "China",
       "regionalVariety": "Anhui",
       "ingredients": [
-        "• Chicken",
-        "• Mushrooms",
-        "• Ginger",
-        "• Soy sauce"
+        "\u2022 Chicken",
+        "\u2022 Mushrooms",
+        "\u2022 Ginger",
+        "\u2022 Soy sauce"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for stewed chicken with mushrooms, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Chicken by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Chicken",
         "Mushrooms"
@@ -949,12 +949,12 @@
       "country": "China",
       "regionalVariety": "Anhui",
       "ingredients": [
-        "• Wild herbs",
-        "• Tofu",
-        "• Soy sauce",
-        "• Ginger"
+        "\u2022 Wild herbs",
+        "\u2022 Tofu",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for wild herb soup, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Wild herbs by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Wild herbs",
         "Tofu"
@@ -968,12 +968,12 @@
       "country": "China",
       "regionalVariety": "Anhui",
       "ingredients": [
-        "• Duck",
-        "• Soy sauce",
-        "• Ginger",
-        "• Garlic"
+        "\u2022 Duck",
+        "\u2022 Soy sauce",
+        "\u2022 Ginger",
+        "\u2022 Garlic"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for anhui roast duck, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Duck by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Duck",
         "Soy sauce"
@@ -987,12 +987,12 @@
       "country": "China",
       "regionalVariety": "Anhui",
       "ingredients": [
-        "• Pork",
-        "• Rice flour",
-        "• Soy sauce",
-        "• Chili flakes"
+        "\u2022 Pork",
+        "\u2022 Rice flour",
+        "\u2022 Soy sauce",
+        "\u2022 Chili flakes"
       ],
-      "instructions": "1. Prepare ingredients\n2. Cook according to traditional method\n3. Adjust seasoning\n4. Serve hot",
+      "instructions": "1. Begin by gathering and preparing all ingredients required for steamed pork with rice flour, ensuring vegetables are chopped, proteins are cleaned, and sauces are measured.\n2. Prepare Pork by cutting it into appropriate sizes; if marination is required, coat it with soy sauce, salt, or seasonings and set aside.\n3. Heat a wok over high heat until it begins to smoke lightly, then add oil and swirl it around to coat the surface.\n4. Add aromatics such as garlic, ginger, scallions, or chili peppers and stir-fry them for 20\u201330 seconds until fragrant.\n5. Add the main ingredient to the wok and stir-fry vigorously, keeping the heat high to achieve proper searing and a smoky wok aroma.\n6. Incorporate vegetables or secondary ingredients and continue stir-frying, adjusting heat to prevent burning.\n7. Add sauces such as soy sauce, vinegar, chili paste, oyster sauce, bean paste, or any seasoning blend traditional to the dish.\n8. Toss everything together to ensure even coating, and add a small amount of water or broth if a slight sauce or glaze is desired.\n9. Allow the dish to cook for several more minutes, stirring occasionally, until the main ingredient is fully cooked and flavors have melded.\n10. Taste and adjust salt, sweetness, or heat levels as needed, adding sugar, soy sauce, or chili oil according to preference.\n11. Finish with garnishes such as scallions, sesame oil, peanuts, or herbs depending on the dish\u2019s regional style.\n12. Serve hot immediately, paired with steamed rice or noodles as traditionally enjoyed.",
       "requiredIngredients": [
         "Pork",
         "Rice flour"
