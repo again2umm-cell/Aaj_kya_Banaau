@@ -1,0 +1,17 @@
+{
+  "recipes": [
+    {
+      "name": "TEST FOR UK",
+      "imageName": "image_name",
+      "cuisine": "Cuisine Type",
+      "country": "Country Name",
+      "ingredients": ["• Ingredient 1", "• Ingredient 2"],
+      "instructions": "Step by step instructions",
+      "requiredIngredients": ["Key ingredient 1", "Key ingredient 2"],
+      "regionalVariety": "Regional info",
+      "imageUrl": "GitHub image URL",
+      "isVegetarian": true
+    }
+  ],
+  "ingredients": ["ingredient1", "ingredient2"]
+}
