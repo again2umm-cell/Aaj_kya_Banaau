@@ -86,5 +86,16 @@
     "cookTime": "20 mins",
     "difficulty": "Easy",
     "isVegetarian": true
+  },
+   {
+    "name": "Cranberry Sauce",
+    "festival": "BELLLLLLLAAAALLLOOOO",
+    "cuisine": "American",
+    "description": "Sweet and tart cranberry relish",
+    "ingredients": ["Cranberries", "Sugar", "Orange zest", "Cinnamon", "Water"],
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "difficulty": "Easy",
+    "isVegetarian": true
   }
 ]
