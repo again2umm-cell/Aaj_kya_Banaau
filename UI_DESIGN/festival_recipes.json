@@ -86,5 +86,16 @@
     "cookTime": "20 mins",
     "difficulty": "Easy",
     "isVegetarian": true
-  }
+  },
+    {
+    "name": "Roast Turkey",
+    "festival": "TEST FESTIVAL",
+    "cuisine": "Western",
+    "description": "Traditional roasted turkey with herbs and stuffing",
+    "ingredients": ["Turkey", "Butter", "Herbs", "Onion", "Garlic", "Bread stuffing"],
+    "prepTime": "45 mins",
+    "cookTime": "3 hours",
+    "difficulty": "Hard",
+    "isVegetarian": false
+  },
 ]
