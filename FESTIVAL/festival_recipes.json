@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Gulab Jamun",
+    "festival": "Diwali",
+    "cuisine": "Indian",
+    "description": "Sweet deep-fried dumplings soaked in sugar syrup",
+    "ingredients": ["Milk powder", "Flour", "Ghee", "Sugar", "Cardamom", "Rose water"],
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "difficulty": "Medium",
+    "isVegetarian": true
+  },
+  {
+    "name": "Roast Turkey",
+    "festival": "Christmas",
+    "cuisine": "Western",
+    "description": "Traditional roasted turkey with herbs and stuffing",
+    "ingredients": ["Turkey", "Butter", "Herbs", "Onion", "Garlic", "Bread stuffing"],
+    "prepTime": "45 mins",
+    "cookTime": "3 hours",
+    "difficulty": "Hard",
+    "isVegetarian": false
+  },
+  {
+    "name": "Biryani",
+    "festival": "Eid",
+    "cuisine": "Indian",
+    "description": "Fragrant rice dish with meat and aromatic spices",
+    "ingredients": ["Basmati rice", "Chicken", "Yogurt", "Saffron", "Spices", "Fried onions"],
+    "prepTime": "40 mins",
+    "cookTime": "50 mins",
+    "difficulty": "Hard",
+    "isVegetarian": false
+  },
+  {
+    "name": "Pumpkin Pie",
+    "festival": "Thanksgiving",
+    "cuisine": "American",
+    "description": "Classic spiced pumpkin custard pie",
+    "ingredients": ["Pumpkin puree", "Eggs", "Cream", "Sugar", "Cinnamon", "Pie crust"],
+    "prepTime": "25 mins",
+    "cookTime": "55 mins",
+    "difficulty": "Medium",
+    "isVegetarian": true
+  },
+  {
+    "name": "Jalebi",
+    "festival": "Diwali",
+    "cuisine": "Indian",
+    "description": "Crispy spiral-shaped sweet soaked in sugar syrup",
+    "ingredients": ["Flour", "Yogurt", "Sugar", "Saffron", "Cardamom", "Ghee"],
+    "prepTime": "20 mins",
+    "cookTime": "25 mins",
+    "difficulty": "Medium",
+    "isVegetarian": true
+  },
+  {
+    "name": "Gingerbread Cookies",
+    "festival": "Christmas",
+    "cuisine": "Western",
+    "description": "Spiced cookies perfect for holiday decorating",
+    "ingredients": ["Flour", "Ginger", "Cinnamon", "Molasses", "Butter", "Sugar"],
+    "prepTime": "30 mins",
+    "cookTime": "12 mins",
+    "difficulty": "Easy",
+    "isVegetarian": true
+  },
+  {
+    "name": "Sheer Khurma",
+    "festival": "Eid",
+    "cuisine": "Indian",
+    "description": "Vermicelli pudding with milk, dates and nuts",
+    "ingredients": ["Vermicelli", "Milk", "Dates", "Almonds", "Pistachios", "Sugar"],
+    "prepTime": "15 mins",
+    "cookTime": "30 mins",
+    "difficulty": "Easy",
+    "isVegetarian": true
+  },
+  {
+    "name": "Cranberry Sauce",
+    "festival": "Thanksgiving",
+    "cuisine": "American",
+    "description": "Sweet and tart cranberry relish",
+    "ingredients": ["Cranberries", "Sugar", "Orange zest", "Cinnamon", "Water"],
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "difficulty": "Easy",
+    "isVegetarian": true
+  }
+]
