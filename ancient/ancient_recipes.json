@@ -2,7 +2,7 @@
   {
     "name": "Moretum (Roman Herb and Cheese Spread)",
     "imageName": "moretum_roman",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/moretum_roman.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/moretum_roman.png",
     "cuisine": "Ancient",
     "country": "Roman Empire",
     "regionalVariety": "Italian Peninsula",
@@ -53,7 +53,7 @@
   {
     "name": "Parthian Chicken (Pullum Parthicum)",
     "imageName": "parthian_chicken",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/parthian_chicken.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/parthian_chicken.png",
     "cuisine": "Ancient",
     "country": "Roman Empire",
     "regionalVariety": "Eastern Roman",
@@ -106,7 +106,7 @@
   {
     "name": "Mesopotamian Lamb Stew",
     "imageName": "mesopotamian_lamb_stew",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/mesopotamian_lamb_stew.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/mesopotamian_lamb_stew.png",
     "cuisine": "Ancient",
     "country": "Mesopotamia",
     "regionalVariety": "Sumerian",
@@ -159,7 +159,7 @@
   {
     "name": "Garum (Roman Fish Sauce)",
     "imageName": "garum_roman",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/garum_roman.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/garum_roman.png",
     "cuisine": "Ancient",
     "country": "Roman Empire",
     "regionalVariety": "Mediterranean",
@@ -205,7 +205,7 @@
   {
     "name": "Tuh'u (Babylonian Beet Stew)",
     "imageName": "tuhu_babylonian",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/tuhu_babylonian.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/tuhu_babylonian.png",
     "cuisine": "Ancient",
     "country": "Babylon",
     "regionalVariety": "Mesopotamian",
@@ -258,7 +258,7 @@
   {
     "name": "Libum (Roman Sacrificial Cheese Bread)",
     "imageName": "libum_roman",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/libum_roman.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/libum_roman.png",
     "cuisine": "Ancient",
     "country": "Roman Empire",
     "regionalVariety": "Etruscan",
@@ -306,7 +306,7 @@
   {
     "name": "Posca (Roman Legionary Vinegar Drink)",
     "imageName": "posca_roman",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/posca_roman.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/posca_roman.png",
     "cuisine": "Ancient",
     "country": "Roman Empire",
     "regionalVariety": "Military",
@@ -353,7 +353,7 @@
   {
     "name": "Saffron Chicken (from Apicius)",
     "imageName": "saffron_chicken",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/images/ancient/saffron_chicken.png",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/saffron_chicken.png",
     "cuisine": "Ancient",
     "country": "Roman Empire",
     "regionalVariety": "Patrician",
