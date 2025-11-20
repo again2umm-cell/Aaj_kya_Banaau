@@ -3102,6 +3102,7 @@
   "youtubeUrl": "",
   "history": "Chai, meaning simply 'tea' in Hindi, developed into its spiced form during British colonial rule, when India became one of the world's largest tea producers. The book notes that while tea drinking was introduced by the British, Indians adapted it by adding milk, sugar, and regional spices such as ginger, cardamom, cloves, and cinnamon. By the early 20th century, masala chai had become a national beverage sold by roadside vendors (chaiwalas) and enjoyed daily across the country."
 },
+
 {
     "name": "Chicken Salad (Ancient Roman)",
     "imageName": "roman_chicken_salad",
@@ -3175,9 +3176,9 @@
       "Serve and enjoy!"
     ],
     "youtubeUrl": "",
-    "history": "This salad is adapted from authentic Roman banquet traditions, using classic ingredients like posca, mint, honey, fish sauce, and pine kernels. Romans commonly combined meats, herbs, bread, and cheese into layered dishes for feasts."
-},
-{
+    "history": "This salad reflects the wealthy dining habits of the late Roman Republic and early Empire. Chicken liver was considered a delicacy, often served at elaborate banquets. The use of posca—diluted sour wine—shows how Romans repurposed everyday soldiers’ drink in creative ways for cooking. Mint, honey, and fish sauce (garum) were essential to Roman flavor profiles, blending sweet, salty, and herbal notes. Bread soaked in wine-based liquids was a common way to stretch ingredients and create layered textures. Similar preparations appear in Apicius, the oldest surviving Roman cookbook."
+  },
+  {
     "name": "Cheese and Fruit Dip (Ancient Roman)",
     "imageName": "roman_cheese_fruit_dip",
     "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/images/roman_cheese_fruit_dip.png",
@@ -3237,9 +3238,9 @@
       "Serve with hard bread, vegetables such as cucumber or carrot sticks, cold meats, cooked prawns, or cooked fish pieces."
     ],
     "youtubeUrl": "",
-    "history": "A Roman dip combining cheese, fruit, herbs, and wine—ingredients common in wealthy households. Served with vegetables, breads, and seafood during banquets."
-},
-{
+    "history": "This dip is characteristic of Roman fondness for combining sweet fruits, nuts, herbs, and cheese. Lovage, mint, and pepper were widely grown in Roman gardens, described by writers like Pliny and Columella. Romans enjoyed fruit-based relishes and spreads, often flavored with wine and honey. Date syrup (defrutum) was extremely common, produced by boiling fruit juice into a thick reduction. This kind of dip would have appeared as a starter (gustatio) at a Roman convivium, served with bread, vegetables, and seafood."
+  },
+  {
     "name": "Roast Chicken in Honey and Dill (Ancient Roman)",
     "imageName": "roman_roast_chicken_honey_dill",
     "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/images/roman_roast_chicken_honey_dill.png",
@@ -3298,9 +3299,9 @@
       "When fully cooked, serve and enjoy."
     ],
     "youtubeUrl": "",
-    "history": "Honey, dill, mint, and fish sauce were widely used Roman flavorings. This dish reflects Roman preferences for sweet-savoury glazes and aromatic herbs."
-},
-{
+    "history": "Romans frequently cooked poultry with a combination of herbs, honey, vinegar, and garum (fish sauce). Honey-glazed meats appear repeatedly in Apicius, showcasing the Roman love for sweet-and-sour flavors. Dill and mint were widely cultivated in kitchen gardens and noted for their medicinal qualities. The method of parboiling before roasting was common in Roman kitchens, making meat tender while absorbing marinades more effectively. This dish would have been served as part of a multi-course feast to impress guests with rich aromas and glossy presentation."
+  },
+  {
     "name": "Lamb in Date Sauce (Ancient Roman)",
     "imageName": "roman_lamb_in_date_sauce",
     "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/images/roman_lamb_in_date_sauce.png",
@@ -3360,9 +3361,8 @@
       "Serve the lamb with the date sauce."
     ],
     "youtubeUrl": "",
-    "history": "A luxurious Roman dish combining lamb, dates, wine, and fish sauce. Sweet-savoury meat preparations were common in elite Roman households and banquet settings."
-}
-
+    "history": "Lamb was a prized meat in the Roman Empire, especially for feasts and religious celebrations. Dates were imported across the Mediterranean, particularly from North Africa and the Near East, making them a luxurious addition to elite Roman dishes. The combination of lamb, dates, and wine reflects Rome’s love for sweet-savoury contrasts, a signature of ancient gastronomy. Fish sauce was universally used, even in meat dishes, as a salt and umami source. Slow-roasting with vegetables mirrors Roman domestic cooking practices, where meats were often cooked for long periods in clay ovens."
+  }
 
 
 
