@@ -4,7 +4,7 @@
   {
     "name": "Spaghetti Carbonara",
     "imageName": "spaghetti_carbonara",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_carbonara.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spaghetti_carbonara.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -55,7 +55,7 @@
   {
     "name": "Margherita Pizza",
     "imageName": "margherita_pizza",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/margherita_pizza.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/margherita_pizza.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -103,7 +103,7 @@
   {
     "name": "Lasagna al Forno",
     "imageName": "lasagna_al_forno",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/lasagna_al_forno.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/lasagna_al_forno.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -157,7 +157,7 @@
   {
     "name": "Risotto alla Milanese",
     "imageName": "risotto_alla_milanese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_alla_milanese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_alla_milanese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -206,7 +206,7 @@
   {
     "name": "Osso Buco",
     "imageName": "osso_buco",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/osso_buco.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/osso_buco.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -256,7 +256,7 @@
   {
     "name": "Pasta alla Norma",
     "imageName": "pasta_alla_norma",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_norma.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_norma.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -308,7 +308,7 @@
   {
     "name": "Pasta e Fagioli",
     "imageName": "pasta_e_fagioli",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_e_fagioli.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_e_fagioli.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Veneto",
@@ -361,7 +361,7 @@
   {
     "name": "Chicken Cacciatore",
     "imageName": "chicken_cacciatore",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chicken_cacciatore.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/chicken_cacciatore.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -413,7 +413,7 @@
   {
     "name": "Pesto alla Genovese",
     "imageName": "pesto_alla_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pesto_alla_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pesto_alla_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -460,7 +460,7 @@
   {
     "name": "Saltimbocca alla Romana",
     "imageName": "saltimbocca_alla_romana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/saltimbocca_alla_romana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/saltimbocca_alla_romana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -506,7 +506,7 @@
   {
     "name": "Tagliatelle al Ragù Bolognese",
     "imageName": "tagliatelle_al_ragu_bolognese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tagliatelle_al_ragu_bolognese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tagliatelle_al_ragu_bolognese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -559,7 +559,7 @@
   {
     "name": "Gnocchi al Pesto",
     "imageName": "gnocchi_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -604,7 +604,7 @@
   {
     "name": "Polenta Taragna",
     "imageName": "polenta_taragna",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/polenta_taragna.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/polenta_taragna.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -650,7 +650,7 @@
   {
     "name": "Ribollita",
     "imageName": "ribollita",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ribollita.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ribollita.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -701,7 +701,7 @@
   {
     "name": "Panzanella",
     "imageName": "panzanella",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panzanella.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/panzanella.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -748,7 +748,7 @@
   {
     "name": "Pasta Puttanesca",
     "imageName": "pasta_puttanesca",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_puttanesca.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_puttanesca.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -800,7 +800,7 @@
   {
     "name": "Tortellini in Brodo",
     "imageName": "tortellini_in_brodo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tortellini_in_brodo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tortellini_in_brodo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -843,7 +843,7 @@
   {
     "name": "Calamari Fritti",
     "imageName": "calamari_fritti",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/calamari_fritti.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/calamari_fritti.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Southern Italy",
@@ -889,7 +889,7 @@
   {
     "name": "Pappa al Pomodoro",
     "imageName": "pappa_al_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pappa_al_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pappa_al_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -937,7 +937,7 @@
   {
     "name": "Arancini di Riso",
     "imageName": "arancini_di_riso",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/arancini_di_riso.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/arancini_di_riso.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -987,7 +987,7 @@
   {
     "name": "Frittata di Zucchine",
     "imageName": "frittata_di_zucchine",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/frittata_di_zucchine.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/frittata_di_zucchine.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -1034,7 +1034,7 @@
   {
     "name": "Parmigiana di Melanzane",
     "imageName": "parmigiana_di_melanzane",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/parmigiana_di_melanzane.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/parmigiana_di_melanzane.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1083,7 +1083,7 @@
   {
     "name": "Cacio e Pepe",
     "imageName": "cacio_e_pepe",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cacio_e_pepe.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cacio_e_pepe.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1129,7 +1129,7 @@
   {
     "name": "Minestrone alla Genovese",
     "imageName": "minestrone_alla_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/minestrone_alla_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/minestrone_alla_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -1179,7 +1179,7 @@
   {
     "name": "Pasta al Limone",
     "imageName": "pasta_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Amalfi Coast",
@@ -1227,7 +1227,7 @@
   {
     "name": "Orecchiette alle Cime di Rapa",
     "imageName": "orecchiette_alle_cime_di_rapa",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/orecchiette_alle_cime_di_rapa.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/orecchiette_alle_cime_di_rapa.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Puglia",
@@ -1274,7 +1274,7 @@
   {
     "name": "Spaghetti alle Vongole",
     "imageName": "spaghetti_alle_vongole",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_alle_vongole.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spaghetti_alle_vongole.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1323,7 +1323,7 @@
   {
     "name": "Penne all'Arrabbiata",
     "imageName": "penne_all_arrabbiata",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/penne_all_arrabbiata.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/penne_all_arrabbiata.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1371,7 +1371,7 @@
   {
     "name": "Vitello Tonnato",
     "imageName": "vitello_tonnato",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/vitello_tonnato.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/vitello_tonnato.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Piedmont",
@@ -1421,7 +1421,7 @@
   {
     "name": "Pollo alla Cacciatora Bianca",
     "imageName": "pollo_alla_cacciatora_bianca",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pollo_alla_cacciatora_bianca.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pollo_alla_cacciatora_bianca.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -1469,7 +1469,7 @@
   {
     "name": "Focaccia Genovese",
     "imageName": "focaccia_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/focaccia_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/focaccia_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -1517,7 +1517,7 @@
   {
     "name": "Pasta al Pomodoro",
     "imageName": "pasta_al_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1564,7 +1564,7 @@
   {
     "name": "Penne alla Vodka",
     "imageName": "penne_alla_vodka",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/penne_alla_vodka.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/penne_alla_vodka.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -1614,7 +1614,7 @@
   {
     "name": "Pasta alla Gricia",
     "imageName": "pasta_alla_gricia",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_gricia.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_gricia.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1659,7 +1659,7 @@
   {
     "name": "Pasta Amatriciana",
     "imageName": "pasta_amatriciana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_amatriciana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_amatriciana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1706,7 +1706,7 @@
   {
     "name": "Pollo alla Cacciatora Rossa",
     "imageName": "pollo_alla_cacciatora_rossa",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pollo_alla_cacciatora_rossa.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pollo_alla_cacciatora_rossa.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -1759,7 +1759,7 @@
   {
     "name": "Caponata Siciliana",
     "imageName": "caponata_siciliana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/caponata_siciliana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/caponata_siciliana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -1811,7 +1811,7 @@
   {
     "name": "Gnocchi alla Sorrentina",
     "imageName": "gnocchi_alla_sorrentina",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_alla_sorrentina.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_alla_sorrentina.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1859,7 +1859,7 @@
   {
     "name": "Trenette al Pesto",
     "imageName": "trenette_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/trenette_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/trenette_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -1906,7 +1906,7 @@
   {
     "name": "Scaloppine al Limone",
     "imageName": "scaloppine_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/scaloppine_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/scaloppine_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -1951,7 +1951,7 @@
   {
     "name": "Insalata Caprese",
     "imageName": "insalata_caprese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/insalata_caprese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/insalata_caprese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1997,7 +1997,7 @@
   {
     "name": "Bruschetta al Pomodoro",
     "imageName": "bruschetta_al_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/bruschetta_al_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/bruschetta_al_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2043,7 +2043,7 @@
   {
     "name": "Pasta al Burro",
     "imageName": "pasta_al_burro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_burro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_burro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -2089,7 +2089,7 @@
   {
     "name": "Panzerotti Pugliesi",
     "imageName": "panzerotti_pugliesi",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panzerotti_pugliesi.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/panzerotti_pugliesi.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Puglia",
@@ -2136,7 +2136,7 @@
   {
     "name": "Carpaccio di Manzo",
     "imageName": "carpaccio_di_manzo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/carpaccio_di_manzo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/carpaccio_di_manzo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Veneto",
@@ -2182,7 +2182,7 @@
   {
     "name": "Pollo alla Diavola",
     "imageName": "pollo_alla_diavola",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pollo_alla_diavola.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pollo_alla_diavola.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Central Italy",
@@ -2230,7 +2230,7 @@
   {
     "name": "Seppie in Umido",
     "imageName": "seppie_in_umido",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/seppie_in_umido.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/seppie_in_umido.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Veneto",
@@ -2279,7 +2279,7 @@
   {
     "name": "Crostini Toscani",
     "imageName": "crostini_toscani",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/crostini_toscani.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/crostini_toscani.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2330,7 +2330,7 @@
   {
     "name": "Pasta alla Zozzona",
     "imageName": "pasta_alla_zozzona",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_zozzona.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_zozzona.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -2381,7 +2381,7 @@
   {
     "name": "Tagliata di Manzo",
     "imageName": "tagliata_di_manzo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tagliata_di_manzo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tagliata_di_manzo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2427,7 +2427,7 @@
   {
     "name": "Risotto ai Funghi Porcini",
     "imageName": "risotto_ai_funghi_porcini",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_ai_funghi_porcini.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_ai_funghi_porcini.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -2479,7 +2479,7 @@
   {
     "name": "Panzanella Toscana",
     "imageName": "panzanella_toscana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panzanella_toscana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/panzanella_toscana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2528,7 +2528,7 @@
   {
     "name": "Frittata di Patate",
     "imageName": "frittata_di_patate",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/frittata_di_patate.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/frittata_di_patate.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -2576,7 +2576,7 @@
   {
     "name": "Zuppa Toscana",
     "imageName": "zuppa_toscana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/zuppa_toscana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/zuppa_toscana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2627,7 +2627,7 @@
   {
     "name": "Spiedini di Pesce",
     "imageName": "spiedini_di_pesce",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spiedini_di_pesce.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spiedini_di_pesce.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Coastal Regions",
@@ -2671,7 +2671,7 @@
   {
     "name": "Sarde a Beccafico",
     "imageName": "sarde_a_beccafico",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sarde_a_beccafico.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/sarde_a_beccafico.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -2721,7 +2721,7 @@
   {
     "name": "Ribollita",
     "imageName": "ribollita",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ribollita.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ribollita.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2773,7 +2773,7 @@
   {
     "name": "Crespelle alla Fiorentina",
     "imageName": "crespelle_alla_fiorentina",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/crespelle_alla_fiorentina.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/crespelle_alla_fiorentina.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2824,7 +2824,7 @@
   {
     "name": "Peperonata",
     "imageName": "peperonata",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/peperonata.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/peperonata.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Southern Italy",
@@ -2870,7 +2870,7 @@
   {
     "name": "Tonnarelli Cacio e Pepe",
     "imageName": "tonnarelli_cacio_e_pepe",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tonnarelli_cacio_e_pepe.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tonnarelli_cacio_e_pepe.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -2914,7 +2914,7 @@
   {
     "name": "Cannelloni Ricotta e Spinaci",
     "imageName": "cannelloni_ricotta_e_spinaci",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cannelloni_ricotta_e_spinaci.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cannelloni_ricotta_e_spinaci.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -2965,7 +2965,7 @@
   {
     "name": "Risotto al Barolo",
     "imageName": "risotto_al_barolo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_al_barolo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_al_barolo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Piedmont",
@@ -3016,7 +3016,7 @@
   {
     "name": "Branzino al Sale",
     "imageName": "branzino_al_sale",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/branzino_al_sale.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/branzino_al_sale.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Coastal Regions",
@@ -3063,7 +3063,7 @@
   {
     "name": "Polpette al Sugo",
     "imageName": "polpette_al_sugo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/polpette_al_sugo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/polpette_al_sugo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Southern Italy",
@@ -3113,7 +3113,7 @@
   {
     "name": "Risotto al Limone",
     "imageName": "risotto_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Amalfi Coast",
@@ -3161,7 +3161,7 @@
   {
     "name": "Gnocchi di Patate",
     "imageName": "gnocchi_di_patate",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_di_patate.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_di_patate.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -3209,7 +3209,7 @@
   {
     "name": "Ziti al Forno",
     "imageName": "ziti_al_forno",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ziti_al_forno.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ziti_al_forno.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -3258,7 +3258,7 @@
   {
     "name": "Frittata ai Carciofi",
     "imageName": "frittata_ai_carciofi",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/frittata_ai_carciofi.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/frittata_ai_carciofi.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Central Italy",
@@ -3306,7 +3306,7 @@
   {
     "name": "Pasta alla Norma",
     "imageName": "pasta_alla_norma",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_norma.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_norma.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -3356,7 +3356,7 @@
   {
     "name": "Saltimbocca alla Romana",
     "imageName": "saltimbocca_alla_romana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/saltimbocca_alla_romana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/saltimbocca_alla_romana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -3402,7 +3402,7 @@
   {
     "name": "Pasta con le Sarde",
     "imageName": "pasta_con_le_sarde",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_con_le_sarde.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_con_le_sarde.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -3457,7 +3457,7 @@
   {
     "name": "Farfalle al Salmone",
     "imageName": "farfalle_al_salmone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/farfalle_al_salmone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/farfalle_al_salmone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -3510,7 +3510,7 @@
   {
     "name": "Pasta e Ceci",
     "imageName": "pasta_e_ceci",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_e_ceci.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_e_ceci.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Central Italy",
@@ -3561,7 +3561,7 @@
   {
     "name": "Pasta agli Asparagi",
     "imageName": "pasta_agli_asparagi",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_agli_asparagi.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_agli_asparagi.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -3612,7 +3612,7 @@
   {
     "name": "Risotto allo Zafferano (Risotto Milanese)",
     "imageName": "risotto_allo_zafferano",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_allo_zafferano.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_allo_zafferano.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -3664,7 +3664,7 @@
   {
     "name": "Polenta Taragna",
     "imageName": "polenta_taragna",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/polenta_taragna.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/polenta_taragna.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -3715,7 +3715,7 @@
   {
     "name": "Pasta al Tonno",
     "imageName": "pasta_al_tonno",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_tonno.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_tonno.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National (Italian Home Cooking)",
@@ -3767,7 +3767,7 @@
   {
     "name": "Ossobuco alla Milanese",
     "imageName": "ossobuco_alla_milanese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ossobuco_alla_milanese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ossobuco_alla_milanese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -3823,7 +3823,7 @@
   {
     "name": "Caponata Siciliana",
     "imageName": "caponata_siciliana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/caponata_siciliana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/caponata_siciliana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -3878,7 +3878,7 @@
   {
     "name": "Spezzatino di Manzo",
     "imageName": "spezzatino_di_manzo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spezzatino_di_manzo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spezzatino_di_manzo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern & Central Italy",
@@ -3932,7 +3932,7 @@
   {
     "name": "Trenette al Pesto",
     "imageName": "trenette_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/trenette_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/trenette_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -3987,7 +3987,7 @@
   {
     "name": "Lasagne al Pesto",
     "imageName": "lasagne_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/lasagne_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/lasagne_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -4038,7 +4038,7 @@
   {
     "name": "Gnocchi alla Romana",
     "imageName": "gnocchi_alla_romana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_alla_romana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_alla_romana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -4090,7 +4090,7 @@
   {
     "name": "Pasta al Limone",
     "imageName": "pasta_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Amalfi Coast",
@@ -4142,7 +4142,7 @@
   {
     "name": "Scaloppine al Vino Bianco",
     "imageName": "scaloppine_al_vino_bianco",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/scaloppine_al_vino_bianco.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/scaloppine_al_vino_bianco.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -4192,7 +4192,7 @@
   {
     "name": "Penne all’Arrabbiata",
     "imageName": "penne_all_arrabbiata",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/penne_all_arrabbiata.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/penne_all_arrabbiata.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Lazio",
@@ -4245,7 +4245,7 @@
   {
     "name": "Spaghetti alle Vongole",
     "imageName": "spaghetti_alle_vongole",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_alle_vongole.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spaghetti_alle_vongole.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Naples / Campania",
@@ -4299,7 +4299,7 @@
   {
     "name": "Pasta alla Gricia",
     "imageName": "pasta_alla_gricia",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_gricia.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_gricia.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Lazio",
@@ -4348,7 +4348,7 @@
   {
     "name": "Pasta alla Boscaiola",
     "imageName": "pasta_alla_boscaiola",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_boscaiola.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_boscaiola.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany / Umbria",
@@ -4402,7 +4402,7 @@
   {
     "name": "Fusilli alla Caprese",
     "imageName": "fusilli_alla_caprese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/fusilli_alla_caprese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/fusilli_alla_caprese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -4452,7 +4452,7 @@
   {
     "name": "Pizzoccheri della Valtellina",
     "imageName": "pizzoccheri_della_valtellina",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pizzoccheri_della_valtellina.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pizzoccheri_della_valtellina.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy (Valtellina)",
@@ -4506,7 +4506,7 @@
   {
     "name": "Pasta al Prosciutto e Piselli",
     "imageName": "pasta_al_prosciutto_e_piselli",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_prosciutto_e_piselli.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_prosciutto_e_piselli.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -4558,7 +4558,7 @@
   {
     "name": "Rigatoni alla Zingara",
     "imageName": "rigatoni_alla_zingara",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/rigatoni_alla_zingara.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/rigatoni_alla_zingara.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Central Italy",
@@ -4614,7 +4614,7 @@
   {
     "name": "Cima alla Genovese",
     "imageName": "cima_alla_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cima_alla_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cima_alla_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -4669,7 +4669,7 @@
   {
     "name": "Cavatelli con Sugo di Pomodoro",
     "imageName": "cavatelli_con_sugo_di_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cavatelli_con_sugo_di_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cavatelli_con_sugo_di_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Molise / Puglia",
@@ -4719,7 +4719,7 @@
   {
     "name": "Pasta al Pomodoro Fresco",
     "imageName": "pasta_al_pomodoro_fresco",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_pomodoro_fresco.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_pomodoro_fresco.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National (Italian Home Cooking)",
@@ -4772,7 +4772,7 @@
   {
     "name": "Trofie al Pesto",
     "imageName": "trofie_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/trofie_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/trofie_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -4828,7 +4828,7 @@
   {
     "name": "Strangozzi al Tartufo",
     "imageName": "strangozzi_al_tartufo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/strangozzi_al_tartufo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/strangozzi_al_tartufo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Umbria",
@@ -4880,7 +4880,7 @@
   {
     "name": "Pasta alla Siciliana (Pasta con Melanzane)",
     "imageName": "pasta_alla_siciliana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_siciliana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_siciliana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -4934,7 +4934,7 @@
   {
     "name": "Paccheri al Ragù Napoletano",
     "imageName": "paccheri_al_ragu_napoletano",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/paccheri_al_ragu_napoletano.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/paccheri_al_ragu_napoletano.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Naples / Campania",
@@ -4988,7 +4988,7 @@
   {
     "name": "Kung Pao Chicken",
     "imageName": "kung_pao_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kung_pao_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kung_pao_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5043,7 +5043,7 @@
   {
     "name": "Mapo Tofu",
     "imageName": "mapo_tofu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mapo_tofu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mapo_tofu.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5096,7 +5096,7 @@
   {
     "name": "Peking Duck",
     "imageName": "peking_duck",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/peking_duck.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/peking_duck.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Beijing",
@@ -5144,7 +5144,7 @@
   {
     "name": "Char Siu (Chinese BBQ Pork)",
     "imageName": "char_siu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/char_siu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/char_siu.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5193,7 +5193,7 @@
   {
     "name": "Hot and Sour Soup",
     "imageName": "hot_and_sour_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hot_and_sour_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hot_and_sour_soup.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5247,7 +5247,7 @@
   {
     "name": "Dumplings (Jiaozi)",
     "imageName": "jiaozi_dumplings",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/jiaozi_dumplings.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/jiaozi_dumplings.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Northern",
@@ -5295,7 +5295,7 @@
   {
     "name": "Sweet and Sour Pork",
     "imageName": "sweet_and_sour_pork",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sweet_and_sour_pork.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sweet_and_sour_pork.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5348,7 +5348,7 @@
   {
     "name": "Steamed Fish with Ginger and Scallions",
     "imageName": "steamed_fish",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_fish.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_fish.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5396,7 +5396,7 @@
   {
     "name": "Dan Dan Noodles",
     "imageName": "dan_dan_noodles",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dan_dan_noodles.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dan_dan_noodles.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5447,7 +5447,7 @@
   {
     "name": "Scrambled Eggs with Tomatoes",
     "imageName": "tomato_eggs",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/tomato_eggs.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/tomato_eggs.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -5494,7 +5494,7 @@
   {
     "name": "Twice-Cooked Pork (Hui Guo Rou)",
     "imageName": "twice_cooked_pork",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/twice_cooked_pork.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/twice_cooked_pork.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5546,7 +5546,7 @@
   {
     "name": "Clay Pot Rice (Bao Zai Fan)",
     "imageName": "clay_pot_rice",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/clay_pot_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/clay_pot_rice.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5596,7 +5596,7 @@
   {
     "name": "Lion's Head Meatballs (Shi Zi Tou)",
     "imageName": "lions_head_meatballs",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/lions_head_meatballs.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/lions_head_meatballs.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai / Jiangsu",
@@ -5647,7 +5647,7 @@
   {
     "name": "Sichuan Boiled Fish (Shui Zhu Yu)",
     "imageName": "sichuan_boiled_fish",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_boiled_fish.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_boiled_fish.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5700,7 +5700,7 @@
   {
     "name": "Scallion Pancakes (Cong You Bing)",
     "imageName": "scallion_pancakes",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/scallion_pancakes.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/scallion_pancakes.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Northern",
@@ -5745,7 +5745,7 @@
   {
     "name": "White Cut Chicken (Bai Qie Ji)",
     "imageName": "white_cut_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/white_cut_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/white_cut_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5791,7 +5791,7 @@
   {
     "name": "Fish-Fragrant Eggplant (Yu Xiang Qie Zi)",
     "imageName": "fish_fragrant_eggplant",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/fish_fragrant_eggplant.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/fish_fragrant_eggplant.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -5841,7 +5841,7 @@
   {
     "name": "Wonton Soup (Hun Tun Tang)",
     "imageName": "wonton_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/wonton_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/wonton_soup.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5891,7 +5891,7 @@
   {
     "name": "Yangzhou Fried Rice (Yang Zhou Chao Fan)",
     "imageName": "yangzhou_fried_rice",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/yangzhou_fried_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/yangzhou_fried_rice.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Jiangsu",
@@ -5942,7 +5942,7 @@
   {
     "name": "Steamed Spareribs with Black Bean Sauce (Dou Chi Zheng Pai Gu)",
     "imageName": "steamed_spareribs",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_spareribs.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_spareribs.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -5992,7 +5992,7 @@
   {
     "name": "Red Braised Pork Belly (Hong Shao Rou)",
     "imageName": "red_braised_pork_belly",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/red_braised_pork_belly.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/red_braised_pork_belly.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai / Jiangsu",
@@ -6042,7 +6042,7 @@
   {
     "name": "Ants Climbing a Tree (Ma Yi Shang Shu)",
     "imageName": "ants_climbing_tree",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/ants_climbing_tree.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/ants_climbing_tree.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -6092,7 +6092,7 @@
   {
     "name": "Sichuan Cold Noodles (Liang Mian)",
     "imageName": "sichuan_cold_noodles",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_cold_noodles.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_cold_noodles.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -6142,7 +6142,7 @@
   {
     "name": "Buddha's Delight (Luóhàn Zhāi)",
     "imageName": "buddhas_delight",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/buddhas_delight.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/buddhas_delight.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Buddhist Cuisine",
@@ -6196,7 +6196,7 @@
   {
     "name": "Cantonese Steamed Chicken with Mushrooms",
     "imageName": "steamed_chicken_mushrooms",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_chicken_mushrooms.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_chicken_mushrooms.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -6244,7 +6244,7 @@
   {
     "name": "Three Cup Chicken (San Bei Ji)",
     "imageName": "three_cup_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/three_cup_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/three_cup_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Taiwanese",
@@ -6294,7 +6294,7 @@
   {
     "name": "Xinjiang Big Plate Chicken (Da Pan Ji)",
     "imageName": "big_plate_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/big_plate_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/big_plate_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Xinjiang",
@@ -6347,7 +6347,7 @@
   {
     "name": "Salted Egg Yolk Prawns",
     "imageName": "salted_egg_prawns",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/salted_egg_prawns.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/salted_egg_prawns.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hong Kong / Cantonese",
@@ -6396,7 +6396,7 @@
   {
     "name": "Stir-Fried Chinese Broccoli with Garlic (Gai Lan)",
     "imageName": "garlic_chinese_broccoli",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/garlic_chinese_broccoli.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/garlic_chinese_broccoli.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -6444,7 +6444,7 @@
   {
     "name": "Cantonese Wonton Noodle Soup (Won Ton Mein)",
     "imageName": "wonton_noodle_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/wonton_noodle_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/wonton_noodle_soup.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -6491,7 +6491,7 @@
   {
     "name": "Sichuan Dandan Noodles (Vegetarian Version)",
     "imageName": "vegetarian_dandan_noodles",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/vegetarian_dandan_noodles.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/vegetarian_dandan_noodles.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -6542,7 +6542,7 @@
   {
     "name": "Steamed Egg (Zheng Shui Dan)",
     "imageName": "steamed_egg",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_egg.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_egg.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -6589,7 +6589,7 @@
   {
     "name": "Cumin Lamb (Zi Ran Yang Rou)",
     "imageName": "cumin_lamb",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/cumin_lamb.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/cumin_lamb.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Xinjiang / Northern",
@@ -6640,7 +6640,7 @@
   {
     "name": "Chinese Congee (Bai Zhou)",
     "imageName": "chinese_congee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chinese_congee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chinese_congee.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -6687,7 +6687,7 @@
   {
     "name": "Stinky Tofu (Chou Dou Fu)",
     "imageName": "stinky_tofu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/stinky_tofu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/stinky_tofu.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hunan / Taiwanese",
@@ -6732,7 +6732,7 @@
   {
     "name": "Drunken Chicken (Zui Ji)",
     "imageName": "drunken_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/drunken_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/drunken_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai",
@@ -6778,7 +6778,7 @@
   {
     "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
     "imageName": "sichuan_boiled_beef",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_boiled_beef.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_boiled_beef.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -6832,7 +6832,7 @@
   {
     "name": "Turnip Cake (Lo Bak Go)",
     "imageName": "turnip_cake",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/turnip_cake.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/turnip_cake.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -6883,7 +6883,7 @@
   {
     "name": "West Lake Beef Soup (Xi Hu Niu Rou Geng)",
     "imageName": "west_lake_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/west_lake_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/west_lake_soup.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hangzhou / Zhejiang",
@@ -6933,7 +6933,7 @@
   {
     "name": "Dongpo Pork (Dong Po Rou)",
     "imageName": "dongpo_pork",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dongpo_pork.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dongpo_pork.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hangzhou / Zhejiang",
@@ -6983,7 +6983,7 @@
   {
     "name": "Tea Smoked Duck (Zhang Cha Ya)",
     "imageName": "tea_smoked_duck",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/tea_smoked_duck.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/tea_smoked_duck.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -7034,7 +7034,7 @@
   {
     "name": "Sichuan Pepper Chicken (Hua Jiao Ji)",
     "imageName": "sichuan_pepper_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_pepper_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_pepper_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -7085,7 +7085,7 @@
   {
     "name": "Cantonese Soy Sauce Pan-Fried Noodles (Zi Sha Chao Mian)",
     "imageName": "soy_sauce_noodles",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/soy_sauce_noodles.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/soy_sauce_noodles.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -7134,7 +7134,7 @@
   {
     "name": "Sour and Spicy Soup (Suan La Tang)",
     "imageName": "sour_spicy_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sour_spicy_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sour_spicy_soup.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -7188,7 +7188,7 @@
   {
     "name": "Steamed Pork with Rice Powder (Fen Zheng Rou)",
     "imageName": "steamed_pork_rice_powder",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_pork_rice_powder.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_pork_rice_powder.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hubei / Sichuan",
@@ -7237,7 +7237,7 @@
   {
     "name": "Crispy Fried Gluten Balls (You Mian Jin)",
     "imageName": "fried_gluten_balls",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/fried_gluten_balls.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/fried_gluten_balls.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai / Buddhist",
@@ -7285,7 +7285,7 @@
   {
     "name": "Beggar's Chicken (Jiao Hua Ji)",
     "imageName": "beggars_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/beggars_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/beggars_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Jiangsu / Zhejiang",
@@ -7336,7 +7336,7 @@
   {
     "name": "Stir-Fried Rice Cakes (Nian Gao) with Shanghai Greens",
     "imageName": "stir_fried_rice_cakes",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/stir_fried_rice_cakes.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/stir_fried_rice_cakes.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai",
@@ -7386,7 +7386,7 @@
   {
     "name": "Five Spice Tofu (Wu Dou Fu Gan)",
     "imageName": "five_spice_tofu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/five_spice_tofu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/five_spice_tofu.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -7432,7 +7432,7 @@
   {
     "name": "Chrysanthemum Fish (Ju Hua Yu)",
     "imageName": "chrysanthemum_fish",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chrysanthemum_fish.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chrysanthemum_fish.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hunan",
@@ -7482,7 +7482,7 @@
   {
     "name": "Sichuan Pickled Vegetables (Paocai)",
     "imageName": "sichuan_pickled_vegetables",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_pickled_vegetables.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_pickled_vegetables.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -7533,7 +7533,7 @@
   {
     "name": "Cantonese Steamed Fish with Preserved Lemons",
     "imageName": "steamed_fish_preserved_lemon",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_fish_preserved_lemon.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_fish_preserved_lemon.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -7581,7 +7581,7 @@
   {
     "name": "Lanzhou Hand-Pulled Beef Noodle Soup (Lan Zhou La Mian)",
     "imageName": "lanzhou_beef_noodles",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/lanzhou_beef_noodles.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/lanzhou_beef_noodles.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Lanzhou / Gansu",
@@ -7634,7 +7634,7 @@
   {
     "name": "Stir-Fried Bitter Melon with Black Bean Sauce",
     "imageName": "bitter_melon_black_bean",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/bitter_melon_black_bean.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/bitter_melon_black_bean.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -7680,7 +7680,7 @@
   {
     "name": "Cantonese Roast Duck (Siu Aap)",
     "imageName": "cantonese_roast_duck",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/cantonese_roast_duck.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/cantonese_roast_duck.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -7730,7 +7730,7 @@
   {
     "name": "Steamed Taro Cake (Wu Tao Gou)",
     "imageName": "steamed_taro_cake",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_taro_cake.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_taro_cake.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -7781,7 +7781,7 @@
   {
     "name": "Sichuan Mouth-Watering Chicken (Kou Shui Ji)",
     "imageName": "mouth_watering_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mouth_watering_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mouth_watering_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -7833,7 +7833,7 @@
   {
     "name": "Fuqi Feipian (Husband and Wife Lung Slices)",
     "imageName": "fuqi_feipian",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/fuqi_feipian.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/fuqi_feipian.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -7889,7 +7889,7 @@
   {
     "name": "Shanghai Pan-Fried Buns (Sheng Jian Bao)",
     "imageName": "sheng_jian_bao",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sheng_jian_bao.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sheng_jian_bao.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai",
@@ -7945,7 +7945,7 @@
   {
     "name": "Yunnan Steam Pot Chicken (Qi Guo Ji)",
     "imageName": "yunnan_steam_pot_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/yunnan_steam_pot_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/yunnan_steam_pot_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Yunnan",
@@ -7994,7 +7994,7 @@
   {
     "name": "Minced Pork Omelette (Rou Song Zheng Dan)",
     "imageName": "minced_pork_omelette",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/minced_pork_omelette.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/minced_pork_omelette.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -8043,7 +8043,7 @@
   {
     "name": "Stir-Fried Lotus Root with Scallions",
     "imageName": "stir_fried_lotus_root",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/stir_fried_lotus_root.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/stir_fried_lotus_root.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -8091,7 +8091,7 @@
   {
     "name": "Dezhou Braised Chicken (De Zhou Ba Ji)",
     "imageName": "dezhou_braised_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dezhou_braised_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dezhou_braised_chicken.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shandong",
@@ -8142,7 +8142,7 @@
   {
     "name": "Eight Treasure Rice (Ba Bao Fan)",
     "imageName": "eight_treasure_rice",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/eight_treasure_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/eight_treasure_rice.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai / Jiangnan",
@@ -8190,7 +8190,7 @@
   {
     "name": "Sichuan Green Bean Jelly (Liang Fen)",
     "imageName": "sichuan_green_bean_jelly",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_green_bean_jelly.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_green_bean_jelly.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -8240,7 +8240,7 @@
   {
     "name": "Cantonese Beef Chow Fun (Gon Chow Ngau Ho)",
     "imageName": "beef_chow_fun",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/beef_chow_fun.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/beef_chow_fun.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -8292,7 +8292,7 @@
   {
     "name": "Chinese Pumpkin Pancakes (Nan Gua Bing)",
     "imageName": "pumpkin_pancakes",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pumpkin_pancakes.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pumpkin_pancakes.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -8336,7 +8336,7 @@
   {
     "name": "Hainanese Chicken Rice (Hainan Ji Fan)",
     "imageName": "hainanese_chicken_rice",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hainanese_chicken_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hainanese_chicken_rice.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hainan",
@@ -8388,7 +8388,7 @@
   {
     "name": "Stir-Fried Pea Shoots with Garlic (Suan Rong Dou Miao)",
     "imageName": "garlic_pea_shoots",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/garlic_pea_shoots.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/garlic_pea_shoots.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -8431,7 +8431,7 @@
   {
     "name": "Braised Pork Balls in Brown Sauce (Hong Shao Shi Zi Tou)",
     "imageName": "braised_pork_balls",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/braised_pork_balls.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/braised_pork_balls.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai",
@@ -8482,7 +8482,7 @@
   {
     "name": "Sichuan Numbing and Hot Tofu (Ma La Dou Fu)",
     "imageName": "mala_tofu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mala_tofu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mala_tofu.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -8533,7 +8533,7 @@
   {
     "name": "Cantonese Lobster with Ginger and Scallions",
     "imageName": "lobster_ginger_scallion",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/lobster_ginger_scallion.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/lobster_ginger_scallion.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -8583,7 +8583,7 @@
   {
     "name": "Chinese Walrimp Chicken (Ge Da Tang)",
     "imageName": "chinese_dumpling_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chinese_dumpling_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chinese_dumpling_soup.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Northern",
@@ -8635,7 +8635,7 @@
   {
     "name": "Stir-Fried Chinese Long Beans with Minced Pork",
     "imageName": "long_beans_pork",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/long_beans_pork.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/long_beans_pork.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -8684,7 +8684,7 @@
   {
     "name": "Osmanthus Lotus Root Stuffed with Sticky Rice (Gui Hua Nuo Mi Ou)",
     "imageName": "lotus_root_sticky_rice",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/lotus_root_sticky_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/lotus_root_sticky_rice.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Jiangnan",
@@ -8731,7 +8731,7 @@
   {
     "name": "Sichuan Dry-Fried Green Beans (Gan Bian Si Ji Dou)",
     "imageName": "dry_fried_green_beans",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dry_fried_green_beans.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dry_fried_green_beans.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -8783,7 +8783,7 @@
   {
     "name": "Crossing the Bridge Noodles (Guo Qiao Mi Xian)",
     "imageName": "crossing_bridge_noodles",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/crossing_bridge_noodles.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/crossing_bridge_noodles.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Yunnan",
@@ -8836,7 +8836,7 @@
   {
     "name": "Chairman Mao's Red-Braised Pork (Hong Shao Rou)",
     "imageName": "mao_red_braised_pork",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mao_red_braised_pork.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mao_red_braised_pork.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Hunan",
@@ -8887,7 +8887,7 @@
   {
     "name": "Cantonese Deep-Fried Squid (Zha You Yu)",
     "imageName": "cantonese_fried_squid",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/cantonese_fried_squid.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/cantonese_fried_squid.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -8938,7 +8938,7 @@
   {
     "name": "Sichuan Water Boiled Beef (Shui Zhu Niu Rou)",
     "imageName": "water_boiled_beef",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/water_boiled_beef.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/water_boiled_beef.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -8992,7 +8992,7 @@
   {
     "name": "Steamed Pork with Salted Fish (Xian Yu Zheng Rou Pian)",
     "imageName": "pork_salted_fish",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pork_salted_fish.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pork_salted_fish.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9039,7 +9039,7 @@
   {
     "name": "Chinese Hot Pot (Huo Guo)",
     "imageName": "chinese_hot_pot",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chinese_hot_pot.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chinese_hot_pot.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Various",
@@ -9094,7 +9094,7 @@
   {
     "name": "Stir-Fried Chinese Yam with Wood Ear Mushrooms",
     "imageName": "chinese_yam_stir_fry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chinese_yam_stir_fry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chinese_yam_stir_fry.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -9145,7 +9145,7 @@
   {
     "name": "Cantonese Steamed Fish Head with Chopped Chili (Duo Jiao Zheng Yu Tou)",
     "imageName": "steamed_fish_head_chili",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_fish_head_chili.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_fish_head_chili.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese/Hunan",
@@ -9196,7 +9196,7 @@
   {
     "name": "Shanghai Smoked Fish (Xun Yu)",
     "imageName": "shanghai_smoked_fish",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/shanghai_smoked_fish.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/shanghai_smoked_fish.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Shanghai",
@@ -9247,7 +9247,7 @@
   {
     "name": "Stir-Fried Clams with Black Bean Sauce",
     "imageName": "clams_black_bean_sauce",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/clams_black_bean_sauce.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/clams_black_bean_sauce.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9299,7 +9299,7 @@
   {
     "name": "Chinese Braised Bamboo Shoots (You Men Sun)",
     "imageName": "braised_bamboo_shoots",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/braised_bamboo_shoots.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/braised_bamboo_shoots.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Jiangnan",
@@ -9346,7 +9346,7 @@
   {
     "name": "Cantonese Sweet and Sour Pork (Gu Lao Rou)",
     "imageName": "cantonese_sweet_sour_pork",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/cantonese_sweet_sour_pork.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/cantonese_sweet_sour_pork.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9399,7 +9399,7 @@
   {
     "name": "Steamed Eggplant with Garlic Sauce (Suan Rong Qie Zi)",
     "imageName": "steamed_eggplant_garlic",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/steamed_eggplant_garlic.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/steamed_eggplant_garlic.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -9447,7 +9447,7 @@
   {
     "name": "Crispy Fried Milk (Zha Niu Nai)",
     "imageName": "crispy_fried_milk",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/crispy_fried_milk.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/crispy_fried_milk.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9497,7 +9497,7 @@
   {
     "name": "Sichuan Spicy Wontons (Hong You Chao Shou)",
     "imageName": "sichuan_spicy_wontons",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sichuan_spicy_wontons.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sichuan_spicy_wontons.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Sichuan",
@@ -9549,7 +9549,7 @@
   {
     "name": "Braised Tofu with Mushrooms (Dong Gu Shao Dou Fu)",
     "imageName": "braised_tofu_mushrooms",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/braised_tofu_mushrooms.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/braised_tofu_mushrooms.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Home-style",
@@ -9600,7 +9600,7 @@
   {
     "name": "Cantonese Steamed Minced Pork with Salted Egg (Xian Dan Zheng Rou Bing)",
     "imageName": "pork_salted_egg",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pork_salted_egg.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pork_salted_egg.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9649,7 +9649,7 @@
   {
     "name": "Stir-Fried Chinese Lettuce with Oyster Sauce",
     "imageName": "lettuce_oyster_sauce",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/lettuce_oyster_sauce.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/lettuce_oyster_sauce.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9693,7 +9693,7 @@
   {
     "name": "Chinese Almond Float (Xing Ren Dou Fu)",
     "imageName": "almond_float",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/almond_float.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/almond_float.png",
     "cuisine": "Chinese",
     "country": "China",
     "regionalVariety": "Cantonese",
@@ -9741,7 +9741,7 @@
   {
     "name": "Beef Bourguignon",
     "imageName": "beef_bourguignon",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/beef_bourguignon.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/beef_bourguignon.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Burgundy)",
@@ -9796,7 +9796,7 @@
   {
     "name": "Wiener Schnitzel",
     "imageName": "wiener_schnitzel",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/wiener_schnitzel.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/wiener_schnitzel.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Austria (Vienna)",
@@ -9845,7 +9845,7 @@
   {
     "name": "Coq au Vin",
     "imageName": "coq_au_vin",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/coq_au_vin.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/coq_au_vin.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Burgundy)",
@@ -9900,7 +9900,7 @@
   {
     "name": "Spanish Paella",
     "imageName": "spanish_paella",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/spanish_paella.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/spanish_paella.png",
     "cuisine": "Continental",
     "country": "Spain",
     "regionalVariety": "Spain(Valencia)",
@@ -9955,7 +9955,7 @@
   {
     "name": "Greek Moussaka",
     "imageName": "greek_moussaka",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/greek_moussaka.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/greek_moussaka.png",
     "cuisine": "Continental",
     "country": "Greece",
     "regionalVariety": "Greece(Mainland)",
@@ -10012,7 +10012,7 @@
   {
     "name": "German Sauerbraten",
     "imageName": "german_sauerbraten",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_sauerbraten.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_sauerbraten.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Germany(Rhineland)",
@@ -10068,7 +10068,7 @@
   {
     "name": "French Onion Soup",
     "imageName": "french_onion_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_onion_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_onion_soup.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Paris)",
@@ -10118,7 +10118,7 @@
   {
     "name": "Hungarian Goulash",
     "imageName": "hungarian_goulash",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hungarian_goulash.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hungarian_goulash.png",
     "cuisine": "Continental",
     "country": "Hungary",
     "regionalVariety": "Hungary(Central)",
@@ -10171,7 +10171,7 @@
   {
     "name": "Swedish Meatballs (Köttbullar)",
     "imageName": "swedish_meatballs",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swedish_meatballs.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swedish_meatballs.png",
     "cuisine": "Continental",
     "country": "Sweden",
     "regionalVariety": "Sweden(National)",
@@ -10225,7 +10225,7 @@
   {
     "name": "Portuguese Bacalhau à Brás",
     "imageName": "bacalhau_a_bras",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/bacalhau_a_bras.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/bacalhau_a_bras.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Portugal(Lisbon)",
@@ -10275,7 +10275,7 @@
   {
     "name": "Belgian Moules Frites",
     "imageName": "moules_frites",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/moules_frites.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/moules_frites.png",
     "cuisine": "Continental",
     "country": "Belgium",
     "regionalVariety": "Belgium(Brussels)",
@@ -10328,7 +10328,7 @@
   {
     "name": "Austrian Apple Strudel (Apfelstrudel)",
     "imageName": "apple_strudel",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/apple_strudel.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/apple_strudel.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Austria(Vienna)",
@@ -10379,7 +10379,7 @@
   {
     "name": "Swiss Fondue",
     "imageName": "swiss_fondue",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swiss_fondue.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swiss_fondue.png",
     "cuisine": "Continental",
     "country": "Switzerland",
     "regionalVariety": "Switzerland(Alpine)",
@@ -10431,7 +10431,7 @@
   {
     "name": "British Fish and Chips",
     "imageName": "fish_and_chips",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/fish_and_chips.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/fish_and_chips.png",
     "cuisine": "Continental",
     "country": "United Kingdom",
     "regionalVariety": "UK(National)",
@@ -10482,7 +10482,7 @@
   {
     "name": "Polish Bigos (Hunter's Stew)",
     "imageName": "polish_bigos",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/polish_bigos.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/polish_bigos.png",
     "cuisine": "Continental",
     "country": "Poland",
     "regionalVariety": "Poland(National)",
@@ -10538,7 +10538,7 @@
   {
     "name": "French Quiche Lorraine",
     "imageName": "quiche_lorraine",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/quiche_lorraine.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/quiche_lorraine.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Lorraine)",
@@ -10588,7 +10588,7 @@
   {
     "name": "Dutch Stamppot",
     "imageName": "dutch_stamppot",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dutch_stamppot.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dutch_stamppot.png",
     "cuisine": "Continental",
     "country": "Netherlands",
     "regionalVariety": "Netherlands(National)",
@@ -10638,7 +10638,7 @@
   {
     "name": "Russian Beef Stroganoff",
     "imageName": "beef_stroganoff",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/beef_stroganoff.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/beef_stroganoff.png",
     "cuisine": "Continental",
     "country": "Russia",
     "regionalVariety": "Russia(St.Petersburg)",
@@ -10692,7 +10692,7 @@
   {
     "name": "Spanish Tortilla Española",
     "imageName": "spanish_tortilla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/spanish_tortilla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/spanish_tortilla.png",
     "cuisine": "Continental",
     "country": "Spain",
     "regionalVariety": "Spain(National)",
@@ -10738,7 +10738,7 @@
   {
     "name": "French Ratatouille",
     "imageName": "french_ratatouille",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_ratatouille.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_ratatouille.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Provence)",
@@ -10789,7 +10789,7 @@
   {
     "name": "German Bratwurst with Sauerkraut",
     "imageName": "german_bratwurst",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_bratwurst.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_bratwurst.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Germany(Bavaria)",
@@ -10839,7 +10839,7 @@
   {
     "name": "Greek Spanakopita",
     "imageName": "greek_spanakopita",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/greek_spanakopita.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/greek_spanakopita.png",
     "cuisine": "Continental",
     "country": "Greece",
     "regionalVariety": "Greece(Mainland)",
@@ -10890,7 +10890,7 @@
   {
     "name": "Swedish Gravad Lax",
     "imageName": "swedish_gravad_lax",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swedish_gravad_lax.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swedish_gravad_lax.png",
     "cuisine": "Continental",
     "country": "Sweden",
     "regionalVariety": "Sweden(Scandinavian)",
@@ -10938,7 +10938,7 @@
   {
     "name": "Portuguese Caldo Verde",
     "imageName": "portuguese_caldo_verde",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_caldo_verde.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_caldo_verde.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Portugal(Minho)",
@@ -10987,7 +10987,7 @@
   {
     "name": "Belgian Waterzooi",
     "imageName": "belgian_waterzooi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/belgian_waterzooi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/belgian_waterzooi.png",
     "cuisine": "Continental",
     "country": "Belgium",
     "regionalVariety": "Belgium(Ghent)",
@@ -11042,7 +11042,7 @@
   {
     "name": "Austrian Tafelspitz",
     "imageName": "austrian_tafelspitz",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_tafelspitz.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_tafelspitz.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Austria(Vienna)",
@@ -11095,7 +11095,7 @@
   {
     "name": "Swiss Rösti",
     "imageName": "swiss_rosti",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swiss_rosti.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swiss_rosti.png",
     "cuisine": "Continental",
     "country": "Switzerland",
     "regionalVariety": "Switzerland(German-speaking)",
@@ -11141,7 +11141,7 @@
   {
     "name": "British Shepherd's Pie",
     "imageName": "british_shepherds_pie",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/british_shepherds_pie.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/british_shepherds_pie.png",
     "cuisine": "Continental",
     "country": "United Kingdom",
     "regionalVariety": "UK(National)",
@@ -11195,7 +11195,7 @@
   {
     "name": "Polish Pierogi",
     "imageName": "polish_pierogi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/polish_pierogi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/polish_pierogi.png",
     "cuisine": "Continental",
     "country": "Poland",
     "regionalVariety": "Poland(National)",
@@ -11244,7 +11244,7 @@
   {
     "name": "French Croque Monsieur",
     "imageName": "french_croque_monsieur",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_croque_monsieur.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_croque_monsieur.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Paris)",
@@ -11293,7 +11293,7 @@
   {
     "name": "Dutch Bitterballen",
     "imageName": "dutch_bitterballen",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dutch_bitterballen.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dutch_bitterballen.png",
     "cuisine": "Continental",
     "country": "Netherlands",
     "regionalVariety": "Netherlands(National)",
@@ -11344,7 +11344,7 @@
   {
     "name": "Russian Olivier Salad",
     "imageName": "russian_olivier_salad",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/russian_olivier_salad.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/russian_olivier_salad.png",
     "cuisine": "Continental",
     "country": "Russia",
     "regionalVariety": "Russia(Moscow)",
@@ -11395,7 +11395,7 @@
   {
     "name": "Spanish Gazpacho",
     "imageName": "spanish_gazpacho",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/spanish_gazpacho.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/spanish_gazpacho.png",
     "cuisine": "Continental",
     "country": "Spain",
     "regionalVariety": "Spain(Andalusia)",
@@ -11445,7 +11445,7 @@
   {
     "name": "Hungarian Chicken Paprikash",
     "imageName": "hungarian_chicken_paprikash",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hungarian_chicken_paprikash.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hungarian_chicken_paprikash.png",
     "cuisine": "Continental",
     "country": "Hungary",
     "regionalVariety": "Hungary(Central)",
@@ -11496,7 +11496,7 @@
   {
     "name": "German Black Forest Cake",
     "imageName": "german_black_forest_cake",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_black_forest_cake.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_black_forest_cake.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Germany(Black Forest)",
@@ -11544,7 +11544,7 @@
   {
     "name": "French Duck Confit",
     "imageName": "french_duck_confit",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_duck_confit.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_duck_confit.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Gascony)",
@@ -11592,7 +11592,7 @@
   {
     "name": "Austrian Sachertorte",
     "imageName": "austrian_sachertorte",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_sachertorte.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_sachertorte.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Austria(Vienna)",
@@ -11641,7 +11641,7 @@
   {
     "name": "Portuguese Pastéis de Nata",
     "imageName": "portuguese_pasteis_de_nata",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_pasteis_de_nata.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_pasteis_de_nata.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Portugal(Lisbon)",
@@ -11689,7 +11689,7 @@
   {
     "name": "French Cassoulet",
     "imageName": "french_cassoulet",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_cassoulet.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_cassoulet.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "France(Toulouse)",
@@ -11744,7 +11744,7 @@
   {
     "name": "German Potato Pancakes (Kartoffelpuffer)",
     "imageName": "german_potato_pancakes",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_potato_pancakes.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_potato_pancakes.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "National",
@@ -11794,7 +11794,7 @@
   {
     "name": "Greek Souvlaki",
     "imageName": "greek_souvlaki",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/greek_souvlaki.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/greek_souvlaki.png",
     "cuisine": "Continental",
     "country": "Greece",
     "regionalVariety": "Athens",
@@ -11845,7 +11845,7 @@
   {
     "name": "Swedish Janssons Frestelse",
     "imageName": "swedish_janssons_frestelse",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swedish_janssons_frestelse.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swedish_janssons_frestelse.png",
     "cuisine": "Continental",
     "country": "Sweden",
     "regionalVariety": "Scandinavian",
@@ -11893,7 +11893,7 @@
   {
     "name": "Portuguese Frango Piri Piri",
     "imageName": "portuguese_frango_piri_piri",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_frango_piri_piri.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_frango_piri_piri.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Algarve",
@@ -11942,7 +11942,7 @@
   {
     "name": "Belgian Carbonade Flamande",
     "imageName": "belgian_carbonade_flamande",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/belgian_carbonade_flamande.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/belgian_carbonade_flamande.png",
     "cuisine": "Continental",
     "country": "Belgium",
     "regionalVariety": "Flanders",
@@ -11994,7 +11994,7 @@
   {
     "name": "Austrian Kaiserschmarrn",
     "imageName": "austrian_kaiserschmarrn",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_kaiserschmarrn.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_kaiserschmarrn.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Alpine",
@@ -12044,7 +12044,7 @@
   {
     "name": "Swiss Zürcher Geschnetzeltes",
     "imageName": "swiss_zurcher_geschnetzeltes",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swiss_zurcher_geschnetzeltes.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swiss_zurcher_geschnetzeltes.png",
     "cuisine": "Continental",
     "country": "Switzerland",
     "regionalVariety": "Zurich",
@@ -12095,7 +12095,7 @@
   {
     "name": "British Beef Wellington",
     "imageName": "british_beef_wellington",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/british_beef_wellington.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/british_beef_wellington.png",
     "cuisine": "Continental",
     "country": "United Kingdom",
     "regionalVariety": "England",
@@ -12145,7 +12145,7 @@
   {
     "name": "Polish Żurek",
     "imageName": "polish_zurek",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/polish_zurek.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/polish_zurek.png",
     "cuisine": "Continental",
     "country": "Poland",
     "regionalVariety": "National",
@@ -12196,7 +12196,7 @@
   {
     "name": "French Salade Niçoise",
     "imageName": "french_salade_nicoise",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_salade_nicoise.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_salade_nicoise.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Nice",
@@ -12247,7 +12247,7 @@
   {
     "name": "Dutch Erwtensoep",
     "imageName": "dutch_erwtensoep",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dutch_erwtensoep.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dutch_erwtensoep.png",
     "cuisine": "Continental",
     "country": "Netherlands",
     "regionalVariety": "National",
@@ -12298,7 +12298,7 @@
   {
     "name": "Russian Pelmeni",
     "imageName": "russian_pelmeni",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/russian_pelmeni.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/russian_pelmeni.png",
     "cuisine": "Continental",
     "country": "Russia",
     "regionalVariety": "Siberian",
@@ -12349,7 +12349,7 @@
   {
     "name": "Spanish Churros con Chocolate",
     "imageName": "spanish_churros",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/spanish_churros.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/spanish_churros.png",
     "cuisine": "Continental",
     "country": "Spain",
     "regionalVariety": "Madrid",
@@ -12400,7 +12400,7 @@
   {
     "name": "Hungarian Langos",
     "imageName": "hungarian_langos",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hungarian_langos.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hungarian_langos.png",
     "cuisine": "Continental",
     "country": "Hungary",
     "regionalVariety": "Budapest",
@@ -12451,7 +12451,7 @@
   {
     "name": "German Rote Grütze",
     "imageName": "german_rote_grutze",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_rote_grutze.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_rote_grutze.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Northern",
@@ -12498,7 +12498,7 @@
   {
     "name": "French Tarte Tatin",
     "imageName": "french_tarte_tatin",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_tarte_tatin.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_tarte_tatin.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Loire Valley",
@@ -12546,7 +12546,7 @@
   {
     "name": "Austrian Linzer Torte",
     "imageName": "austrian_linzer_torte",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_linzer_torte.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_linzer_torte.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Linz",
@@ -12596,7 +12596,7 @@
   {
     "name": "Portuguese Caldeirada",
     "imageName": "portuguese_caldeirada",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_caldeirada.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_caldeirada.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Coastal",
@@ -12650,7 +12650,7 @@
   {
     "name": "French Bouillabaisse",
     "imageName": "french_bouillabaisse",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_bouillabaisse.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_bouillabaisse.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Marseille",
@@ -12706,7 +12706,7 @@
   {
     "name": "German Spätzle",
     "imageName": "german_spatzle",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_spatzle.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_spatzle.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Swabia",
@@ -12754,7 +12754,7 @@
   {
     "name": "Greek Gyros",
     "imageName": "greek_gyros",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/greek_gyros.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/greek_gyros.png",
     "cuisine": "Continental",
     "country": "Greece",
     "regionalVariety": "Athens",
@@ -12808,7 +12808,7 @@
   {
     "name": "Swedish Köttbullar",
     "imageName": "swedish_kottbullar",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swedish_kottbullar.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swedish_kottbullar.png",
     "cuisine": "Continental",
     "country": "Sweden",
     "regionalVariety": "National",
@@ -12860,7 +12860,7 @@
   {
     "name": "Portuguese Arroz de Pato",
     "imageName": "portuguese_arroz_de_pato",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_arroz_de_pato.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_arroz_de_pato.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "National",
@@ -12913,7 +12913,7 @@
   {
     "name": "Belgian Endive au Gratin",
     "imageName": "belgian_endive_gratin",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/belgian_endive_gratin.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/belgian_endive_gratin.png",
     "cuisine": "Continental",
     "country": "Belgium",
     "regionalVariety": "Brussels",
@@ -12963,7 +12963,7 @@
   {
     "name": "Austrian Goulash Soup",
     "imageName": "austrian_goulash_soup",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_goulash_soup.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_goulash_soup.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Vienna",
@@ -13016,7 +13016,7 @@
   {
     "name": "Swiss Bircher Müesli",
     "imageName": "swiss_bircher_muesli",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swiss_bircher_muesli.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swiss_bircher_muesli.png",
     "cuisine": "Continental",
     "country": "Switzerland",
     "regionalVariety": "Zurich",
@@ -13065,7 +13065,7 @@
   {
     "name": "British Sticky Toffee Pudding",
     "imageName": "british_sticky_toffee_pudding",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/british_sticky_toffee_pudding.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/british_sticky_toffee_pudding.png",
     "cuisine": "Continental",
     "country": "United Kingdom",
     "regionalVariety": "England",
@@ -13117,7 +13117,7 @@
   {
     "name": "Polish Gołąbki",
     "imageName": "polish_golabki",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/polish_golabki.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/polish_golabki.png",
     "cuisine": "Continental",
     "country": "Poland",
     "regionalVariety": "National",
@@ -13169,7 +13169,7 @@
   {
     "name": "French Soufflé au Fromage",
     "imageName": "french_souffle_au_fromage",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_souffle_au_fromage.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_souffle_au_fromage.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Paris",
@@ -13219,7 +13219,7 @@
   {
     "name": "Dutch Poffertjes",
     "imageName": "dutch_poffertjes",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dutch_poffertjes.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dutch_poffertjes.png",
     "cuisine": "Continental",
     "country": "Netherlands",
     "regionalVariety": "National",
@@ -13268,7 +13268,7 @@
   {
     "name": "Russian Shashlik",
     "imageName": "russian_shashlik",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/russian_shashlik.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/russian_shashlik.png",
     "cuisine": "Continental",
     "country": "Russia",
     "regionalVariety": "Caucasus",
@@ -13319,7 +13319,7 @@
   {
     "name": "Spanish Fabada Asturiana",
     "imageName": "spanish_fabada_asturiana",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/spanish_fabada_asturiana.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/spanish_fabada_asturiana.png",
     "cuisine": "Continental",
     "country": "Spain",
     "regionalVariety": "Asturias",
@@ -13370,7 +13370,7 @@
   {
     "name": "Hungarian Dobos Torte",
     "imageName": "hungarian_dobos_torte",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hungarian_dobos_torte.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hungarian_dobos_torte.png",
     "cuisine": "Continental",
     "country": "Hungary",
     "regionalVariety": "Budapest",
@@ -13419,7 +13419,7 @@
   {
     "name": "German Königsberger Klopse",
     "imageName": "german_konigsberger_klopse",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_konigsberger_klopse.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_konigsberger_klopse.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "East Prussia",
@@ -13472,7 +13472,7 @@
   {
     "name": "French Blanquette de Veau",
     "imageName": "french_blanquette_de_veau",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_blanquette_de_veau.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_blanquette_de_veau.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Paris",
@@ -13526,7 +13526,7 @@
   {
     "name": "Austrian Marillenknödel",
     "imageName": "austrian_marillenknodel",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_marillenknodel.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_marillenknodel.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Wachau",
@@ -13576,7 +13576,7 @@
   {
     "name": "Portuguese Bifana",
     "imageName": "portuguese_bifana",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_bifana.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_bifana.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Alentejo",
@@ -13627,7 +13627,7 @@
   {
     "name": "French Pot-au-Feu",
     "imageName": "french_pot_au_feu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_pot_au_feu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_pot_au_feu.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "National",
@@ -13682,7 +13682,7 @@
   {
     "name": "German Himmel und Erde",
     "imageName": "german_himmel_und_erde",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_himmel_und_erde.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_himmel_und_erde.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Rhineland",
@@ -13730,7 +13730,7 @@
   {
     "name": "Greek Youvetsi",
     "imageName": "greek_youvetsi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/greek_youvetsi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/greek_youvetsi.png",
     "cuisine": "Continental",
     "country": "Greece",
     "regionalVariety": "Mainland",
@@ -13782,7 +13782,7 @@
   {
     "name": "Swedish Pytt i Panna",
     "imageName": "swedish_pytt_i_panna",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swedish_pytt_i_panna.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swedish_pytt_i_panna.png",
     "cuisine": "Continental",
     "country": "Sweden",
     "regionalVariety": "National",
@@ -13831,7 +13831,7 @@
   {
     "name": "Portuguese Arroz de Marisco",
     "imageName": "portuguese_arroz_de_marisco",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_arroz_de_marisco.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_arroz_de_marisco.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Coastal",
@@ -13886,7 +13886,7 @@
   {
     "name": "Belgian Carbonnade Flamande",
     "imageName": "belgian_carbonnade_flamande",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/belgian_carbonnade_flamande.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/belgian_carbonnade_flamande.png",
     "cuisine": "Continental",
     "country": "Belgium",
     "regionalVariety": "Flanders",
@@ -13938,7 +13938,7 @@
   {
     "name": "Austrian Topfenknödel",
     "imageName": "austrian_topfenknodel",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_topfenknodel.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_topfenknodel.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Alpine",
@@ -13989,7 +13989,7 @@
   {
     "name": "Swiss Älplermagronen",
     "imageName": "swiss_alplermagronen",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/swiss_alplermagronen.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/swiss_alplermagronen.png",
     "cuisine": "Continental",
     "country": "Switzerland",
     "regionalVariety": "Alpine",
@@ -14040,7 +14040,7 @@
   {
     "name": "British Bubble and Squeak",
     "imageName": "british_bubble_and_squeak",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/british_bubble_and_squeak.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/british_bubble_and_squeak.png",
     "cuisine": "Continental",
     "country": "United Kingdom",
     "regionalVariety": "England",
@@ -14088,7 +14088,7 @@
   {
     "name": "Polish Barszcz Czerwony",
     "imageName": "polish_barszcz_czerwony",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/polish_barszcz_czerwony.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/polish_barszcz_czerwony.png",
     "cuisine": "Continental",
     "country": "Poland",
     "regionalVariety": "National",
@@ -14139,7 +14139,7 @@
   {
     "name": "French Tarte Flambée",
     "imageName": "french_tarte_flambee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_tarte_flambee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_tarte_flambee.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Alsace",
@@ -14187,7 +14187,7 @@
   {
     "name": "Dutch Hutspot",
     "imageName": "dutch_hutspot",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dutch_hutspot.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dutch_hutspot.png",
     "cuisine": "Continental",
     "country": "Netherlands",
     "regionalVariety": "National",
@@ -14236,7 +14236,7 @@
   {
     "name": "Russian Kholodets",
     "imageName": "russian_kholodets",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/russian_kholodets.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/russian_kholodets.png",
     "cuisine": "Continental",
     "country": "Russia",
     "regionalVariety": "National",
@@ -14289,7 +14289,7 @@
   {
     "name": "Spanish Cocido Madrileño",
     "imageName": "spanish_cocido_madrileno",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/spanish_cocido_madrileno.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/spanish_cocido_madrileno.png",
     "cuisine": "Continental",
     "country": "Spain",
     "regionalVariety": "Madrid",
@@ -14342,7 +14342,7 @@
   {
     "name": "Hungarian Halászlé",
     "imageName": "hungarian_halaszle",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/hungarian_halaszle.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/hungarian_halaszle.png",
     "cuisine": "Continental",
     "country": "Hungary",
     "regionalVariety": "Danube River",
@@ -14391,7 +14391,7 @@
   {
     "name": "German Dampfnudeln",
     "imageName": "german_dampfnudeln",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/german_dampfnudeln.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/german_dampfnudeln.png",
     "cuisine": "Continental",
     "country": "Germany",
     "regionalVariety": "Palatinate",
@@ -14441,7 +14441,7 @@
   {
     "name": "French Canard à l'Orange",
     "imageName": "french_canard_a_l_orange",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/french_canard_a_l_orange.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/french_canard_a_l_orange.png",
     "cuisine": "Continental",
     "country": "France",
     "regionalVariety": "Paris",
@@ -14491,7 +14491,7 @@
   {
     "name": "Austrian Salzburger Nockerl",
     "imageName": "austrian_salzburger_nockerl",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/austrian_salzburger_nockerl.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/austrian_salzburger_nockerl.png",
     "cuisine": "Continental",
     "country": "Austria",
     "regionalVariety": "Salzburg",
@@ -14540,7 +14540,7 @@
   {
     "name": "Portuguese Caldo Verde",
     "imageName": "portuguese_caldo_verde",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/portuguese_caldo_verde.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/portuguese_caldo_verde.png",
     "cuisine": "Continental",
     "country": "Portugal",
     "regionalVariety": "Minho",
@@ -14589,7 +14589,7 @@
   {
     "name": "Butter Chicken (Murgh Makhani)",
     "imageName": "butter_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/butter_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/butter_chicken.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -14638,7 +14638,7 @@
   {
     "name": "Palak Paneer",
     "imageName": "palak_paneer",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/palak_paneer.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/palak_paneer.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -14687,7 +14687,7 @@
   {
     "name": "Chole Bhature",
     "imageName": "chole_bhature",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chole_bhature.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chole_bhature.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -14738,7 +14738,7 @@
   {
     "name": "Masala Dosa",
     "imageName": "masala_dosa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/masala_dosa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/masala_dosa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -14790,7 +14790,7 @@
   {
     "name": "Rogan Josh",
     "imageName": "rogan_josh",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rogan_josh.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rogan_josh.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Kashmiri",
@@ -14842,7 +14842,7 @@
   {
     "name": "Dal Makhani",
     "imageName": "dal_makhani",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dal_makhani.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dal_makhani.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -14891,7 +14891,7 @@
   {
     "name": "Pav Bhaji",
     "imageName": "pav_bhaji",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pav_bhaji.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pav_bhaji.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Maharashtrian",
@@ -14941,7 +14941,7 @@
   {
     "name": "Biryani (Chicken)",
     "imageName": "chicken_biryani",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_biryani.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_biryani.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Hyderabadi",
@@ -14994,7 +14994,7 @@
   {
     "name": "Idli",
     "imageName": "idli",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/idli.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/idli.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -15038,7 +15038,7 @@
   {
     "name": "Aloo Gobi",
     "imageName": "aloo_gobi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/aloo_gobi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/aloo_gobi.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -15089,7 +15089,7 @@
   {
     "name": "Tandoori Chicken",
     "imageName": "tandoori_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/tandoori_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/tandoori_chicken.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -15138,7 +15138,7 @@
   {
     "name": "Rajma Masala",
     "imageName": "rajma_masala",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rajma_masala.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rajma_masala.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -15189,7 +15189,7 @@
   {
     "name": "Pani Puri",
     "imageName": "pani_puri",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pani_puri.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pani_puri.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Street Food",
@@ -15239,7 +15239,7 @@
   {
     "name": "Malai Kofta",
     "imageName": "malai_kofta",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/malai_kofta.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/malai_kofta.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Mughlai",
@@ -15284,7 +15284,7 @@
   {
     "name": "Chana Masala",
     "imageName": "chana_masala",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chana_masala.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chana_masala.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -15334,7 +15334,7 @@
   {
     "name": "Rava Dosa",
     "imageName": "rava_dosa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rava_dosa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rava_dosa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -15385,7 +15385,7 @@
   {
     "name": "Fish Curry (Goan)",
     "imageName": "goan_fish_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/goan_fish_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/goan_fish_curry.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Goan",
@@ -15437,7 +15437,7 @@
   {
     "name": "Matar Paneer",
     "imageName": "matar_paneer",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/matar_paneer.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/matar_paneer.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -15489,7 +15489,7 @@
   {
     "name": "Vada Pav",
     "imageName": "vada_pav",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/vada_pav.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/vada_pav.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Maharashtrian",
@@ -15539,7 +15539,7 @@
   {
     "name": "Pongal",
     "imageName": "pongal",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pongal.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pongal.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -15588,7 +15588,7 @@
   {
     "name": "Baingan Bharta",
     "imageName": "baingan_bharta",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/baingan_bharta.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/baingan_bharta.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -15638,7 +15638,7 @@
   {
     "name": "Chicken Tikka",
     "imageName": "chicken_tikka",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_tikka.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_tikka.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -15688,7 +15688,7 @@
   {
     "name": "Mysore Masala Dosa",
     "imageName": "mysore_masala_dosa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mysore_masala_dosa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mysore_masala_dosa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian / Karnataka",
@@ -15737,7 +15737,7 @@
   {
     "name": "Kadhai Paneer",
     "imageName": "kadhai_paneer",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kadhai_paneer.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kadhai_paneer.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -15787,7 +15787,7 @@
   {
     "name": "Kerala Fish Molee",
     "imageName": "kerala_fish_molee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kerala_fish_molee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kerala_fish_molee.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Kerala",
@@ -15838,7 +15838,7 @@
   {
     "name": "Aloo Paratha",
     "imageName": "aloo_paratha",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/aloo_paratha.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/aloo_paratha.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -15886,7 +15886,7 @@
   {
     "name": "Hyderabadi Bagara Baingan",
     "imageName": "bagara_baingan",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/bagara_baingan.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/bagara_baingan.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Hyderabadi",
@@ -15937,7 +15937,7 @@
   {
     "name": "Litti Chokha",
     "imageName": "litti_chokha",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/litti_chokha.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/litti_chokha.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bihari",
@@ -15985,7 +15985,7 @@
   {
     "name": "Kolkata Chicken Roll",
     "imageName": "kolkata_chicken_roll",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kolkata_chicken_roll.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kolkata_chicken_roll.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali / Street Food",
@@ -16035,7 +16035,7 @@
   {
     "name": "Methi Thepla",
     "imageName": "methi_thepla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/methi_thepla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/methi_thepla.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Gujarati",
@@ -16082,7 +16082,7 @@
   {
     "name": "Chettinad Chicken",
     "imageName": "chettinad_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chettinad_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chettinad_chicken.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Tamil Nadu / Chettinad",
@@ -16133,7 +16133,7 @@
   {
     "name": "Pesarattu",
     "imageName": "pesarattu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pesarattu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pesarattu.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Andhra Pradesh",
@@ -16178,7 +16178,7 @@
   {
     "name": "Kashmiri Dum Aloo",
     "imageName": "kashmiri_dum_aloo",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kashmiri_dum_aloo.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kashmiri_dum_aloo.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Kashmiri",
@@ -16228,7 +16228,7 @@
   {
     "name": "Bombay Sandwich",
     "imageName": "bombay_sandwich",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/bombay_sandwich.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/bombay_sandwich.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Street Food",
@@ -16277,7 +16277,7 @@
   {
     "name": "Laal Maas",
     "imageName": "laal_maas",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/laal_maas.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/laal_maas.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Rajasthani",
@@ -16326,7 +16326,7 @@
   {
     "name": "Medu Vada",
     "imageName": "medu_vada",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/medu_vada.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/medu_vada.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -16374,7 +16374,7 @@
   {
     "name": "Gajar Ka Halwa",
     "imageName": "gajar_ka_halwa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/gajar_ka_halwa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/gajar_ka_halwa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -16421,7 +16421,7 @@
   {
     "name": "Pav Bhaji",
     "imageName": "pav_bhaji",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pav_bhaji.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pav_bhaji.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Maharashtrian",
@@ -16471,7 +16471,7 @@
   {
     "name": "Biryani (Chicken)",
     "imageName": "chicken_biryani",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_biryani.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_biryani.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Hyderabadi",
@@ -16524,7 +16524,7 @@
   {
     "name": "Idli",
     "imageName": "idli",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/idli.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/idli.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -16568,7 +16568,7 @@
   {
     "name": "Aloo Gobi",
     "imageName": "aloo_gobi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/aloo_gobi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/aloo_gobi.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -16619,7 +16619,7 @@
   {
     "name": "Tandoori Chicken",
     "imageName": "tandoori_chicken",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/tandoori_chicken.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/tandoori_chicken.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -16668,7 +16668,7 @@
   {
     "name": "Rajma Masala",
     "imageName": "rajma_masala",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rajma_masala.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rajma_masala.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -16719,7 +16719,7 @@
   {
     "name": "Pani Puri",
     "imageName": "pani_puri",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pani_puri.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pani_puri.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Street Food",
@@ -16769,7 +16769,7 @@
   {
     "name": "Malai Kofta",
     "imageName": "malai_kofta",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/malai_kofta.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/malai_kofta.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Mughlai",
@@ -16814,7 +16814,7 @@
   {
     "name": "Chana Masala",
     "imageName": "chana_masala",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chana_masala.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chana_masala.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -16864,7 +16864,7 @@
   {
     "name": "Rava Dosa",
     "imageName": "rava_dosa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rava_dosa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rava_dosa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -16915,7 +16915,7 @@
   {
     "name": "Fish Curry (Goan)",
     "imageName": "goan_fish_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/goan_fish_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/goan_fish_curry.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Goan",
@@ -16967,7 +16967,7 @@
   {
     "name": "Matar Paneer",
     "imageName": "matar_paneer",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/matar_paneer.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/matar_paneer.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -17019,7 +17019,7 @@
   {
     "name": "Vada Pav",
     "imageName": "vada_pav",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/vada_pav.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/vada_pav.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Maharashtrian",
@@ -17069,7 +17069,7 @@
   {
     "name": "Kadhi Pakora",
     "imageName": "kadhi_pakora",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kadhi_pakora.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kadhi_pakora.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Punjabi",
@@ -17119,7 +17119,7 @@
   {
     "name": "Chicken 65",
     "imageName": "chicken_65",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_65.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_65.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian / Andhra",
@@ -17168,7 +17168,7 @@
   {
     "name": "Mutton Korma",
     "imageName": "mutton_korma",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mutton_korma.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mutton_korma.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / Mughlai",
@@ -17218,7 +17218,7 @@
   {
     "name": "Besan Chilla",
     "imageName": "besan_chilla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/besan_chilla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/besan_chilla.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -17265,7 +17265,7 @@
   {
     "name": "Egg Curry",
     "imageName": "egg_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/egg_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/egg_curry.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -17316,7 +17316,7 @@
   {
     "name": "Dhokla",
     "imageName": "dhokla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/dhokla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/dhokla.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Gujarati",
@@ -17366,7 +17366,7 @@
   {
     "name": "Kolkata Biryani",
     "imageName": "kolkata_biryani",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kolkata_biryani.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kolkata_biryani.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali",
@@ -17419,7 +17419,7 @@
   {
     "name": "Masala Karela",
     "imageName": "masala_karela",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/masala_karela.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/masala_karela.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -17470,7 +17470,7 @@
   {
     "name": "Appam with Stew",
     "imageName": "appam_stew",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/appam_stew.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/appam_stew.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Kerala",
@@ -17519,7 +17519,7 @@
   {
     "name": "Chicken Chettinad",
     "imageName": "chicken_chettinad",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_chettinad.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_chettinad.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Tamil Nadu",
@@ -17570,7 +17570,7 @@
   {
     "name": "Misi Roti",
     "imageName": "misi_roti",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/misi_roti.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/misi_roti.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Punjabi",
@@ -17618,7 +17618,7 @@
   {
     "name": "Prawn Malai Curry",
     "imageName": "prawn_malai_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/prawn_malai_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/prawn_malai_curry.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali",
@@ -17668,7 +17668,7 @@
   {
     "name": "Kulfi",
     "imageName": "kulfi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kulfi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kulfi.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -17717,7 +17717,7 @@
   {
     "name": "Kadhi Chawal",
     "imageName": "kadhi_chawal",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kadhi_chawal.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kadhi_chawal.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -17767,7 +17767,7 @@
   {
     "name": "Chicken Tikka Masala",
     "imageName": "chicken_tikka_masala",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_tikka_masala.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_tikka_masala.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian / British-Indian",
@@ -17818,7 +17818,7 @@
   {
     "name": "Sarson Ka Saag",
     "imageName": "sarson_ka_saag",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/sarson_ka_saag.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/sarson_ka_saag.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Punjabi",
@@ -17868,7 +17868,7 @@
   {
     "name": "Pesarattu",
     "imageName": "pesarattu",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pesarattu.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pesarattu.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Andhra Pradesh",
@@ -17913,7 +17913,7 @@
   {
     "name": "Kashmiri Dum Aloo",
     "imageName": "kashmiri_dum_aloo",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kashmiri_dum_aloo.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kashmiri_dum_aloo.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Kashmiri",
@@ -17963,7 +17963,7 @@
   {
     "name": "Bombay Sandwich",
     "imageName": "bombay_sandwich",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/bombay_sandwich.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/bombay_sandwich.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Street Food",
@@ -18012,7 +18012,7 @@
   {
     "name": "Laal Maas",
     "imageName": "laal_maas",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/laal_maas.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/laal_maas.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Rajasthani",
@@ -18061,7 +18061,7 @@
   {
     "name": "Medu Vada",
     "imageName": "medu_vada",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/medu_vada.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/medu_vada.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian",
@@ -18109,7 +18109,7 @@
   {
     "name": "Gajar Ka Halwa",
     "imageName": "gajar_ka_halwa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/gajar_ka_halwa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/gajar_ka_halwa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -18156,7 +18156,7 @@
   {
     "name": "Chicken Lollipop",
     "imageName": "chicken_lollipop",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_lollipop.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_lollipop.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Indo-Chinese",
@@ -18204,7 +18204,7 @@
   {
     "name": "Mysore Pak",
     "imageName": "mysore_pak",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mysore_pak.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mysore_pak.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "South Indian / Karnataka",
@@ -18251,7 +18251,7 @@
   {
     "name": "Masala Chai",
     "imageName": "masala_chai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/masala_chai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/masala_chai.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Pan-Indian",
@@ -18299,7 +18299,7 @@
   {
     "name": "Kachori",
     "imageName": "kachori",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kachori.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kachori.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Rajasthani",
@@ -18348,7 +18348,7 @@
   {
     "name": "Prawn Biryani",
     "imageName": "prawn_biryani",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/prawn_biryani.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/prawn_biryani.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Coastal",
@@ -18399,7 +18399,7 @@
   {
     "name": "Aloo Tikki",
     "imageName": "aloo_tikki",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/aloo_tikki.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/aloo_tikki.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -18445,7 +18445,7 @@
   {
     "name": "Mutton Rogan Josh",
     "imageName": "mutton_rogan_josh",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mutton_rogan_josh.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mutton_rogan_josh.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Kashmiri",
@@ -18494,7 +18494,7 @@
   {
     "name": "Rasgulla",
     "imageName": "rasgulla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rasgulla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rasgulla.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali",
@@ -18542,7 +18542,7 @@
   {
     "name": "Khaman Dhokla",
     "imageName": "khaman_dhokla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/khaman_dhokla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/khaman_dhokla.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Gujarati",
@@ -18591,7 +18591,7 @@
   {
     "name": "Chicken Kosha",
     "imageName": "chicken_kosha",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_kosha.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_kosha.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali",
@@ -18641,7 +18641,7 @@
   {
     "name": "Methi Malai Mutter",
     "imageName": "methi_malai_mutter",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/methi_malai_mutter.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/methi_malai_mutter.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -18691,7 +18691,7 @@
   {
     "name": "Kolkata Kathi Roll",
     "imageName": "kolkata_kathi_roll",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/kolkata_kathi_roll.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/kolkata_kathi_roll.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali",
@@ -18740,7 +18740,7 @@
   {
     "name": "Shrikhand",
     "imageName": "shrikhand",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/shrikhand.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/shrikhand.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Gujarati/Maharashtrian",
@@ -18788,7 +18788,7 @@
   {
     "name": "Egg Bhurji",
     "imageName": "egg_bhurji",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/egg_bhurji.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/egg_bhurji.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -18838,7 +18838,7 @@
   {
     "name": "Punjabi Lassi",
     "imageName": "punjabi_lassi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/punjabi_lassi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/punjabi_lassi.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Punjabi",
@@ -18885,7 +18885,7 @@
   {
     "name": "Chicken Reshmi Kabab",
     "imageName": "chicken_reshmi_kabab",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_reshmi_kabab.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_reshmi_kabab.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Mughlai",
@@ -18933,7 +18933,7 @@
   {
     "name": "Mango Pickle",
     "imageName": "mango_pickle",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/mango_pickle.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/mango_pickle.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Pan-Indian",
@@ -18982,7 +18982,7 @@
   {
     "name": "Vegetable Pulao",
     "imageName": "vegetable_pulao",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/vegetable_pulao.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/vegetable_pulao.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "North Indian",
@@ -19031,7 +19031,7 @@
   {
     "name": "Chicken Kolhapuri",
     "imageName": "chicken_kolhapuri",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/chicken_kolhapuri.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/chicken_kolhapuri.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Maharashtrian",
@@ -19081,7 +19081,7 @@
   {
     "name": "Moong Dal Halwa",
     "imageName": "moong_dal_halwa",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/moong_dal_halwa.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/moong_dal_halwa.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Rajasthani",
@@ -19130,7 +19130,7 @@
   {
     "name": "Pav Bhaji",
     "imageName": "pav_bhaji",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/pav_bhaji.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/pav_bhaji.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Maharashtrian",
@@ -19180,7 +19180,7 @@
   {
     "name": "Rasmalai",
     "imageName": "rasmalai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/main/rasmalai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/rasmalai.png",
     "cuisine": "Indian",
     "country": "India",
     "regionalVariety": "Bengali",
@@ -19229,7 +19229,7 @@
   {
     "name": "Pad Thai",
     "imageName": "pad_thai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_thai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_thai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19282,7 +19282,7 @@
   {
     "name": "Tom Yum Goong",
     "imageName": "tom_yum_goong",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/tom_yum_goong.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/tom_yum_goong.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19334,7 +19334,7 @@
   {
     "name": "Green Curry (Gaeng Keow Wan)",
     "imageName": "green_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/green_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/green_curry.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19384,7 +19384,7 @@
   {
     "name": "Som Tum (Green Papaya Salad)",
     "imageName": "som_tum",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/som_tum.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/som_tum.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -19435,7 +19435,7 @@
   {
     "name": "Massaman Curry",
     "imageName": "massaman_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/massaman_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/massaman_curry.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -19487,7 +19487,7 @@
   {
     "name": "Pad Kra Pao (Holy Basil Stir-fry)",
     "imageName": "pad_kra_pao",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_kra_pao.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_kra_pao.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19536,7 +19536,7 @@
   {
     "name": "Tom Kha Gai (Coconut Chicken Soup)",
     "imageName": "tom_kha_gai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/tom_kha_gai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/tom_kha_gai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19587,7 +19587,7 @@
   {
     "name": "Panang Curry",
     "imageName": "panang_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/panang_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/panang_curry.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19636,7 +19636,7 @@
   {
     "name": "Mango Sticky Rice (Khao Niew Mamuang)",
     "imageName": "mango_sticky_rice",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/mango_sticky_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/mango_sticky_rice.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19683,7 +19683,7 @@
   {
     "name": "Satay (Grilled Meat Skewers)",
     "imageName": "satay",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/satay.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/satay.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19736,7 +19736,7 @@
   {
     "name": "Pad See Ew (Stir-fried Wide Noodles)",
     "imageName": "pad_see_ew",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_see_ew.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_see_ew.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19788,7 +19788,7 @@
   {
     "name": "Yum Woon Sen (Glass Noodle Salad)",
     "imageName": "yum_woon_sen",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yum_woon_sen.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yum_woon_sen.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19840,7 +19840,7 @@
   {
     "name": "Khao Soi (Northern Thai Curry Noodles)",
     "imageName": "khao_soi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_soi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_soi.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northern Thai",
@@ -19891,7 +19891,7 @@
   {
     "name": "Laab (Spicy Minced Meat Salad)",
     "imageName": "laab",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/laab.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/laab.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -19941,7 +19941,7 @@
   {
     "name": "Gaeng Daeng (Red Curry)",
     "imageName": "red_curry",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/red_curry.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/red_curry.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -19991,7 +19991,7 @@
   {
     "name": "Pla Rad Prik (Crispy Fish with Chili Sauce)",
     "imageName": "pla_rad_prik",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_rad_prik.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_rad_prik.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20041,7 +20041,7 @@
   {
     "name": "Khanom Krok (Coconut Rice Pancakes)",
     "imageName": "khanom_krok",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_krok.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_krok.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20088,7 +20088,7 @@
   {
     "name": "Yam Talay (Seafood Salad)",
     "imageName": "yam_talay",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yam_talay.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yam_talay.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Coastal Thai",
@@ -20138,7 +20138,7 @@
   {
     "name": "Khao Pad (Thai Fried Rice)",
     "imageName": "khao_pad",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_pad.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_pad.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20190,7 +20190,7 @@
   {
     "name": "Gaeng Som (Sour Curry)",
     "imageName": "gaeng_som",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_som.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_som.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -20241,7 +20241,7 @@
   {
     "name": "Kai Jeow (Thai Omelette)",
     "imageName": "kai_jeow",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/kai_jeow.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/kai_jeow.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20289,7 +20289,7 @@
   {
     "name": "Tom Saap (Spicy Pork Rib Soup)",
     "imageName": "tom_saap",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/tom_saap.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/tom_saap.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -20341,7 +20341,7 @@
   {
     "name": "Khanom Buang (Thai Crispy Pancakes)",
     "imageName": "khanom_buang",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_buang.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_buang.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20389,7 +20389,7 @@
   {
     "name": "Pla Kapong Neung Manao (Steamed Fish with Lime)",
     "imageName": "pla_kapong_neung_manao",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_kapong_neung_manao.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_kapong_neung_manao.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20438,7 +20438,7 @@
   {
     "name": "Khao Niew Sangkhaya (Sticky Rice with Coconut Custard)",
     "imageName": "khao_niew_sangkhaya",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_niew_sangkhaya.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_niew_sangkhaya.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20485,7 +20485,7 @@
   {
     "name": "Moo Ping (Grilled Pork Skewers)",
     "imageName": "moo_ping",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/moo_ping.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/moo_ping.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20534,7 +20534,7 @@
   {
     "name": "Pad Pak Boong (Stir-fried Water Spinach)",
     "imageName": "pad_pak_boong",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_pak_boong.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_pak_boong.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20583,7 +20583,7 @@
   {
     "name": "Hor Mok (Steamed Fish Curry)",
     "imageName": "hor_mok",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/hor_mok.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/hor_mok.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20633,7 +20633,7 @@
   {
     "name": "Khao Kluk Kapi (Shrimp Paste Rice)",
     "imageName": "khao_kluk_kapi",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_kluk_kapi.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_kluk_kapi.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20684,7 +20684,7 @@
   {
     "name": "Gaeng Jued (Clear Soup)",
     "imageName": "gaeng_jued",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_jued.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_jued.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20735,7 +20735,7 @@
   {
     "name": "Poo Pad Pong Karee (Crab in Yellow Curry)",
     "imageName": "poo_pad_pong_karee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/poo_pad_pong_karee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/poo_pad_pong_karee.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20786,7 +20786,7 @@
   {
     "name": "Khanom Tom (Coconut Rice Balls)",
     "imageName": "khanom_tom",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_tom.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_tom.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20833,7 +20833,7 @@
   {
     "name": "Yam Hua Plee (Banana Flower Salad)",
     "imageName": "yam_hua_plee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yam_hua_plee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yam_hua_plee.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northern Thai",
@@ -20883,7 +20883,7 @@
   {
     "name": "Pad Phed (Spicy Stir-fry)",
     "imageName": "pad_phed",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_phed.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_phed.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -20933,7 +20933,7 @@
   {
     "name": "Khao Mok Gai (Thai Chicken Biryani)",
     "imageName": "khao_mok_gai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_mok_gai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_mok_gai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -20984,7 +20984,7 @@
   {
     "name": "Tub Tim Grob (Red Rubies)",
     "imageName": "tub_tim_grob",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/tub_tim_grob.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/tub_tim_grob.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21033,7 +21033,7 @@
   {
     "name": "Pla Too Tod Kamin (Turmeric Fried Fish)",
     "imageName": "pla_too_tod_kamin",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_too_tod_kamin.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_too_tod_kamin.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -21082,7 +21082,7 @@
   {
     "name": "Khanom Chan (Layered Coconut Cake)",
     "imageName": "khanom_chan",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_chan.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_chan.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21130,7 +21130,7 @@
   {
     "name": "Pad Kee Mao (Drunken Noodles)",
     "imageName": "pad_kee_mao",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_kee_mao.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_kee_mao.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21182,7 +21182,7 @@
   {
     "name": "Gaeng Tai Pla (Southern Fish Kidney Curry)",
     "imageName": "gaeng_tai_pla",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_tai_pla.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_tai_pla.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -21233,7 +21233,7 @@
   {
     "name": "Khao Yam (Southern Rice Salad)",
     "imageName": "khao_yam",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_yam.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_yam.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -21283,7 +21283,7 @@
   {
     "name": "Hoi Tod (Crispy Oyster Omelette)",
     "imageName": "hoi_tod",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/hoi_tod.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/hoi_tod.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21333,7 +21333,7 @@
   {
     "name": "Nam Prik Ong (Northern Chili Dip)",
     "imageName": "nam_prik_ong",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/nam_prik_ong.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/nam_prik_ong.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northern Thai",
@@ -21383,7 +21383,7 @@
   {
     "name": "Khanom Jeen (Fermented Rice Noodles)",
     "imageName": "khanom_jeen",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_jeen.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_jeen.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21432,7 +21432,7 @@
   {
     "name": "Pla Chon Lui Suan (Herbal Fish Salad)",
     "imageName": "pla_chon_lui_suan",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_chon_lui_suan.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_chon_lui_suan.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21483,7 +21483,7 @@
   {
     "name": "Khao Kha Moo (Braised Pork Leg Rice)",
     "imageName": "khao_kha_moo",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_kha_moo.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_kha_moo.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21534,7 +21534,7 @@
   {
     "name": "Miang Kham (Leaf Wraps)",
     "imageName": "miang_kham",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/miang_kham.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/miang_kham.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21584,7 +21584,7 @@
   {
     "name": "Pad Pak Ruam (Mixed Vegetables Stir-fry)",
     "imageName": "pad_pak_ruam",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_pak_ruam.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_pak_ruam.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21634,7 +21634,7 @@
   {
     "name": "Kai Yang (Grilled Chicken)",
     "imageName": "kai_yang",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/kai_yang.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/kai_yang.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -21684,7 +21684,7 @@
   {
     "name": "Khanom Mo Kaeng (Custard Square)",
     "imageName": "khanom_mo_kaeng",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_mo_kaeng.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_mo_kaeng.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21732,7 +21732,7 @@
   {
     "name": "Pla Muk Pad Ped (Spicy Stir-fried Squid)",
     "imageName": "pla_muk_pad_ped",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_muk_pad_ped.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_muk_pad_ped.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21783,7 +21783,7 @@
   {
     "name": "Khao Chae (Royal Summer Rice)",
     "imageName": "khao_chae",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_chae.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_chae.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Royal Thai",
@@ -21829,7 +21829,7 @@
   {
     "name": "Nam Prik Num (Northern Green Chili Dip)",
     "imageName": "nam_prik_num",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/nam_prik_num.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/nam_prik_num.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northern Thai",
@@ -21878,7 +21878,7 @@
   {
     "name": "Khanom Bueang (Thai Crispy Pancakes)",
     "imageName": "khanom_bueang",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_bueang.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_bueang.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -21926,7 +21926,7 @@
   {
     "name": "Yam Naem Khao Thod (Crispy Rice Salad)",
     "imageName": "yam_naem_khao_thod",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yam_naem_khao_thod.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yam_naem_khao_thod.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -21977,7 +21977,7 @@
   {
     "name": "Khao Niew Dam (Black Sticky Rice)",
     "imageName": "khao_niew_dam",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_niew_dam.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_niew_dam.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22023,7 +22023,7 @@
   {
     "name": "Poo Ja (Stuffed Crab Shells)",
     "imageName": "poo_ja",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/poo_ja.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/poo_ja.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -22074,7 +22074,7 @@
   {
     "name": "Gaeng Khua Hua Plee (Banana Heart Curry)",
     "imageName": "gaeng_khua_hua_plee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_khua_hua_plee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_khua_hua_plee.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -22124,7 +22124,7 @@
   {
     "name": "Kai Palo (Five-spice Braised Eggs)",
     "imageName": "kai_palo",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/kai_palo.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/kai_palo.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Chinese-Thai",
@@ -22175,7 +22175,7 @@
   {
     "name": "Yam Som O (Pomelo Salad)",
     "imageName": "yam_som_o",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yam_som_o.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yam_som_o.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22226,7 +22226,7 @@
   {
     "name": "Khanom Jin Nam Ya (Fish Curry with Rice Noodles)",
     "imageName": "khanom_jin_nam_ya",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_jin_nam_ya.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_jin_nam_ya.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -22276,7 +22276,7 @@
   {
     "name": "Moo Satay (Pork Satay)",
     "imageName": "moo_satay",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/moo_satay.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/moo_satay.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22326,7 +22326,7 @@
   {
     "name": "Pad Phak Kat Kana (Stir-fried Chinese Broccoli)",
     "imageName": "pad_phak_kat_kana",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_phak_kat_kana.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_phak_kat_kana.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22375,7 +22375,7 @@
   {
     "name": "Khanom Krok Bai Toey (Pandan Coconut Cups)",
     "imageName": "khanom_krok_bai_toey",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_krok_bai_toey.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_krok_bai_toey.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22422,7 +22422,7 @@
   {
     "name": "Pla Sam Rod (Three-flavor Fish)",
     "imageName": "pla_sam_rod",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_sam_rod.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_sam_rod.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22472,7 +22472,7 @@
   {
     "name": "Khao Tom (Rice Soup)",
     "imageName": "khao_tom",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_tom.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_tom.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22522,7 +22522,7 @@
   {
     "name": "Nam Prik Pla Too (Mackerel Chili Dip)",
     "imageName": "nam_prik_pla_too",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/nam_prik_pla_too.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/nam_prik_pla_too.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -22571,7 +22571,7 @@
   {
     "name": "Khanom Tako (Coconut Pudding)",
     "imageName": "khanom_tako",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_tako.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_tako.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22619,7 +22619,7 @@
   {
     "name": "Pad Cha (Spicy Jungle Stir-fry)",
     "imageName": "pad_cha",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_cha.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_cha.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -22669,7 +22669,7 @@
   {
     "name": "Khanom La (Coconut Milk Jelly)",
     "imageName": "khanom_la",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_la.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_la.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22716,7 +22716,7 @@
   {
     "name": "Poo Nim Pad Pong Karee (Soft-shell Crab in Curry)",
     "imageName": "poo_nim_pad_pong_karee",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/poo_nim_pad_pong_karee.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/poo_nim_pad_pong_karee.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22767,7 +22767,7 @@
   {
     "name": "Khao Niew Mamuang Kati (Mango Sticky Rice)",
     "imageName": "khao_niew_mamuang_kati",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_niew_mamuang_kati.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_niew_mamuang_kati.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22815,7 +22815,7 @@
   {
     "name": "Yam Tua Poo (Winged Bean Salad)",
     "imageName": "yam_tua_poo",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yam_tua_poo.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yam_tua_poo.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -22865,7 +22865,7 @@
   {
     "name": "Khanom Pang Na Goong (Shrimp Toast)",
     "imageName": "khanom_pang_na_goong",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_pang_na_goong.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_pang_na_goong.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Chinese-Thai",
@@ -22915,7 +22915,7 @@
   {
     "name": "Gaeng Leung (Yellow Curry)",
     "imageName": "gaeng_leung",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_leung.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_leung.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -22965,7 +22965,7 @@
   {
     "name": "Khanom Tom Kati (Coconut Rice Balls in Syrup)",
     "imageName": "khanom_tom_kati",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_tom_kati.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_tom_kati.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23012,7 +23012,7 @@
   {
     "name": "Pad Thai Goong Sod (Fresh Shrimp Pad Thai)",
     "imageName": "pad_thai_goong_sod",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_thai_goong_sod.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_thai_goong_sod.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23065,7 +23065,7 @@
   {
     "name": "Tom Yum Goong Nam Khon (Creamy Tom Yum)",
     "imageName": "tom_yum_nam_khon",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/tom_yum_nam_khon.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/tom_yum_nam_khon.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23118,7 +23118,7 @@
   {
     "name": "Gaeng Keow Wan Nuea (Green Curry with Beef)",
     "imageName": "gaeng_keow_wan_nuea",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_keow_wan_nuea.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_keow_wan_nuea.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23169,7 +23169,7 @@
   {
     "name": "Som Tum Thai (Classic Green Papaya Salad)",
     "imageName": "som_tum_thai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/som_tum_thai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/som_tum_thai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -23221,7 +23221,7 @@
   {
     "name": "Massaman Nuea (Beef Massaman Curry)",
     "imageName": "massaman_nuea",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/massaman_nuea.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/massaman_nuea.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Southern Thai",
@@ -23273,7 +23273,7 @@
   {
     "name": "Pad Kra Pao Moo Sap (Minced Pork with Holy Basil)",
     "imageName": "pad_kra_pao_moo_sap",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_kra_pao_moo_sap.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_kra_pao_moo_sap.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23323,7 +23323,7 @@
   {
     "name": "Tom Kha Gai (Coconut Galangal Chicken Soup)",
     "imageName": "tom_kha_gai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/tom_kha_gai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/tom_kha_gai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23376,7 +23376,7 @@
   {
     "name": "Panang Nuea (Beef Panang Curry)",
     "imageName": "panang_nuea",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/panang_nuea.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/panang_nuea.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23426,7 +23426,7 @@
   {
     "name": "Khao Niew Mamuang (Classic Mango Sticky Rice)",
     "imageName": "khao_niew_mamuang",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_niew_mamuang.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_niew_mamuang.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23474,7 +23474,7 @@
   {
     "name": "Gai Satay (Chicken Satay)",
     "imageName": "gai_satay",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gai_satay.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gai_satay.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23524,7 +23524,7 @@
   {
     "name": "Pad See Ew Gai (Chicken with Wide Noodles)",
     "imageName": "pad_see_ew_gai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pad_see_ew_gai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pad_see_ew_gai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23576,7 +23576,7 @@
   {
     "name": "Yum Woon Sen Goong (Glass Noodle Shrimp Salad)",
     "imageName": "yum_woon_sen_goong",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yum_woon_sen_goong.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yum_woon_sen_goong.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23627,7 +23627,7 @@
   {
     "name": "Khao Soi Gai (Chicken Khao Soi)",
     "imageName": "khao_soi_gai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_soi_gai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_soi_gai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northern Thai",
@@ -23678,7 +23678,7 @@
   {
     "name": "Laab Moo (Spicy Pork Salad)",
     "imageName": "laab_moo",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/laab_moo.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/laab_moo.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Northeastern Thai",
@@ -23729,7 +23729,7 @@
   {
     "name": "Gaeng Daeng Gai (Red Curry Chicken)",
     "imageName": "gaeng_daeng_gai",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/gaeng_daeng_gai.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/gaeng_daeng_gai.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23780,7 +23780,7 @@
   {
     "name": "Pla Rad Prik (Crispy Fish with Chili Sauce)",
     "imageName": "pla_rad_prik",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/pla_rad_prik.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/pla_rad_prik.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23831,7 +23831,7 @@
   {
     "name": "Khanom Krok (Coconut Rice Pancakes)",
     "imageName": "khanom_krok",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khanom_krok.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khanom_krok.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
@@ -23879,7 +23879,7 @@
   {
     "name": "Yam Talay (Seafood Salad)",
     "imageName": "yam_talay",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/yam_talay.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/yam_talay.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Coastal Thai",
@@ -23930,7 +23930,7 @@
   {
     "name": "Khao Pad Sapparot (Pineapple Fried Rice)",
     "imageName": "khao_pad_sapparot",
-    "imageUrl": "https://raw.githubusercontent.com/your-repo/images/thai/khao_pad_sapparot.png",
+    "imageUrl": "https://raw.githubusercontent.com/Aaj_kya_Banaau/images/thai/khao_pad_sapparot.png",
     "cuisine": "Thai",
     "country": "Thailand",
     "regionalVariety": "Central Thai",
