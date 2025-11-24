@@ -4,7 +4,7 @@
   {
     "name": "Spaghetti Carbonara",
     "imageName": "spaghetti_carbonara",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spaghetti_carbonara.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_carbonara.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -55,7 +55,7 @@
   {
     "name": "Margherita Pizza",
     "imageName": "margherita_pizza",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/margherita_pizza.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/margherita_pizza.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -103,7 +103,7 @@
   {
     "name": "Lasagna al Forno",
     "imageName": "lasagna_al_forno",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/lasagna_al_forno.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/lasagna_al_forno.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -157,7 +157,7 @@
   {
     "name": "Risotto alla Milanese",
     "imageName": "risotto_alla_milanese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_alla_milanese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_alla_milanese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -206,7 +206,7 @@
   {
     "name": "Osso Buco",
     "imageName": "osso_buco",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/osso_buco.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/osso_buco.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -256,7 +256,7 @@
   {
     "name": "Pasta alla Norma",
     "imageName": "pasta_alla_norma",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_norma.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_norma.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -308,7 +308,7 @@
   {
     "name": "Pasta e Fagioli",
     "imageName": "pasta_e_fagioli",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_e_fagioli.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_e_fagioli.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Veneto",
@@ -361,7 +361,7 @@
   {
     "name": "Chicken Cacciatore",
     "imageName": "chicken_cacciatore",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/chicken_cacciatore.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/chicken_cacciatore.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -413,7 +413,7 @@
   {
     "name": "Pesto alla Genovese",
     "imageName": "pesto_alla_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pesto_alla_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pesto_alla_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -460,7 +460,7 @@
   {
     "name": "Saltimbocca alla Romana",
     "imageName": "saltimbocca_alla_romana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/saltimbocca_alla_romana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/saltimbocca_alla_romana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -506,7 +506,7 @@
   {
     "name": "Tagliatelle al Ragù Bolognese",
     "imageName": "tagliatelle_al_ragu_bolognese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tagliatelle_al_ragu_bolognese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tagliatelle_al_ragu_bolognese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -559,7 +559,7 @@
   {
     "name": "Gnocchi al Pesto",
     "imageName": "gnocchi_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -604,7 +604,7 @@
   {
     "name": "Polenta Taragna",
     "imageName": "polenta_taragna",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/polenta_taragna.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/polenta_taragna.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -650,7 +650,7 @@
   {
     "name": "Ribollita",
     "imageName": "ribollita",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ribollita.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ribollita.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -701,7 +701,7 @@
   {
     "name": "Panzanella",
     "imageName": "panzanella",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/panzanella.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panzanella.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -748,7 +748,7 @@
   {
     "name": "Pasta Puttanesca",
     "imageName": "pasta_puttanesca",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_puttanesca.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_puttanesca.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -800,7 +800,7 @@
   {
     "name": "Tortellini in Brodo",
     "imageName": "tortellini_in_brodo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tortellini_in_brodo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tortellini_in_brodo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -843,7 +843,7 @@
   {
     "name": "Calamari Fritti",
     "imageName": "calamari_fritti",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/calamari_fritti.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/calamari_fritti.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Southern Italy",
@@ -889,7 +889,7 @@
   {
     "name": "Pappa al Pomodoro",
     "imageName": "pappa_al_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pappa_al_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pappa_al_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -937,7 +937,7 @@
   {
     "name": "Arancini di Riso",
     "imageName": "arancini_di_riso",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/arancini_di_riso.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/arancini_di_riso.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -987,7 +987,7 @@
   {
     "name": "Frittata di Zucchine",
     "imageName": "frittata_di_zucchine",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/frittata_di_zucchine.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/frittata_di_zucchine.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -1034,7 +1034,7 @@
   {
     "name": "Parmigiana di Melanzane",
     "imageName": "parmigiana_di_melanzane",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/parmigiana_di_melanzane.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/parmigiana_di_melanzane.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1083,7 +1083,7 @@
   {
     "name": "Cacio e Pepe",
     "imageName": "cacio_e_pepe",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cacio_e_pepe.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cacio_e_pepe.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1129,7 +1129,7 @@
   {
     "name": "Minestrone alla Genovese",
     "imageName": "minestrone_alla_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/minestrone_alla_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/minestrone_alla_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -1179,7 +1179,7 @@
   {
     "name": "Pasta al Limone",
     "imageName": "pasta_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Amalfi Coast",
@@ -1227,7 +1227,7 @@
   {
     "name": "Orecchiette alle Cime di Rapa",
     "imageName": "orecchiette_alle_cime_di_rapa",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/orecchiette_alle_cime_di_rapa.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/orecchiette_alle_cime_di_rapa.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Puglia",
@@ -1274,7 +1274,7 @@
   {
     "name": "Spaghetti alle Vongole",
     "imageName": "spaghetti_alle_vongole",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spaghetti_alle_vongole.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_alle_vongole.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1323,7 +1323,7 @@
   {
     "name": "Penne all'Arrabbiata",
     "imageName": "penne_all_arrabbiata",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/penne_all_arrabbiata.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/penne_all_arrabbiata.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1371,7 +1371,7 @@
   {
     "name": "Vitello Tonnato",
     "imageName": "vitello_tonnato",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/vitello_tonnato.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/vitello_tonnato.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Piedmont",
@@ -1421,7 +1421,7 @@
   {
     "name": "Pollo alla Cacciatora Bianca",
     "imageName": "pollo_alla_cacciatora_bianca",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pollo_alla_cacciatora_bianca.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pollo_alla_cacciatora_bianca.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -1469,7 +1469,7 @@
   {
     "name": "Focaccia Genovese",
     "imageName": "focaccia_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/focaccia_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/focaccia_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -1517,7 +1517,7 @@
   {
     "name": "Pasta al Pomodoro",
     "imageName": "pasta_al_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1564,7 +1564,7 @@
   {
     "name": "Penne alla Vodka",
     "imageName": "penne_alla_vodka",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/penne_alla_vodka.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/penne_alla_vodka.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -1614,7 +1614,7 @@
   {
     "name": "Pasta alla Gricia",
     "imageName": "pasta_alla_gricia",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_gricia.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_gricia.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1659,7 +1659,7 @@
   {
     "name": "Pasta Amatriciana",
     "imageName": "pasta_amatriciana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_amatriciana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_amatriciana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lazio",
@@ -1706,7 +1706,7 @@
   {
     "name": "Pollo alla Cacciatora Rossa",
     "imageName": "pollo_alla_cacciatora_rossa",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pollo_alla_cacciatora_rossa.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pollo_alla_cacciatora_rossa.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -1759,7 +1759,7 @@
   {
     "name": "Caponata Siciliana",
     "imageName": "caponata_siciliana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/caponata_siciliana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/caponata_siciliana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -1811,7 +1811,7 @@
   {
     "name": "Gnocchi alla Sorrentina",
     "imageName": "gnocchi_alla_sorrentina",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_alla_sorrentina.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_alla_sorrentina.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1859,7 +1859,7 @@
   {
     "name": "Trenette al Pesto",
     "imageName": "trenette_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/trenette_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/trenette_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -1906,7 +1906,7 @@
   {
     "name": "Scaloppine al Limone",
     "imageName": "scaloppine_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/scaloppine_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/scaloppine_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -1951,7 +1951,7 @@
   {
     "name": "Insalata Caprese",
     "imageName": "insalata_caprese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/insalata_caprese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/insalata_caprese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -1997,7 +1997,7 @@
   {
     "name": "Bruschetta al Pomodoro",
     "imageName": "bruschetta_al_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/bruschetta_al_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/bruschetta_al_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2043,7 +2043,7 @@
   {
     "name": "Pasta al Burro",
     "imageName": "pasta_al_burro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_burro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_burro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -2089,7 +2089,7 @@
   {
     "name": "Panzerotti Pugliesi",
     "imageName": "panzerotti_pugliesi",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/panzerotti_pugliesi.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panzerotti_pugliesi.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Puglia",
@@ -2136,7 +2136,7 @@
   {
     "name": "Carpaccio di Manzo",
     "imageName": "carpaccio_di_manzo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/carpaccio_di_manzo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/carpaccio_di_manzo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Veneto",
@@ -2182,7 +2182,7 @@
   {
     "name": "Pollo alla Diavola",
     "imageName": "pollo_alla_diavola",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pollo_alla_diavola.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pollo_alla_diavola.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Central Italy",
@@ -2230,7 +2230,7 @@
   {
     "name": "Seppie in Umido",
     "imageName": "seppie_in_umido",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/seppie_in_umido.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/seppie_in_umido.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Veneto",
@@ -2279,7 +2279,7 @@
   {
     "name": "Crostini Toscani",
     "imageName": "crostini_toscani",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/crostini_toscani.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/crostini_toscani.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2330,7 +2330,7 @@
   {
     "name": "Pasta alla Zozzona",
     "imageName": "pasta_alla_zozzona",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_zozzona.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_zozzona.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -2381,7 +2381,7 @@
   {
     "name": "Tagliata di Manzo",
     "imageName": "tagliata_di_manzo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tagliata_di_manzo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tagliata_di_manzo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2427,7 +2427,7 @@
   {
     "name": "Risotto ai Funghi Porcini",
     "imageName": "risotto_ai_funghi_porcini",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_ai_funghi_porcini.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_ai_funghi_porcini.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -2479,7 +2479,7 @@
   {
     "name": "Panzanella Toscana",
     "imageName": "panzanella_toscana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/panzanella_toscana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/panzanella_toscana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2528,7 +2528,7 @@
   {
     "name": "Frittata di Patate",
     "imageName": "frittata_di_patate",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/frittata_di_patate.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/frittata_di_patate.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National",
@@ -2576,7 +2576,7 @@
   {
     "name": "Zuppa Toscana",
     "imageName": "zuppa_toscana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/zuppa_toscana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/zuppa_toscana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2627,7 +2627,7 @@
   {
     "name": "Spiedini di Pesce",
     "imageName": "spiedini_di_pesce",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spiedini_di_pesce.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spiedini_di_pesce.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Coastal Regions",
@@ -2671,7 +2671,7 @@
   {
     "name": "Sarde a Beccafico",
     "imageName": "sarde_a_beccafico",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/sarde_a_beccafico.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/sarde_a_beccafico.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -2721,7 +2721,7 @@
   {
     "name": "Ribollita",
     "imageName": "ribollita",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ribollita.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ribollita.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2773,7 +2773,7 @@
   {
     "name": "Crespelle alla Fiorentina",
     "imageName": "crespelle_alla_fiorentina",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/crespelle_alla_fiorentina.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/crespelle_alla_fiorentina.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany",
@@ -2824,7 +2824,7 @@
   {
     "name": "Peperonata",
     "imageName": "peperonata",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/peperonata.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/peperonata.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Southern Italy",
@@ -2870,7 +2870,7 @@
   {
     "name": "Tonnarelli Cacio e Pepe",
     "imageName": "tonnarelli_cacio_e_pepe",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/tonnarelli_cacio_e_pepe.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/tonnarelli_cacio_e_pepe.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -2914,7 +2914,7 @@
   {
     "name": "Cannelloni Ricotta e Spinaci",
     "imageName": "cannelloni_ricotta_e_spinaci",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cannelloni_ricotta_e_spinaci.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cannelloni_ricotta_e_spinaci.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Emilia-Romagna",
@@ -2965,7 +2965,7 @@
   {
     "name": "Risotto al Barolo",
     "imageName": "risotto_al_barolo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_al_barolo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_al_barolo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Piedmont",
@@ -3016,7 +3016,7 @@
   {
     "name": "Branzino al Sale",
     "imageName": "branzino_al_sale",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/branzino_al_sale.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/branzino_al_sale.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Coastal Regions",
@@ -3063,7 +3063,7 @@
   {
     "name": "Polpette al Sugo",
     "imageName": "polpette_al_sugo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/polpette_al_sugo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/polpette_al_sugo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Southern Italy",
@@ -3113,7 +3113,7 @@
   {
     "name": "Risotto al Limone",
     "imageName": "risotto_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Amalfi Coast",
@@ -3161,7 +3161,7 @@
   {
     "name": "Gnocchi di Patate",
     "imageName": "gnocchi_di_patate",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_di_patate.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_di_patate.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -3209,7 +3209,7 @@
   {
     "name": "Ziti al Forno",
     "imageName": "ziti_al_forno",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ziti_al_forno.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ziti_al_forno.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -3258,7 +3258,7 @@
   {
     "name": "Frittata ai Carciofi",
     "imageName": "frittata_ai_carciofi",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/frittata_ai_carciofi.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/frittata_ai_carciofi.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Central Italy",
@@ -3306,7 +3306,7 @@
   {
     "name": "Pasta alla Norma",
     "imageName": "pasta_alla_norma",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_norma.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_norma.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -3356,7 +3356,7 @@
   {
     "name": "Saltimbocca alla Romana",
     "imageName": "saltimbocca_alla_romana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/saltimbocca_alla_romana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/saltimbocca_alla_romana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -3402,7 +3402,7 @@
   {
     "name": "Pasta con le Sarde",
     "imageName": "pasta_con_le_sarde",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_con_le_sarde.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_con_le_sarde.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -3457,7 +3457,7 @@
   {
     "name": "Farfalle al Salmone",
     "imageName": "farfalle_al_salmone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/farfalle_al_salmone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/farfalle_al_salmone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -3510,7 +3510,7 @@
   {
     "name": "Pasta e Ceci",
     "imageName": "pasta_e_ceci",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_e_ceci.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_e_ceci.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Central Italy",
@@ -3561,7 +3561,7 @@
   {
     "name": "Pasta agli Asparagi",
     "imageName": "pasta_agli_asparagi",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_agli_asparagi.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_agli_asparagi.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -3612,7 +3612,7 @@
   {
     "name": "Risotto allo Zafferano (Risotto Milanese)",
     "imageName": "risotto_allo_zafferano",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/risotto_allo_zafferano.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/risotto_allo_zafferano.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -3664,7 +3664,7 @@
   {
     "name": "Polenta Taragna",
     "imageName": "polenta_taragna",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/polenta_taragna.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/polenta_taragna.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -3715,7 +3715,7 @@
   {
     "name": "Pasta al Tonno",
     "imageName": "pasta_al_tonno",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_tonno.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_tonno.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National (Italian Home Cooking)",
@@ -3767,7 +3767,7 @@
   {
     "name": "Ossobuco alla Milanese",
     "imageName": "ossobuco_alla_milanese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/ossobuco_alla_milanese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/ossobuco_alla_milanese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy",
@@ -3823,7 +3823,7 @@
   {
     "name": "Caponata Siciliana",
     "imageName": "caponata_siciliana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/caponata_siciliana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/caponata_siciliana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -3878,7 +3878,7 @@
   {
     "name": "Spezzatino di Manzo",
     "imageName": "spezzatino_di_manzo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spezzatino_di_manzo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spezzatino_di_manzo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern & Central Italy",
@@ -3932,7 +3932,7 @@
   {
     "name": "Trenette al Pesto",
     "imageName": "trenette_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/trenette_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/trenette_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -3987,7 +3987,7 @@
   {
     "name": "Lasagne al Pesto",
     "imageName": "lasagne_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/lasagne_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/lasagne_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -4038,7 +4038,7 @@
   {
     "name": "Gnocchi alla Romana",
     "imageName": "gnocchi_alla_romana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/gnocchi_alla_romana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/gnocchi_alla_romana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome",
@@ -4090,7 +4090,7 @@
   {
     "name": "Pasta al Limone",
     "imageName": "pasta_al_limone",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_limone.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_limone.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Amalfi Coast",
@@ -4142,7 +4142,7 @@
   {
     "name": "Scaloppine al Vino Bianco",
     "imageName": "scaloppine_al_vino_bianco",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/scaloppine_al_vino_bianco.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/scaloppine_al_vino_bianco.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -4192,7 +4192,7 @@
   {
     "name": "Penne all’Arrabbiata",
     "imageName": "penne_all_arrabbiata",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/penne_all_arrabbiata.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/penne_all_arrabbiata.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Lazio",
@@ -4245,7 +4245,7 @@
   {
     "name": "Spaghetti alle Vongole",
     "imageName": "spaghetti_alle_vongole",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/spaghetti_alle_vongole.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/spaghetti_alle_vongole.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Naples / Campania",
@@ -4299,7 +4299,7 @@
   {
     "name": "Pasta alla Gricia",
     "imageName": "pasta_alla_gricia",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_gricia.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_gricia.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Rome / Lazio",
@@ -4348,7 +4348,7 @@
   {
     "name": "Pasta alla Boscaiola",
     "imageName": "pasta_alla_boscaiola",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_boscaiola.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_boscaiola.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Tuscany / Umbria",
@@ -4402,7 +4402,7 @@
   {
     "name": "Fusilli alla Caprese",
     "imageName": "fusilli_alla_caprese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/fusilli_alla_caprese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/fusilli_alla_caprese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Campania",
@@ -4452,7 +4452,7 @@
   {
     "name": "Pizzoccheri della Valtellina",
     "imageName": "pizzoccheri_della_valtellina",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pizzoccheri_della_valtellina.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pizzoccheri_della_valtellina.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Lombardy (Valtellina)",
@@ -4506,7 +4506,7 @@
   {
     "name": "Pasta al Prosciutto e Piselli",
     "imageName": "pasta_al_prosciutto_e_piselli",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_prosciutto_e_piselli.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_prosciutto_e_piselli.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Northern Italy",
@@ -4558,7 +4558,7 @@
   {
     "name": "Rigatoni alla Zingara",
     "imageName": "rigatoni_alla_zingara",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/rigatoni_alla_zingara.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/rigatoni_alla_zingara.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Central Italy",
@@ -4614,7 +4614,7 @@
   {
     "name": "Cima alla Genovese",
     "imageName": "cima_alla_genovese",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cima_alla_genovese.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cima_alla_genovese.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -4669,7 +4669,7 @@
   {
     "name": "Cavatelli con Sugo di Pomodoro",
     "imageName": "cavatelli_con_sugo_di_pomodoro",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/cavatelli_con_sugo_di_pomodoro.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/cavatelli_con_sugo_di_pomodoro.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Molise / Puglia",
@@ -4719,7 +4719,7 @@
   {
     "name": "Pasta al Pomodoro Fresco",
     "imageName": "pasta_al_pomodoro_fresco",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_al_pomodoro_fresco.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_al_pomodoro_fresco.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "National (Italian Home Cooking)",
@@ -4772,7 +4772,7 @@
   {
     "name": "Trofie al Pesto",
     "imageName": "trofie_al_pesto",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/trofie_al_pesto.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/trofie_al_pesto.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Liguria",
@@ -4828,7 +4828,7 @@
   {
     "name": "Strangozzi al Tartufo",
     "imageName": "strangozzi_al_tartufo",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/strangozzi_al_tartufo.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/strangozzi_al_tartufo.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Umbria",
@@ -4880,7 +4880,7 @@
   {
     "name": "Pasta alla Siciliana (Pasta con Melanzane)",
     "imageName": "pasta_alla_siciliana",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/pasta_alla_siciliana.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/pasta_alla_siciliana.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Sicily",
@@ -4934,7 +4934,7 @@
   {
     "name": "Paccheri al Ragù Napoletano",
     "imageName": "paccheri_al_ragu_napoletano",
-    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images/paccheri_al_ragu_napoletano.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/main/images/paccheri_al_ragu_napoletano.png",
     "cuisine": "Italian",
     "country": "Italy",
     "regionalVariety": "Naples / Campania",
