@@ -948,7 +948,7 @@
       "**Mix Dry Ingredients:** In a large bowl, mix the **self-raising flour** and a pinch of **salt**.",
       "**Form Dough:** Make a well in the centre and gradually pour in the **cold water or milk**. Use a knife or your hands to mix until a **soft, shaggy dough** forms. Avoid overmixing.",
       "**Knead Lightly:** Turn the dough onto a lightly floured surface. **Knead very briefly** (just 30 seconds) until it comes together into a cohesive round loaf shape.",
-      "**Bake (Oven Method):** Place the loaf onto a lined baking tray. Bake in a preheated oven at $200^\circ\text{C}$ ($400^\circ\text{F}$) for **25-35 minutes**.",
+      "**Bake (Oven Method):** Place the loaf onto a lined baking tray. Bake in a preheated oven at **200°C (400°F)** for **25-35 minutes**.",
       "**Test Doneness:** The damper is ready when the crust is golden brown and it sounds **hollow when tapped** on the bottom.",
       "**Serve:** Serve immediately while hot, traditionally with **butter and golden syrup** or jam."
     ],
@@ -1079,7 +1079,7 @@
     ],
     "requiredIngredients": ["puff pastry", "milk", "custard powder", "sugar", "passionfruit (optional)"],
     "instructions": [
-      "**Bake Pastry:** Bake two sheets of puff pastry separately at $200^\circ\text{C}$ ($400^\circ\text{F}$) for about **15-20 minutes** until golden and crisp. Allow to cool completely.",
+      "**Bake Pastry:** Bake two sheets of puff pastry separately at **200°C (400°F)** for about **15-20 minutes** until golden and crisp. Allow to cool completely.",
       "**Prepare Custard:** Whisk the custard powder (or cornflour) and sugar with a little milk to form a smooth paste. Heat the rest of the milk until steaming. Pour the hot milk into the paste, stirring continuously.",
       "**Thicken:** Return the mixture to the saucepan and stir over low heat until the custard thickens significantly. Add the vanilla essence. **Cool the custard** by covering it with plastic wrap pressed directly onto the surface to prevent a skin from forming.",
       "**Assemble:** Place one cooled puff pastry sheet in the base of a slice tin. Pour the cooled, thickened custard over the base and spread evenly. Top with the second layer of puff pastry.",
@@ -1161,7 +1161,7 @@
     ],
     "requiredIngredients": ["shortbread ingredients", "condensed milk", "golden syrup", "chocolate"],
     "instructions": [
-      "**Prepare the Base:** Mix the flour, sugar, and melted butter for the shortbread base. Press evenly into a lined square slice tin. **Bake at $180^\circ\text{C}$ ($350^\circ\text{F}$) for 15-20 minutes** until light golden. Set aside.",
+      "**Prepare the Base:** Mix the flour, sugar, and melted butter for the shortbread base. Press evenly into a lined square slice tin. **Bake at 180°C (350°F)** for 15-20 minutes until light golden. Set aside.",
       "**Make the Caramel:** Combine the **condensed milk, butter, and golden syrup** in a saucepan. Stir over medium-low heat until the butter melts and the mixture is well combined.",
       "**Cook Caramel:** Bring the mixture to a gentle boil, stirring continuously to prevent burning. Reduce heat and simmer for **5-8 minutes** until the caramel thickens and darkens to a rich golden colour. **Be careful, it is very hot.**",
       "**Layer and Chill:** Pour the caramel filling evenly over the cooled shortbread base. Allow to cool completely at room temperature, then transfer to the refrigerator to **chill for at least 2 hours** until the caramel is firm.",
@@ -1205,12 +1205,12 @@
       "Oil"
     ],
     "requiredIngredients": ["zucchini", "eggs", "flour", "cheese", "onion"],
-    "instructions": [
+  "instructions": [
       "**Prepare Vegetables:** Grate the zucchini and dice the onion and bacon. Sauté the onion and bacon (if using) until soft. If using zucchini, squeeze any excess moisture out after grating.",
       "**Combine Wet Ingredients:** In a large bowl, whisk the **eggs** lightly. Add the oil, then stir in the cooked onion/bacon mix.",
       "**Mix in Solids:** Add the grated **zucchini, grated cheese, self-raising flour**, and season well with salt and pepper. Stir until all ingredients are just combined—do not overmix.",
       "**Bake:** Pour the mixture into a lined square or rectangular slice tin. Sprinkle the top with a little extra cheese.",
-      "**Cook:** Bake in a preheated oven at $180^\circ\text{C}$ ($350^\circ\text{F}$) for **40-45 minutes**, or until golden brown and firm in the centre.",
+      "**Cook:** Bake in a preheated oven at **180°C (350°F)** for **40-45 minutes**, or until golden brown and firm in the centre.",
       "**Serve:** Let it cool slightly in the tin, then cool completely on a wire rack before slicing into squares. It is delicious served warm or cold."
     ],
     "youtubeUrl": ""
@@ -1250,11 +1250,11 @@
       "Potatoes, carrots, pumpkin (for roasting)"
     ],
     "requiredIngredients": ["lamb leg", "rosemary", "garlic", "oil"],
-    "instructions": [
+   "instructions": [
       "**Prepare the Lamb:** Pat the lamb dry. Score the fat cap with a sharp knife in a diamond pattern.",
       "**Stud the Lamb:** Make small, deep incisions all over the lamb. Stuff these incisions with slivers of **garlic cloves and sprigs of fresh rosemary**.",
       "**Season and Roast:** Rub the lamb generously with **olive oil, salt, and pepper**. Place the lamb in a roasting dish, surrounded by chopped root vegetables (potatoes, pumpkin, etc.).",
-      "**Cook:** Roast at $220^\circ\text{C}$ ($425^\circ\text{F}$) for **20 minutes** to get a good crust. Reduce the temperature to $180^\circ\text{C}$ ($350^\circ\text{F}$) and continue roasting for another **1 to 1.5 hours**, depending on desired doneness (check internal temperature).",
+      "**Cook:** Roast at **220°C (425°F)** for **20 minutes** to get a good crust. Reduce the temperature to **180°C (350°F)** and continue roasting for another **1 to 1.5 hours**, depending on desired doneness (check internal temperature).",
       "**Rest:** Remove the lamb from the oven and cover it loosely with foil. **Rest for 15-20 minutes** before carving. This is vital for a juicy result.",
       "**Serve:** Serve sliced lamb with the roasted vegetables and a rich lamb gravy (made from the pan juices)."
     ],
@@ -1295,12 +1295,12 @@
       "Salt, pepper, dried herbs"
     ],
     "requiredIngredients": ["puff pastry", "sausage mince", "onion", "egg"],
-    "instructions": [
+ "instructions": [
       "**Prepare Filling:** In a large bowl, combine the **sausage mince, finely grated onion, breadcrumbs, and one lightly beaten egg** (used as a binder). Season well with salt, pepper, and herbs.",
       "**Mix:** Use your hands to thoroughly mix the filling until everything is evenly distributed. This should be a slightly moist, cohesive mixture.",
-      "**Assemble:** Lay out the sheets of **puff pastry**. Shape the meat mixture into long, even logs, about $2\text{cm}$ thick. Place one log along the length of each puff pastry sheet.",
-      "**Roll and Cut:** Brush one edge of the pastry with **egg wash** (beaten egg). Roll the pastry tightly over the meat to enclose it, pressing down to seal along the egg-washed edge. Cut the long roll into individual snack-sized rolls (about $6\text{cm}$ long).",
-      "**Finish:** Place on a lined baking tray, brush the tops with egg wash, and sprinkle with sesame seeds (optional). Bake at $200^\circ\text{C}$ ($400^\circ\text{F}$) for **25-30 minutes** until golden and the filling is cooked through."
+      "**Assemble:** Lay out the sheets of **puff pastry**. Shape the meat mixture into long, even logs, about **2 cm** thick. Place one log along the length of each puff pastry sheet.",
+      "**Roll and Cut:** Brush one edge of the pastry with **egg wash** (beaten egg). Roll the pastry tightly over the meat to enclose it, pressing down to seal along the egg-washed edge. Cut the long roll into individual snack-sized rolls (about **6 cm** long).",
+      "**Finish:** Place on a lined baking tray, brush the tops with egg wash, and sprinkle with sesame seeds (optional). Bake at **200°C (400°F)** for **25-30 minutes** until golden and the filling is cooked through."
     ],
     "youtubeUrl": ""
   },
@@ -1382,12 +1382,12 @@
       "Salt and pepper"
     ],
     "requiredIngredients": ["chicken", "dried apricots", "french onion soup mix", "apricot nectar"],
-    "instructions": [
+"instructions": [
       "**Prepare Chicken:** Trim any excess fat from the chicken pieces.",
       "**Prepare Sauce:** In a bowl, whisk together the **packet of French Onion soup mix** (which is crucial for the authentic flavour) and the **apricot nectar** until smooth.",
       "**Assemble:** Place the chicken pieces in a baking dish or deep saucepan. Scatter the **dried apricot halves** around the chicken.",
       "**Cook:** Pour the prepared sauce mixture over the chicken and apricots, ensuring all pieces are well covered. Season lightly with pepper (the soup mix is salty).",
-      "**Bake/Simmer:** Bake in a preheated oven at $180^\circ\text{C}$ ($350^\circ\text{F}$) for **45 minutes to 1 hour**, or until the chicken is tender and cooked through, and the sauce is thick and bubbling. Alternatively, simmer gently on the stovetop.",
+      "**Bake/Simmer:** Bake in a preheated oven at **180°C (350°F)** for **45 minutes to 1 hour**, or until the chicken is tender and cooked through, and the sauce is thick and bubbling. Alternatively, simmer gently on the stovetop.",
       "**Serve:** Serve the sticky, sweet, and savoury chicken and sauce over fluffy white rice."
     ],
     "youtubeUrl": ""
@@ -1468,8 +1468,8 @@
       "Grated cheese"
     ],
     "requiredIngredients": ["cob loaf", "cream cheese", "sour cream", "corn relish"],
-    "instructions": [
-      "**Prepare Cob Loaf:** Preheat oven to $180^\circ\text{C}$ ($350^\circ\text{F}$). Cut the top off the **cob loaf** and scoop out the soft bread from the centre, leaving a thick shell. Tear the removed bread into dipping pieces.",
+"instructions": [
+      "**Prepare Cob Loaf:** Preheat oven to **180°C (350°F)**. Cut the top off the **cob loaf** and scoop out the soft bread from the centre, leaving a thick shell. Tear the removed bread into dipping pieces.",
       "**Bake Bread:** Place the hollowed cob loaf shell and the bread pieces on a baking tray. Bake for **15-20 minutes** until the bread pieces are toasted and the shell is lightly crusted. Set aside.",
       "**Prepare Dip:** In a bowl, combine the **softened cream cheese, sour cream, and the jar of corn relish**. Mix thoroughly. Add cooked diced bacon and grated cheese (optional) and mix well.",
       "**Serve:** Spoon the dip mixture into the warm, hollowed-out cob loaf shell. Surround the loaf with the toasted bread pieces for dipping.",
@@ -1555,10 +1555,10 @@
       "Desiccated coconut"
     ],
     "requiredIngredients": ["yeast dough", "icing sugar", "milk", "coconut"],
-    "instructions": [
+"instructions": [
       "**Prepare Dough:** Prepare a sweet yeast dough (similar to a hot cross bun dough, without spices or fruit). Let the dough rise until doubled.",
-      "**Shape and Bake:** Divide the dough and roll into long, thick finger shapes (about $15\text{cm}$ long). Place on a lined tray and allow to rise again briefly.",
-      "**Bake:** Bake at $190^\circ\text{C}$ ($375^\circ\text{F}$) for **12-15 minutes** until golden and cooked through. Cool completely.",
+      "**Shape and Bake:** Divide the dough and roll into long, thick finger shapes (about **15 cm** long). Place on a lined tray and allow to rise again briefly.",
+      "**Bake:** Bake at **190°C (375°F)** for **12-15 minutes** until golden and cooked through. Cool completely.",
       "**Prepare Icing:** Mix **icing sugar** with a few drops of milk and red/pink food colouring until you have a smooth, thick pink glaze.",
       "**Decorate:** Once the buns are completely cool, spread a thick layer of the **pink icing** evenly over the top of each bun.",
       "**Finish:** Immediately sprinkle a generous layer of **desiccated coconut** over the wet icing. Let the icing set fully before serving."
@@ -1643,11 +1643,11 @@
       "Salt and pepper"
     ],
     "requiredIngredients": ["boneless lamb shoulder", "breadcrumbs", "lemon zest", "herbs"],
-    "instructions": [
+"instructions": [
       "**Prepare Lamb:** Get a **boneless lamb shoulder**. Lay it flat, skin-side down, and trim excess fat if necessary.",
       "**Prepare Stuffing:** Mix the breadcrumbs with finely chopped **onion, garlic, parsley, lemon zest**, and seasonings. The citrus is key to mimicking the flavour of goose. Moisten slightly with water or egg to bind.",
       "**Stuff and Roll:** Spread the stuffing evenly over the surface of the lamb shoulder. Roll the lamb tightly into a compact cylinder and secure it firmly with butcher's twine.",
-      "**Roast:** Place the lamb in a roasting dish. Start roasting at $200^\circ\text{C}$ ($400^\circ\text{F}$) for 20 minutes. Reduce the heat to $160^\circ\text{C}$ ($325^\circ\text{F}$) and continue roasting for **2-3 hours**, basting every 30 minutes with a mix of water and vinegar (a traditional method to help tenderise the meat).",
+      "**Roast:** Place the lamb in a roasting dish. Start roasting at **200°C (400°F)** for 20 minutes. Reduce the heat to **160°C (325°F)** and continue roasting for **2-3 hours**, basting every 30 minutes with a mix of water and vinegar (a traditional method to help tenderise the meat).",
       "**Rest and Serve:** Rest the roast for 15 minutes before removing the string and carving into thick slices to reveal the stuffing centre. Serve with roast potatoes and vegetables."
     ],
     "youtubeUrl": ""
@@ -1899,11 +1899,11 @@
       "Custard (for serving)"
     ],
     "requiredIngredients": ["apples", "flour", "butter", "sugar", "cinnamon"],
-    "instructions": [
+"instructions": [
       "**Prepare Filling:** Peel, core, and chop the apples into small chunks. Toss the apple chunks with **sugar, cinnamon, and a squeeze of lemon juice**. Place the apple mixture into a baking dish.",
       "**Prepare Crumble:** In a separate bowl, combine the **flour and brown sugar**. Cut the **cold butter** into small cubes and use your fingertips to rub the butter into the flour/sugar mix until it resembles coarse breadcrumbs. Stir in a few oats (optional).",
       "**Assemble and Bake:** Sprinkle the crumble topping evenly over the apple mixture, ensuring the fruit is completely covered.",
-      "**Cook:** Bake at $190^\circ\text{C}$ ($375^\circ\text{F}$) for **35-45 minutes** or until the topping is deep golden brown and the apples are soft and bubbly underneath.",
+      "**Cook:** Bake at **190°C (375°F)** for **35-45 minutes** or until the topping is deep golden brown and the apples are soft and bubbly underneath.",
       "**Serve:** Serve hot, traditionally with hot pouring **custard** (a classic Australian accompaniment), ice cream, or cream."
     ],
     "youtubeUrl": ""
@@ -1984,10 +1984,10 @@
       "Chicken stock (for moisture)"
     ],
     "requiredIngredients": ["dim sim wrappers", "pork mince", "cabbage"],
-    "instructions": [
+"instructions": [
       "**Prepare Filling:** Combine the pork/cabbage mince, finely grated ginger, minced garlic, soy sauce, sesame oil, and a dash of stock. Mix well until cohesive.",
       "**Wrap:** Place a square wrapper in your hand. Place a generous spoonful of filling in the centre. Pull the sides up and pinch the wrapper just below the top edge of the filling, leaving the top open (this is the key difference from a dumpling).",
-      "**Cook:** **To steam:** Place the dim sims in a steamer basket lined with parchment paper and steam for **10-12 minutes**. **To fry:** Deep fry at $180^\circ\text{C}$ ($350^\circ\text{F}$) for **4-6 minutes** until golden and crunchy.",
+      "**Cook:** **To steam:** Place the dim sims in a steamer basket lined with parchment paper and steam for **10-12 minutes**. **To fry:** Deep fry at **180°C (350°F)** for **4-6 minutes** until golden and crunchy.",
       "**Serve:** Serve hot with a squeeze of soy sauce or the ubiquitous **Dim Sim Sauce** (a mix of soy and vinegar/chilli)."
     ],
     "youtubeUrl": ""
@@ -2069,10 +2069,10 @@
       "Passionfruit pulp (for filling and topping)"
     ],
     "requiredIngredients": ["cream cheese", "biscuits", "passionfruit", "eggs", "sour cream"],
-    "instructions": [
+ "instructions": [
       "**Prepare Base:** Crush biscuits (like digestive or graham crackers), mix with melted butter, and press firmly into the base of a springform pan. Bake for **10 minutes** and cool.",
       "**Prepare Filling:** Beat the **cream cheese and sugar** until very smooth. Beat in the **eggs** one at a time, then gently mix in the **sour cream and passionfruit pulp** (reserve some for the topping).",
-      "**Bake:** Pour the filling over the cooled base. Bake at $160^\circ\text{C}$ ($325^\circ\text{F}$) for **50-60 minutes** until the edges are set but the centre is still slightly wobbly. Turn off the oven and let the cheesecake cool inside with the door ajar (prevents cracking).",
+      "**Bake:** Pour the filling over the cooled base. Bake at **160°C (325°F)** for **50-60 minutes** until the edges are set but the centre is still slightly wobbly. Turn off the oven and let the cheesecake cool inside with the door ajar (prevents cracking).",
       "**Chill and Top:** Once cool, chill in the refrigerator for at least **6 hours** or overnight.",
       "**Serve:** Before serving, drizzle the reserved **passionfruit pulp** over the top."
     ],
@@ -2110,9 +2110,9 @@
       "Raspberry jam"
     ],
     "requiredIngredients": ["butter", "flour", "golden syrup", "jam", "icing sugar"],
-    "instructions": [
+"instructions": [
       "**Prepare Dough:** Cream the butter, sugar, and golden syrup. Mix in the flour, coconut, and a pinch of **ground ginger** (key to the flavour). Roll the dough into balls and place on a lined tray.",
-      "**Bake:** Flatten the balls slightly with a fork. Bake at $180^\circ\text{C}$ ($350^\circ\text{F}$) for **12-15 minutes** until golden. Cool completely (they will be crisp).",
+      "**Bake:** Flatten the balls slightly with a fork. Bake at **180°C (350°F)** for **12-15 minutes** until golden. Cool completely (they will be crisp).",
       "**Prepare Filling:** Make a simple butter cream icing by beating butter, icing sugar, and a splash of vanilla/milk.",
       "**Assemble:** Take one cooled biscuit and spread a thin layer of **raspberry jam** on the flat side. Take a second biscuit and spread a layer of **butter cream icing** on the flat side.",
       "**Sandwich:** Gently sandwich the two halves together (jam side meeting icing side) to form the finished Monte Carlo biscuit."
@@ -2152,10 +2152,10 @@
       "Tartare sauce (for serving)"
     ],
     "requiredIngredients": ["prawns", "breadcrumbs", "flour", "egg"],
-    "instructions": [
+"instructions": [
       "**Prepare Prawns:** Take large green (raw) prawns, peel all the shell off except the tail segment, and devein. Butterfly the flesh lightly if desired, then pat very dry.",
       "**Crumb:** Set up a standard breading station: **flour, egg wash, and breadcrumbs**. Coat each prawn first in flour (shake off excess), then in egg, and finally press firmly into the breadcrumbs, holding onto the tail.",
-      "**Fry:** Heat oil to $180^\circ\text{C}$ ($350^\circ\text{F}$). Deep fry the prawns in small batches for **3-4 minutes**, turning occasionally, until the coating is golden brown and crispy, and the prawn flesh is opaque white.",
+      "**Fry:** Heat oil to **180°C (350°F)**. Deep fry the prawns in small batches for **3-4 minutes**, turning occasionally, until the coating is golden brown and crispy, and the prawn flesh is opaque white.",
       "**Serve:** Remove with a slotted spoon and drain on paper towels. Serve immediately with lemon wedges and tartare sauce (the classic fish and chip shop accompaniment)."
     ],
     "youtubeUrl": ""
