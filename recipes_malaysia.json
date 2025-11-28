@@ -3,7 +3,7 @@
   {
     "name": "Nasi Lemak",
     "imageName": "nasi_lemak",
-    "imageUrl": "placeholder_url/nasi_lemak.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//nasi_lemak.png",
     "cuisine": "Malaysian",
     "country": "Malaysia",
     "regionalVariety": "National Dish",
@@ -50,7 +50,7 @@
   {
     "name": "Chicken Rendang",
     "imageName": "chicken_rendang",
-    "imageUrl": "placeholder_url/chicken_rendang.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//chicken_rendang.png",
     "cuisine": "Malay",
     "country": "Malaysia",
     "regionalVariety": "Minangkabau (popular nationwide)",
@@ -93,7 +93,7 @@
   {
     "name": "Char Kway Teow (Penang Style)",
     "imageName": "char_kway_teow",
-    "imageUrl": "placeholder_url/char_kway_teow.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//char_kway_teow.png",
     "cuisine": "Malaysian Chinese",
     "country": "Malaysia",
     "regionalVariety": "Penang",
@@ -138,7 +138,7 @@
   {
     "name": "Asam Laksa",
     "imageName": "asam_laksa",
-    "imageUrl": "placeholder_url/asam_laksa.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//asam_laksa.png",
     "cuisine": "Nyonya/Peranakan",
     "country": "Malaysia",
     "regionalVariety": "Penang",
@@ -181,7 +181,7 @@
   {
     "name": "Roti Canai",
     "imageName": "roti_canai",
-    "imageUrl": "placeholder_url/roti_canai.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//roti_canai.png",
     "cuisine": "Malaysian Indian",
     "country": "Malaysia",
     "regionalVariety": "Mamaks Stall",
@@ -225,7 +225,7 @@
   {
     "name": "Satay with Peanut Sauce",
     "imageName": "satay",
-    "imageUrl": "placeholder_url/satay.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//satay.png",
     "cuisine": "Malay/Indonesian",
     "country": "Malaysia",
     "regionalVariety": "Kajang",
@@ -267,7 +267,7 @@
   {
     "name": "Hainanese Chicken Rice",
     "imageName": "hainanese_chicken_rice",
-    "imageUrl": "placeholder_url/hainanese_chicken_rice.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//hainanese_chicken_rice.png",
     "cuisine": "Malaysian Chinese",
     "country": "Malaysia",
     "regionalVariety": "Nationwide",
@@ -309,7 +309,7 @@
   {
     "name": "Mee Goreng Mamak",
     "imageName": "mee_goreng_mamak",
-    "imageUrl": "placeholder_url/mee_goreng_mamak.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//mee_goreng_mamak.png",
     "cuisine": "Malaysian Indian",
     "country": "Malaysia",
     "regionalVariety": "Mamaks Stall",
@@ -354,7 +354,7 @@
   {
     "name": "Kuih Ketayap (Pandan Crepe)",
     "imageName": "kuih_ketayap",
-    "imageUrl": "placeholder_url/kuih_ketayap.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//kuih_ketayap.png",
     "cuisine": "Malay",
     "country": "Malaysia",
     "regionalVariety": "Traditional Dessert (Kuih)",
@@ -392,7 +392,7 @@
   {
     "name": "Ikan Bakar (Grilled Fish)",
     "imageName": "ikan_bakar",
-    "imageUrl": "placeholder_url/ikan_bakar.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//ikan_bakar.png",
     "cuisine": "Malay/Coastal",
     "country": "Malaysia",
     "regionalVariety": "Coastal",
@@ -433,7 +433,7 @@
   {
     "name": "Ayam Percik",
     "imageName": "ayam_percik",
-    "imageUrl": "placeholder_url/ayam_percik.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//ayam_percik.png",
     "cuisine": "Malay",
     "country": "Malaysia",
     "regionalVariety": "Kelantan/East Coast",
@@ -473,7 +473,7 @@
   {
     "name": "Curry Mee / Curry Laksa (Penang)",
     "imageName": "curry_mee",
-    "imageUrl": "placeholder_url/curry_mee.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//curry_mee.png",
     "cuisine": "Malaysian Chinese/Nyonya",
     "country": "Malaysia",
     "regionalVariety": "Penang",
@@ -515,7 +515,7 @@
   {
     "name": "Pasembur / Indian Rojak",
     "imageName": "pasembur",
-    "imageUrl": "placeholder_url/pasembur.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//pasembur.png",
     "cuisine": "Malaysian Indian",
     "country": "Malaysia",
     "regionalVariety": "Penang",
@@ -555,7 +555,7 @@
   {
     "name": "Nasi Dagang",
     "imageName": "nasi_dagang",
-    "imageUrl": "placeholder_url/nasi_dagang.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//nasi_dagang.png",
     "cuisine": "Malay",
     "country": "Malaysia",
     "regionalVariety": "Terengganu/Kelantan",
@@ -595,7 +595,7 @@
   {
     "name": "Ais Kacang (ABC)",
     "imageName": "ais_kacang",
-    "imageUrl": "placeholder_url/ais_kacang.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//ais_kacang.png",
     "cuisine": "Malaysian Dessert",
     "country": "Malaysia",
     "regionalVariety": "Nationwide",
@@ -637,7 +637,7 @@
   {
     "name": "Cendol",
     "imageName": "cendol",
-    "imageUrl": "placeholder_url/cendol.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//cendol.png",
     "cuisine": "Malaysian Dessert",
     "country": "Malaysia",
     "regionalVariety": "Nationwide",
@@ -678,7 +678,7 @@
   {
     "name": "Telur Bistik (Fried Egg Steak)",
     "imageName": "telur_bistik",
-    "imageUrl": "placeholder_url/telur_bistik.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//telur_bistik.png",
     "cuisine": "Malaysian Indian",
     "country": "Malaysia",
     "regionalVariety": "Mamaks Stall",
@@ -720,7 +720,7 @@
   {
     "name": "Prawn Sambal (Sambal Udang)",
     "imageName": "prawn_sambal",
-    "imageUrl": "placeholder_url/prawn_sambal.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//prawn_sambal.png",
     "cuisine": "Malay",
     "country": "Malaysia",
     "regionalVariety": "Nationwide",
@@ -761,7 +761,7 @@
   {
     "name": "Popiah (Fresh Spring Rolls)",
     "imageName": "popiah",
-    "imageUrl": "placeholder_url/popiah.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//popiah.png",
     "cuisine": "Malaysian Chinese",
     "country": "Malaysia",
     "regionalVariety": "Nationwide",
@@ -803,7 +803,7 @@
   {
     "name": "Kaya Toast",
     "imageName": "kaya_toast",
-    "imageUrl": "placeholder_url/kaya_toast.png",
+    "imageUrl": "https://raw.githubusercontent.com/again2umm-cell/Aaj_kya_Banaau/images_countries/malaysia//kaya_toast.png",
     "cuisine": "Malaysian Breakfast",
     "country": "Malaysia",
     "regionalVariety": "Kopitiam",
