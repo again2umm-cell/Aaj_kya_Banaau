@@ -201,6 +201,72 @@
     "youtubeUrl": "",
     "history": "This recipe comes from the Tomb of Rekhmire (c. 1400 BC), where scenes depict the crushing, shaping, and preparation of tiger nut cakes. The original instructions are purely visual, leaving ingredients and method to interpretation. Tiger nuts were highly valued in Ancient Egypt\u2014counted by officials, used in sweets, and even boiled in beer to create a naturally sweet delicacy, as noted by Theophrastus. Though the exact ancient recipe is unknown, the book recreates a plausible version consistent with the depictions on Rekhmire\u2019s tomb walls."
   },
+
+  {
+    "name": "Epityrum (Roman Olive Relish)",
+    "imageName": "epityrum_roman_olive_relish",
+    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/images/epityrum_roman_olive_relish.png",
+    "cuisine": "Ancient",
+    "country": "Roman Empire",
+    "regionalVariety": "Italian Peninsula",
+    "isVegetarian": true,
+    "healthTags": [
+      "heart-healthy"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "mealType": "side-dish",
+    "difficulty": "easy",
+    "prepTime": "15",
+    "cookTime": 5,
+    "spiceLevel": "mild",
+    "servings": 6,
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "allergens": [],
+    "cookingMethod": "raw",
+    "specialDiet": [
+      "vegetarian"
+    ],
+    "occasionTags": [
+      "ancient",
+      "roman",
+      "relish"
+    ],
+    "storageType": "fridge-4-days",
+    "kidFriendly": true,
+    "ingredients": [
+      "1.5 tbsp finely chopped fresh cilantro",
+      "1.5 tbsp chopped fresh fennel leaf",
+      "1.5 tbsp chopped fresh mint",
+      "2 tsp chopped rue (fresh or dried)",
+      "1 tsp ground cumin",
+      "2 tbsp (30 ml) red wine vinegar",
+      "1/4 cup (60 ml) extra-virgin olive oil, plus more for drizzling",
+      "2 cups (300 g) pitted green and black olives",
+      "Mild goat cheese and bread (for serving)"
+    ],
+    "requiredIngredients": [
+      "olives",
+      "olive oil",
+      "vinegar",
+      "cilantro"
+    ],
+    "instructions": [
+      "Mix cilantro, fennel, mint, rue, and cumin in a small bowl.",
+      "Add vinegar and olive oil and mix well to form the dressing.",
+      "Rinse olives lightly under cool water and pat dry.",
+      "Finely chop or mash olives into desired texture.",
+      "Combine olives with the herb mixture and mix well.",
+      "Cover and let marinate overnight or for several days for deeper flavor.",
+      "Serve with bread and mild goat cheese, drizzled with olive oil."
+    ],
+    "youtubeUrl": "",
+    "history": "Epityrum is described by Cato the Elder in *De Agri Cultura* as a seasoned olive relish combining green, black, and mottled olives with herbs, oil, and vinegar. Olives were central to Roman and Greek cuisine, but this preparation highlights the fruit itself rather than just the oil. According to Greek mythology, olives were a gift from the goddess Athena, whose tree grew atop the Acropolis. They were considered sacred, and harming an olive tree could lead to trial. The story of Athena\u2019s olive defeating Poseidon's saltwater spring symbolizes wisdom prevailing over brute force\u2014an appropriate context for this refined yet simple relish."
+  },
   {
     "name": "Kykeon (Ancient Greek Ritual Drink)",
     "imageName": "kykeon_greece",
@@ -321,71 +387,7 @@
     "youtubeUrl": "",
     "history": "Melas Zomos, the infamous Spartan Black Broth, is described by ancient writers Plutarch and Athenaeus as the daily staple of Spartan warriors. This dark soup was made from pork, its blood, and vinegar. It was served at the communal military mess halls, the syssitia, where Spartans ate simple, austere meals. Outsiders often mocked the broth\u2014Athenaeus recounts a Sybarite who tasted it and claimed it explained why Spartans were unafraid of death. Despite its reputation, the dish reflects Spartan values: discipline, equality among warriors, and a rejection of luxury. Its stark simplicity symbolized the harsh training and lifestyle of the Spartan people."
   },
-  {
-    "name": "Epityrum (Roman Olive Relish)",
-    "imageName": "epityrum_roman_olive_relish",
-    "imageUrl": "https://again2umm-cell.github.io/Aaj_kya_Banaau/ancient/images/epityrum_roman_olive_relish.png",
-    "cuisine": "Ancient",
-    "country": "Roman Empire",
-    "regionalVariety": "Italian Peninsula",
-    "isVegetarian": true,
-    "healthTags": [
-      "heart-healthy"
-    ],
-    "dietaryTags": [
-      "vegetarian"
-    ],
-    "mealType": "side-dish",
-    "difficulty": "easy",
-    "prepTime": "15",
-    "cookTime": 5,
-    "spiceLevel": "mild",
-    "servings": 6,
-    "calories": 0,
-    "protein": 0,
-    "carbs": 0,
-    "fat": 0,
-    "allergens": [],
-    "cookingMethod": "raw",
-    "specialDiet": [
-      "vegetarian"
-    ],
-    "occasionTags": [
-      "ancient",
-      "roman",
-      "relish"
-    ],
-    "storageType": "fridge-4-days",
-    "kidFriendly": true,
-    "ingredients": [
-      "1.5 tbsp finely chopped fresh cilantro",
-      "1.5 tbsp chopped fresh fennel leaf",
-      "1.5 tbsp chopped fresh mint",
-      "2 tsp chopped rue (fresh or dried)",
-      "1 tsp ground cumin",
-      "2 tbsp (30 ml) red wine vinegar",
-      "1/4 cup (60 ml) extra-virgin olive oil, plus more for drizzling",
-      "2 cups (300 g) pitted green and black olives",
-      "Mild goat cheese and bread (for serving)"
-    ],
-    "requiredIngredients": [
-      "olives",
-      "olive oil",
-      "vinegar",
-      "cilantro"
-    ],
-    "instructions": [
-      "Mix cilantro, fennel, mint, rue, and cumin in a small bowl.",
-      "Add vinegar and olive oil and mix well to form the dressing.",
-      "Rinse olives lightly under cool water and pat dry.",
-      "Finely chop or mash olives into desired texture.",
-      "Combine olives with the herb mixture and mix well.",
-      "Cover and let marinate overnight or for several days for deeper flavor.",
-      "Serve with bread and mild goat cheese, drizzled with olive oil."
-    ],
-    "youtubeUrl": "",
-    "history": "Epityrum is described by Cato the Elder in *De Agri Cultura* as a seasoned olive relish combining green, black, and mottled olives with herbs, oil, and vinegar. Olives were central to Roman and Greek cuisine, but this preparation highlights the fruit itself rather than just the oil. According to Greek mythology, olives were a gift from the goddess Athena, whose tree grew atop the Acropolis. They were considered sacred, and harming an olive tree could lead to trial. The story of Athena\u2019s olive defeating Poseidon's saltwater spring symbolizes wisdom prevailing over brute force\u2014an appropriate context for this refined yet simple relish."
-  },
+  
   {
     "name": "Globi (Roman Cheese & Spelt Honey Balls)",
     "imageName": "globi_roman_cheese_spelt",
