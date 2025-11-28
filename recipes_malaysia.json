@@ -1267,7 +1267,7 @@
     "servings": 4,
     "calories": 580,
     "protein": 25,
-    "carbs": <td>75</td>,
+    "carbs": 75,
     "fat": 18,
     "allergens": ["fish", "coconut"],
     "cookingMethod": "steaming-assembly",
