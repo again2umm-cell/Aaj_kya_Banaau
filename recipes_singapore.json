@@ -1209,13 +1209,13 @@
     ],
     "requiredIngredients": ["spring roll wrappers", "popiah filling (cooked)", "oil for frying"],
     "instructions": [
-      "Prepare the Filling: Ensure the Popiah filling (typically braised jicama, carrots, etc.) is fully cooked, drained of excess liquid, and completely cool. Adding warm or wet filling will result in a soggy spring roll.",
-      "Assemble the Rolls: Lay a spring roll wrapper flat with a corner pointing towards you. Place 2-3 spoonfuls of the cooled filling near the bottom corner. Fold the bottom corner up over the filling, then fold the left and right corners inward, creating an envelope shape.",
-      "Roll and Seal: Roll the wrapper tightly upwards toward the final corner. Brush the final corner edge with the beaten egg wash to seal the roll tightly. Repeat for all wrappers.",
-      "Deep Fry: Heat the vegetable oil in a deep pot or wok to $180^\circ\text{C}$ ($350^\circ\text{F}$). Carefully lower the spring rolls into the hot oil in batches, ensuring not to overcrowd the wok.",
-      "Finish: Fry for 4-6 minutes, turning occasionally, until the wrappers are crispy and uniformly golden brown. Remove the rolls and drain them immediately on a wire rack or paper towels.",
-      "Serve: Serve hot with a side of sweet chili sauce or plum sauce. Cut the rolls diagonally before serving to show the filling."
-    ]
+    "Prepare the Filling: Ensure the Popiah filling (typically braised jicama, carrots, etc.) is fully cooked, drained of excess liquid, and completely cool. Adding warm or wet filling will result in a soggy spring roll.",
+    "Assemble the Rolls: Lay a spring roll wrapper flat with a corner pointing towards you. Place 2-3 spoonfuls of the cooled filling near the bottom corner. Fold the bottom corner up over the filling, then fold the left and right corners inward, creating an envelope shape.",
+    "Roll and Seal: Roll the wrapper tightly upwards toward the final corner. Brush the final corner edge with the beaten egg wash to seal the roll tightly. Repeat for all wrappers.",
+    "Deep Fry: Heat the vegetable oil in a deep pot or wok to 180°C (350°F). Carefully lower the spring rolls into the hot oil in batches, ensuring not to overcrowd the wok.",
+    "Finish: Fry for 4-6 minutes, turning occasionally, until the wrappers are crispy and uniformly golden brown. Remove the rolls and drain them immediately on a wire rack or paper towels.",
+    "Serve: Serve hot with a side of sweet chili sauce or plum sauce. Cut the rolls diagonally before serving to show the filling."
+  ]
   },
   {
     "name": "Ngo Hiang (Five-Spice Meat Rolls)",
@@ -1260,13 +1260,13 @@
     ],
     "requiredIngredients": ["ground pork", "five-spice powder", "bean curd skin", "water chestnuts"],
     "instructions": [
-      "Prepare the Filling: In a large bowl, combine the ground pork, chopped water chestnuts, shredded carrots, minced shallots, soy sauce, sesame oil, rice wine, five-spice powder, salt, pepper, and the beaten egg. Mix well by hand until the mixture is sticky and well combined.",
-      "Prepare the Skin: Soak the dried bean curd skin in warm water for 5 minutes until pliable. Drain and pat dry. Cut the skin into large rectangles (approx. 10x15 cm) suitable for rolling.",
-      "Roll the Ngo Hiang: Place a portion of the meat mixture along one end of the bean curd skin rectangle. Fold the sides inward, then roll up tightly like a thick sausage. Use a bit of cornstarch slurry or water to seal the edge. Repeat until all meat is used.",
-      "Steam: Steam the rolls for 15-20 minutes until the meat filling is cooked through. Cool the rolls completely. (This step helps the rolls hold their shape when frying).",
-      "Deep Fry: Heat the vegetable oil in a wok or deep pan to $170^\circ\text{C}$ ($340^\circ\text{F}$). Fry the steamed rolls in batches for 5-7 minutes, turning frequently, until they are golden brown and crispy. Remove and drain.",
-      "Serve: Slice the rolls diagonally into thick pieces. Serve immediately with a side of sweet sauce or chilli sauce."
-    ]
+  "Prepare the Filling: In a large bowl, combine the ground pork, chopped water chestnuts, shredded carrots, minced shallots, soy sauce, sesame oil, rice wine, five-spice powder, salt, pepper, and the beaten egg. Mix well by hand until the mixture is sticky and well combined.",
+  "Prepare the Skin: Soak the dried bean curd skin in warm water for 5 minutes until pliable. Drain and pat dry. Cut the skin into large rectangles (approx. 10x15 cm) suitable for rolling.",
+  "Roll the Ngo Hiang: Place a portion of the meat mixture along one end of the bean curd skin rectangle. Fold the sides inward, then roll up tightly like a thick sausage. Use a bit of cornstarch slurry or water to seal the edge. Repeat until all meat is used.",
+  "Steam: Steam the rolls for 15-20 minutes until the meat filling is cooked through. Cool the rolls completely. (This step helps the rolls hold their shape when frying).",
+  "Deep Fry: Heat the vegetable oil in a wok or deep pan to 170°C (340°F). Fry the steamed rolls in batches for 5-7 minutes, turning frequently, until they are golden brown and crispy. Remove and drain.",
+  "Serve: Slice the rolls diagonally into thick pieces. Serve immediately with a side of sweet sauce or chilli sauce."
+]
   },
   {
     "name": "Curry Puff",
@@ -1310,12 +1310,12 @@
     ],
     "requiredIngredients": ["curry powder", "potatoes", "pastry/flour", "onion"],
     "instructions": [
-      "Make the Filling: Sauté the diced onion in oil until soft. Add the chicken/meat and cook until browned. Stir in the curry powder and cook for 1 minute until fragrant. Add the diced, cooked potato, water/stock, salt, and sugar. Simmer for 5-7 minutes until the liquid reduces and the filling is thick and dry. Cool completely.",
-      "Make the Pastry: In a bowl, cut the cold butter/margarine into the flour and salt until it resembles coarse crumbs. Gradually add iced water to form a soft dough. Knead briefly, wrap, and chill for 30 minutes.",
-      "Assemble the Puffs: Roll out the chilled dough thinly. Use a round cutter (approx 10-12 cm diameter) to cut out circles. Place a spoonful of the cool filling slightly off-center on each circle.",
-      "Seal and Crimp: Fold the dough over the filling to form a semi-circle. Crimp the edges tightly using your fingers or a fork to seal (or use a classic spiral twist crimping technique).",
-      "Cook: Deep-fry the puffs in oil at $170^\circ\text{C}$ ($340^\circ\text{F}$) for 5-7 minutes until golden brown and flaky. Alternatively, bake at $180^\circ\text{C}$ ($350^\circ\text{F}$) for 20-25 minutes. Serve warm."
-    ]
+  "Make the Filling: Sauté the diced onion in oil until soft. Add the chicken/meat and cook until browned. Stir in the curry powder and cook for 1 minute until fragrant. Add the diced, cooked potato, water/stock, salt, and sugar. Simmer for 5-7 minutes until the liquid reduces and the filling is thick and dry. Cool completely.",
+  "Make the Pastry: In a bowl, cut the cold butter/margarine into the flour and salt until it resembles coarse crumbs. Gradually add iced water to form a soft dough. Knead briefly, wrap, and chill for 30 minutes.",
+  "Assemble the Puffs: Roll out the chilled dough thinly. Use a round cutter (approx 10-12 cm diameter) to cut out circles. Place a spoonful of the cool filling slightly off-center on each circle.",
+  "Seal and Crimp: Fold the dough over the filling to form a semi-circle. Crimp the edges tightly using your fingers or a fork to seal (or use a classic spiral twist crimping technique).",
+  "Cook: Deep-fry the puffs in oil at 170°C (340°F) for 5-7 minutes until golden brown and flaky. Alternatively, bake at 180°C (350°F) for 20-25 minutes. Serve warm."
+]
   },
   {
     "name": "Tau Huay (Soya Beancurd)",
@@ -1356,13 +1356,13 @@
     ],
     "requiredIngredients": ["soy milk", "setting agent (e.g., gypsum)", "sugar"],
     "instructions": [
-      "Prepare the Syrups: Combine sugar, water, and pandan leaves in a saucepan. Bring to a boil, stirring until the sugar dissolves. Simmer briefly until slightly thick. Remove pandan leaves and cool the syrup completely.",
-      "Prepare the Setting Agent: Mix the gypsum powder and cornstarch in a large, heatproof serving bowl. Add 3 tbsp of water and stir until fully dissolved. Do not disturb the bowl afterward.",
-      "Heat Soy Milk: Heat the fresh soy milk in a pot over medium heat. Do not let it boil vigorously. Stir constantly to prevent skin formation. Bring it to just below boiling point ($85^\circ\text{C}$ - $90^\circ\text{C}$).",
-      "Pour and Set (Critical Step): Remove the soy milk from the heat. Pour the hot soy milk quickly but smoothly and in a single stream from a medium height into the bowl containing the setting agent mixture. **DO NOT STIR OR SHAKE** after pouring.",
-      "Allow to Set: Cover the bowl and let it sit undisturbed at room temperature for 45-60 minutes, or until the mixture sets into a smooth, silky custard. Chill if desired.",
-      "Serve: To serve, use a large, shallow spoon to scoop thin, delicate layers of the set beancurd into individual bowls. Ladle the cool sugar syrup over the top."
-    ]
+  "Prepare the Syrups: Combine sugar, water, and pandan leaves in a saucepan. Bring to a boil, stirring until the sugar dissolves. Simmer briefly until slightly thick. Remove pandan leaves and cool the syrup completely.",
+  "Prepare the Setting Agent: Mix the gypsum powder and cornstarch in a large, heatproof serving bowl. Add 3 tbsp of water and stir until fully dissolved. Do not disturb the bowl afterward.",
+  "Heat Soy Milk: Heat the fresh soy milk in a pot over medium heat. Do not let it boil vigorously. Stir constantly to prevent skin formation. Bring it to just below boiling point (85°C - 90°C).",
+  "Pour and Set (Critical Step): Remove the soy milk from the heat. Pour the hot soy milk quickly but smoothly and in a single stream from a medium height into the bowl containing the setting agent mixture. **DO NOT STIR OR SHAKE** after pouring.",
+  "Allow to Set: Cover the bowl and let it sit undisturbed at room temperature for 45-60 minutes, or until the mixture sets into a smooth, silky custard. Chill if desired.",
+  "Serve: To serve, use a large, shallow spoon to scoop thin, delicate layers of the set beancurd into individual bowls. Ladle the cool sugar syrup over the top."
+]
   },
   {
     "name": "Mee Siam (Siamese Noodle)",
@@ -2470,11 +2470,11 @@
     ],
     "requiredIngredients": ["kueh pie tee mold", "jicama/turnip", "rice/plain flour", "tau cheo"],
     "instructions": [
-      "Make the Filling: Sauté garlic and *Tau Cheo* (fermented soybean paste) in oil. Add the shredded jicama and carrots. Add shrimp stock, sugar, and salt. Cover and simmer gently for 45-60 minutes until the vegetables are very soft and the liquid is mostly reduced. Keep warm.",
-      "Make the Shells: Whisk the rice flour, plain flour, egg, water, and salt until a smooth, thin batter forms. Heat 3 inches of oil in a pot to $180^\circ\text{C}$ ($350^\circ\text{F}$). Place the *Kueh Pie Tee* mold in the hot oil to heat for 5 minutes.",
-      "Fry the Shells: Dip the hot mold into the batter (but not over the top edge). Plunge the mold back into the hot oil. The batter should cook instantly and slip off the mold as a crispy cup. Fry until golden. Remove and drain on paper towels. Reheat mold before dipping again.",
-      "Assemble: Spoon the warm jicama filling into the crispy cups. Top with a cooked small prawn, a sprinkle of chopped coriander, and a dab of chilli sauce. Serve immediately."
-    ]
+  "Make the Filling: Sauté garlic and *Tau Cheo* (fermented soybean paste) in oil. Add the shredded jicama and carrots. Add shrimp stock, sugar, and salt. Cover and simmer gently for 45-60 minutes until the vegetables are very soft and the liquid is mostly reduced. Keep warm.",
+  "Make the Shells: Whisk the rice flour, plain flour, egg, water, and salt until a smooth, thin batter forms. Heat 3 inches of oil in a pot to 180°C (350°F). Place the *Kueh Pie Tee* mold in the hot oil to heat for 5 minutes.",
+  "Fry the Shells: Dip the hot mold into the batter (but not over the top edge). Plunge the mold back into the hot oil. The batter should cook instantly and slip off the mold as a crispy cup. Fry until golden. Remove and drain on paper towels. Reheat mold before dipping again.",
+  "Assemble: Spoon the warm jicama filling into the crispy cups. Top with a cooked small prawn, a sprinkle of chopped coriander, and a dab of chilli sauce. Serve immediately."
+]
   },
   {
     "name": "Peranakan Chap Chye (Mixed Vegetables)",
